@@ -16,8 +16,8 @@
 
   <style type="text/css">
     html, body {
-        max-width: 100%;
-        overflow-x: hidden;
+      max-width: 100%;
+      overflow-x: hidden;
     }
 
     body {
@@ -42,6 +42,7 @@
       padding-left: 12px;
       z-index: 5000;
     }
+
     #title {
       font-family: 'Montserrat', sans-serif;
       font-size: 28px;
@@ -68,6 +69,10 @@
       margin-top: 0px;
     }
 
+    #imgUrl {
+      margin-bottom: 0.5rem;
+    }
+
     #submitButton {
       margin-top: 10px;
     }
@@ -83,7 +88,7 @@
     .ta {
       font-family: monospace;
       resize:vertical;
-      height: 200px;
+      height: 175px;
       margin-bottom: 0px;
     }
 
@@ -261,6 +266,10 @@
     imgUrl.value = '';
     imgOut.style.display = "none";
     hashquery.del('img');
+  }
+
+  document.getElementById('submitButton').onclick = function() {
+    submitGithub();
   }
 
   function populateGrid(raw) {
@@ -599,22 +608,24 @@
   }
 
   function submitGithub() {
-    // body <- paste0(desc, "\n\n",
-    //   "[[Note: To help streamline the process of adding this grid, ",
-    //   "please replace this text with an image of a map for the region for reference. ",
-    //   "Please check the ISO_3166-2 (https://en.wikipedia.org/wiki/ISO_3166-2) ",
-    //   "codes if your grid uses countries or states/provinces. Finally, if you can ",
-    //   "provide an example of your grid in action with a data set and sample code, ",
-    //   "that would be great but is not required.]]",
-    //   "\n\nGrid data:\n\n```\n", dat_txt, "\n```\n\n")
+    var body = [
+      "[[Note: Please edit the title above and provide a description of the grid here.",
+      "Also check the ISO_3166-2 (https://en.wikipedia.org/wiki/ISO_3166-2) ",
+      "codes if your grid uses countries or states/provinces. Finally, if you can ",
+      "provide an example of your grid in action with a data set and sample code, ",
+      "that would be great but is not required. Remove this text before submitting.]]",
+      "\n\nGrid data:\n\n```",
+      csvData.value,
+      "```\n\n"
+    ];
 
-    // url <- sprintf(
-    //   "https://github.com/hafen/geofacet/issues/new?title=new grid: '%s'&body=%s",
-    //   name,
-    //   body
-    // )
+    if (imgUrl.value !== "") {
+      body.push("![map](" + imgUrl.value + ")\n");
+    }
 
-    // encodeURI
+    var url = "https://github.com/hafen/geofacet/issues/new?title=new grid&body=" + body.join('\n');
+
+    window.open(encodeURI(url));
   }
 
   function checkLastRow() {

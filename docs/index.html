@@ -171,6 +171,14 @@
       margin: 3px;
       display: none;
     }
+    #from {
+      box-sizing: border-box;
+      background: lightgray;
+      opacity: 0.5;
+      position: absolute;
+      margin: 3px;
+      display: none;
+    }
   </style>
   <style type="text/css" data-gs-style-id="gridstack-style-32328"></style>
 </head>
@@ -212,6 +220,7 @@
       <div class="column">
         <div id="drag-container">
           <div id="closest"></div>
+          <div id="from"></div>
         </div>
       </div>
     </div>
@@ -225,6 +234,7 @@
   <script type="text/javascript">
 
   var closest = document.getElementById('closest');
+  var fromBox = document.getElementById('from');
   var container = document.getElementById("drag-container");
   var columnIndex;
 
@@ -368,6 +378,8 @@
 
     closest.style.width = (width - 6) + "px";
     closest.style.height = (width - 6) + "px";
+    fromBox.style.width = (width - 6) + "px";
+    fromBox.style.height = (width - 6) + "px";
 
     for (var i = 0, len = data.length; i < len; i++ ) {
       addDraggie(data[i])
@@ -420,6 +432,9 @@
     draggie.data = data;
     draggie.on('dragStart', function(event, pointer) {
       closest.style.display = "block";
+      fromBox.style.display = "block";
+      fromBox.style.top = this.data.row * width + "px";
+      fromBox.style.left = this.data.col * width + "px";
       // have to do this to avoid annoying transition coming back on after dragEnd
       for (var i = 0; i < draggies.length; i++) {
         draggies[i].element.style.transition = "top 0.1s linear";
@@ -467,6 +482,7 @@
 
     draggie.on('dragEnd', function(event, pointer) {
       closest.style.display = "none";
+      fromBox.style.display = "none";
       setCurrentPos(this.position.x, this.position.y);
       this.element.style.top = curPos.row * width + "px";
       this.element.style.left = curPos.col * width + "px";
@@ -531,6 +547,8 @@
     }
     closest.style.width = (width - 6) + "px";
     closest.style.height = (width - 6) + "px";
+    fromBox.style.width = (width - 6) + "px";
+    fromBox.style.height = (width - 6) + "px";
   }
 
   function displace(el) {

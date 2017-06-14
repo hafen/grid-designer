@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Interactively create a geographical grid",
   "scripts": {
-    "build": "cp node_modules/lodash/lodash.min.js build/assets/; cp node_modules/draggabilly/dist/draggabilly.pkgd.min.js build/assets/; cp node_modules/d3-dsv/build/d3-dsv.min.js build/assets/; cp node_modules/hashquery/hashquery.iife.js build/assets/; cp node_modules/milligram/dist/milligram.min.css build/assets/;"
+    "build": "cp node_modules/lodash/lodash.min.js docs/assets/; cp node_modules/draggabilly/dist/draggabilly.pkgd.min.js docs/assets/; cp node_modules/d3-dsv/build/d3-dsv.min.js docs/assets/; cp node_modules/hashquery/hashquery.iife.js docs/assets/; cp node_modules/milligram/dist/milligram.min.css docs/assets/;"
   },
   "dependencies": {
     "d3-dsv": "^1.0.5",

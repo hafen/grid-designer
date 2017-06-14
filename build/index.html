@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Geo Grid Designer</title>
+
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
+  <script type="text/javascript" src="assets/lodash.min.js"></script>
+  <script type="text/javascript" src="assets/draggabilly.pkgd.min.js"></script>
+  <script type="text/javascript" src="assets/d3-dsv.min.js"></script>
+  <script type="text/javascript" src="assets/hashquery.iife.js"></script>
+  <link rel="stylesheet" href="assets/milligram.min.css" />
+
+  <style type="text/css">
+    body {
+      font-family: sans-serif;
+      margin: 0px;
+    }
+
+    #header {
+      width:100%;
+      position:fixed;
+      top:0px;
+      height: 50px;
+      /*background: white;*/
+      background: #f4f5f6;
+      /*background: #9b4dca;*/
+      opacity: 0.9;
+      border-bottom: 1px solid #d1d1d1;
+      /*color: #9b4dca;*/
+      /*color: white;*/
+      color: black;
+      padding-top: 3px;
+      padding-left: 12px;
+      z-index: 5000;
+    }
+    #title {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 28px;
+    }
+
+    #main {
+      padding-top: 60px;
+      margin: 5px;
+    }
+
+    #sidebar {
+      min-width: 300px;
+      width: 300px;
+      display: table-cell;
+    }
+
+    label {
+      font-weight: 400;
+    }
+
+    pre {
+      overflow-x: auto;
+      width: 276px;
+      margin-top: 0px;
+    }
+
+    #submitButton {
+      margin-top: 10px;
+    }
+
+    .full-width-button {
+      width: 276px;
+    }
+
+    .half-width-button {
+      width: 135px;
+    }
+
+    .ta {
+      font-family: monospace;
+      resize:vertical;
+      height: 200px;
+      margin-bottom: 0px;
+    }
+
+    .error {
+      background-color: #ffe6e6;
+      border: 1px solid #ffb3b3;
+      color: red;
+      padding: 4px;
+      font-size: 15px;
+      line-height: 20px;
+      position: relative;
+      display: none;
+      margin-bottom: 10px;
+    }
+
+    .errorClose {
+      position: absolute;
+      right: 7px;
+      bottom: 0;
+      cursor: pointer;
+    }
+
+    #drag-container {
+      /*background-image: linear-gradient(to right, #efefef 3px, transparent 3px), linear-gradient(to bottom, #dedede 1px, transparent 1px);*/
+      /*border: 3px solid gray;*/
+      position: relative;
+    }
+
+    .draggable {
+      margin: 3px;
+      background: #4dca9b;
+      /*border-radius: 5px;*/
+      position: absolute;
+      box-sizing: border-box;
+      padding-left: 8px;
+      padding-top: 6px;
+      color: white;
+      cursor: default;
+      /*white-space: nowrap;*/
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-weight: 600;
+      /*box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.4);*/
+    }
+    .draggable.is-pointer-down {
+      background: #88dcbc;
+      transition: none;
+    }
+    .draggable.is-dragging {
+      opacity: 0.7;
+      transition: none;
+    }
+    #closest {
+      box-sizing: border-box;
+      background: none;
+      /*border-radius: 5px;*/
+      border: 2px dashed #9a9a9a;
+      position: absolute;
+      margin: 3px;
+      display: none;
+    }
+  </style>
+  <style type="text/css" data-gs-style-id="gridstack-style-32328"></style>
+</head>
+
+<body style="cursor: auto;">
+    <div id="header">
+      <div id="title">Geo Grid Designer</div>
+    </div>
+    <div class="row" id="main">
+      <div class="column" id="sidebar">
+        <div id="input">
+          <form>
+            <fieldset>
+              <label for="csvData">Grid Data (csv)</label>
+              <textarea id="csvData" class="ta" placeholder="Enter csv text here with a header. It can simply be a list of geographic entity names or abbreviations. If you include columns 'row' and 'col' as positive integers, these will be used as the initial grid positions. You can add and delete rows and the edits will take effect when you press the 'Populate Grid' button. As you interactively arrange the tiles to the right by dragging them, the row and column positions will be updated here."></textarea>
+              <a class="button full-width-button" id="gridButton">Populate Grid</a>
+              <div class="error" id="gridError"></div>
+              <label>Add / Remove Grid Columns</label>
+              <a class="button button-outline half-width-button" id="colAdd">Add</a>
+              <a class="button button-outline half-width-button" id="colRem">Remove</a>
+              <div class="error" id="removeError">
+                The rightmost column must be empty before it can be removed. Please rearrange and try again.
+                <div class="errorClose" id="removeErrorClose">✖</div>
+              </div>
+              <label for="imgUrl">Reference Map Image URL</label>
+              <input type="text" placeholder="Paste URL to reference map here" id="imgUrl">
+              <div>
+                <img id="imgOut" style="display:none;" />
+              </div>
+              <a class="button full-width-button" id="submitButton">Submit Grid to GitHub</a>
+              <label for="imgUrl">R Code for Use with <a href="https://github.com/hafen/geofacet" target="_blank">geofacet</a></label>
+              <div>
+                <pre><code id="RCode"></code></pre>
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+      <div class="column">
+        <div id="drag-container">
+          <div id="closest"></div>
+        </div>
+      </div>
+    </div>
+
+  <script type="text/javascript">
+
+  var closest = document.getElementById('closest');
+  var container = document.getElementById("drag-container");
+  var columnIndex;
+
+  container.style.width = window.innerWidth - 320 + "px";
+  container.style.height = window.innerHeight - 20 + "px";
+
+  var data, dNames, dNames2, width, cols, rows;
+  var draggies = [];
+  var curPos = { row: 0, col:0 };
+
+  var gridError = document.getElementById('gridError');
+
+  var csvData = document.getElementById('csvData');
+  var RCode = document.getElementById('RCode');
+
+  var csvPar = hashquery.get('data');
+  if (csvPar !== '' && csvPar !== undefined) {
+    csvData.value = csvPar;
+    readCsv();
+  }
+
+  var popButton = document.getElementById('gridButton');
+  popButton.onclick = function() {
+    for (var i = 0; i < draggies.length; i++) {
+      var el = draggies[i].element;
+      el.parentNode.removeChild(el);
+      draggies[i].destroy();
+    }
+    draggies = [];
+    readCsv();
+  }
+
+  var colAdd = document.getElementById('colAdd');
+  colAdd.onclick = function() {
+    addColumn();
+  }
+
+  var colRem = document.getElementById('colRem');
+  colRem.onclick = function() {
+    removeColumn();
+  }
+  var removeErrorClose = document.getElementById('removeErrorClose');
+  removeErrorClose.onclick = function() {
+    document.getElementById('removeError').style.display = 'none';
+  }
+
+  var imgUrl = document.getElementById('imgUrl');
+  var imgOut = document.getElementById('imgOut');
+  imgUrl.onkeyup = function() {
+    if (this.value === "") {
+      imgOut.style.display = "none";
+      hashquery.del('img');
+    } else {
+      imgOut.style.display = "block";
+      imgOut.src = this.value;
+      hashquery.set('img', this.value);
+    }
+  }
+
+  var imgPar = hashquery.get('img');
+  if (imgPar !== '' && imgPar !== undefined) {
+    imgUrl.value = imgPar;
+    imgOut.style.display = "block";
+    imgOut.src = imgPar;
+  } else {
+    imgUrl.value = '';
+    imgOut.style.display = "none";
+    hashquery.del('img');
+  }
+
+  function populateGrid(raw) {
+    data = d3.csvParse(raw);
+    dNames = data.columns;
+
+    if (dNames.indexOf("row") < 0 && dNames.indexOf("col") < 0) {
+      // row and col are not in data so populate them
+      getBoxWidth();
+      cols = Math.floor(container.clientWidth / width);
+      rows = Math.ceil(data.length / cols);
+      for (var i = 0, len = data.length; i < len; i++ ) {
+        var curRow = Math.floor(i / cols);
+        var curCol = i - (curRow * cols);
+        data[i].row = curRow;
+        data[i].col = curCol;
+      }
+      dNames[dNames.length] = "row";
+      dNames[dNames.length] = "col";
+
+      gridError.style.display = 'none';
+      document.getElementById('drag-container').style.visibility = 'visible';
+    } else {
+      // get number of rows and columns and set width
+      nanFlag = false;
+      for (var i = 0; i < data.length; i++) {
+        data[i].row = parseInt(data[i].row) - 1;
+        data[i].col = parseInt(data[i].col) - 1;
+        if (isNaN(data[i].row) || isNaN(data[i].col)) {
+          nanFlag = true;
+        }
+      }
+
+      // make sure row/col is unique...
+      var tab = _.countBy(data, function(x) { return (x.row + 1) + "," + (x.col + 1); });
+      var tabv = _.values(tab);
+      var dups = _.filter(_.keys(tab), function(o, i) { return tabv[i] > 1; })
+
+      var minRow = _.minBy(data, 'row').row;
+      var minCol = _.minBy(data, 'col').col;
+
+      if (dups.length > 0) {
+        gridError.style.display = 'block';
+        gridError.innerHTML = 'There are duplicates of the following (row,col) indices: (' + dups.join("), (") + '). Please correct this by editing the csv above and repopulate.';
+        document.getElementById('drag-container').style.visibility = 'hidden';
+      } else if (minRow < 0 || minCol < 0) {
+        gridError.style.display = 'block';
+        gridError.innerHTML = 'All row and column indices must be positive. Please correct this by editing the csv above and repopulate.';
+        document.getElementById('drag-container').style.visibility = 'hidden';
+      } else if (nanFlag) {
+        gridError.style.display = 'block';
+        gridError.innerHTML = 'Some rows do not have a row and column specified. Please correct this by editing the csv above and repopulate.';
+        document.getElementById('drag-container').style.visibility = 'hidden';
+      } else {
+        gridError.style.display = 'none';
+        document.getElementById('drag-container').style.visibility = 'visible';
+      }
+
+      rows = _.maxBy(data, 'row').row + 1;
+      cols = _.maxBy(data, 'col').col + 1;
+
+      width = Math.floor(container.clientWidth / cols);
+    }
+
+    dNames2 = _.difference(dNames, ["row","col"]);
+
+    container.style.height = (rows + 1) * width + 6 + "px";
+    container.style.backgroundSize = width + "px " + width + "px";
+
+    closest.style.width = (width - 6) + "px";
+    closest.style.height = (width - 6) + "px";
+
+    for (var i = 0, len = data.length; i < len; i++ ) {
+      addDraggie(data[i])
+    }
+    setOutputCsv();
+    setRCode();
+
+    // sort draggies by row and build column index
+    // so we can keep track of what cells to shift down whe moving around
+    updateColumnIndex();
+  }
+
+  function updateColumnIndex() {
+    draggies = _.sortBy(draggies, function(o) { return o.data.row; });
+    columnIndex = new Array(cols);
+    for (var i = 0; i < cols; i++) {
+      columnIndex[i] = new Array();
+    }
+    for (var i = 0; i < draggies.length; i++) {
+      var curCol = draggies[i].data.col;
+      if (curCol < 0 || isNaN(curCol)) {
+        curCol = 0;
+      }
+      columnIndex[curCol].push(i);
+    }
+  }
+
+  function getFontSize(width) {
+    return Math.max(Math.min(width * 0.1, 25), 12) + "px";
+  }
+
+  function addDraggie(data) {
+    var div = document.createElement("div");
+    div.setAttribute('class', 'draggable');
+    div.style.width = (width - 6) + "px";
+    div.style.height = (width - 6) + "px";
+    div.style.top = data.row * width + "px";
+    div.style.left = data.col * width + "px";
+    div.style.fontSize = getFontSize(width);
+    var txt = dNames2.map(function(e) {
+      // return "<strong>" + e + ":</strong> " + data[e];
+      return data[e];
+    });
+    div.innerHTML = txt.join("<br />");
+    container.appendChild(div);
+
+    var draggie = new Draggabilly(div, {
+      containment: true
+    });
+    draggie.data = data;
+    draggie.on('dragStart', function(event, pointer) {
+      closest.style.display = "block";
+      // have to do this to avoid annoying transition coming back on after dragEnd
+      for (var i = 0; i < draggies.length; i++) {
+        draggies[i].element.style.transition = "top 0.1s linear";
+      }
+      // this.element.style.transition = "none";
+    })
+
+    draggie.on('dragMove', _.throttle(function(event, pointer) {
+      var prevPos = _.cloneDeep(curPos);
+      setCurrentPos(this.position.x, this.position.y);
+      // if we are changing columns, we need to move up
+      // grid cells that were displaced in previous column
+      // and move down grid cells in new column
+      if (prevPos.col !== curPos.col) {
+        for (var i = 0; i < columnIndex[prevPos.col].length; i++) {
+          var idx = columnIndex[prevPos.col][i];
+          if (draggies[idx].displaced === true) {
+            undisplace(draggies[idx]);
+          }
+        }
+      }
+      if (prevPos.row !== curPos.row) {
+        for (var i = 0; i < columnIndex[curPos.col].length; i++) {
+          var idx = columnIndex[curPos.col][i];
+          if (draggies[idx].displaced === true) {
+            undisplace(draggies[idx]);
+          }
+        }
+      }
+      // if there isn't anything at new position, no need to displace
+      var emptySpace = true;
+      for (var i = 0; i < columnIndex[curPos.col].length; i++) {
+        var idx = columnIndex[curPos.col][i];
+        if (draggies[idx].data.row === curPos.row) {
+          emptySpace = false;
+        }
+        if (draggies[idx].data.row >= curPos.row && !(this.data.row == curPos.row && this.data.col == curPos.col) && !emptySpace) {
+          displace(draggies[idx]);
+        }
+      }
+      // if we are changing rows, we need to
+      closest.style.top = curPos.row * width + "px"
+      closest.style.left = curPos.col * width + "px"
+    }, 50))
+
+    draggie.on('dragEnd', function(event, pointer) {
+      closest.style.display = "none";
+      setCurrentPos(this.position.x, this.position.y);
+      this.element.style.top = curPos.row * width + "px";
+      this.element.style.left = curPos.col * width + "px";
+      if (this.data.row !== curPos.row || this.data.col !== curPos.col) {
+        this.data.row = curPos.row;
+        this.data.col = curPos.col;
+        setOutputCsv();
+        setRCode();
+      }
+      // undisplace stuff...
+      for (var i = 0; i < draggies.length; i++) {
+        draggies[i].displaced = false;
+        draggies[i].element.style.transition = "none";
+      }
+      // update column indexes
+      updateColumnIndex();
+      // adjust the height of the grid container div
+      checkLastRow()
+    })
+
+    draggie.displaced = false;
+
+    draggies.push(draggie);
+  }
+
+  function getBoxWidth() {
+    var contWidth = container.clientWidth;
+    var contHeight = window.innerHeight - 20;
+    var n = data.length;
+
+    var px = Math.ceil(Math.sqrt(n * contWidth / contHeight));
+    var sx, sy;
+    if (Math.floor(px * contHeight / contWidth) * px < n)
+      sx = contHeight / Math.ceil(px * contHeight / contWidth);
+    else
+      sx = contWidth / px;
+    // var py = Math.ceil(Math.sqrt(n * contHeight / contWidth));
+    // if (Math.floor(py * contWidth / contHeight) * py < n)
+    //   sy = contWidth / Math.ceil(contWidth * py / contHeight);
+    // else
+    //   sy = contHeight / py;
+
+    // return Math.max(sx, sy);
+    width = sx;
+  }
+
+  function addColumn() {
+    cols = cols + 1;
+    width = Math.floor(container.clientWidth / cols)
+    updateCss();
+    columnIndex[columnIndex.length] = new Array();
+  }
+
+  function updateCss() {
+    for (var i = 0; i < draggies.length; i++) {
+      var div = draggies[i].element;
+      div.style.width = (width - 6) + "px";
+      div.style.height = (width - 6) + "px";
+      div.style.top = draggies[i].data.row * width + "px";
+      div.style.left = draggies[i].data.col * width + "px";
+      div.style.fontSize = getFontSize(width);
+    }
+    closest.style.width = (width - 6) + "px";
+    closest.style.height = (width - 6) + "px";
+  }
+
+  function displace(el) {
+    el.displaced = true;
+    el.data.row = el.data.row + 1
+    el.element.style.top = el.data.row * width + "px";
+  }
+
+  function undisplace(el) {
+    el.displaced = false;
+    el.data.row = el.data.row - 1
+    el.element.style.top = el.data.row * width + "px";
+  }
+
+  function removeColumn() {
+    var anyInMax = false;
+    for (var i = 0; i < draggies.length; i++) {
+      if (draggies[i].data.col === (cols - 1)) {
+        anyInMax = true;
+        break;
+      }
+    }
+    if (anyInMax) {
+      document.getElementById('removeError').style.display = 'block';
+    } else {
+      document.getElementById('removeError').style.display = 'none';
+      cols = cols - 1;
+      width = Math.floor(container.clientWidth / cols)
+      updateCss();
+    }
+  }
+
+  function setCurrentPos(x, y) {
+    var newX = Math.round(x / width);
+    var newY = Math.round(y / width);
+    if (newX != curPos.col || newY != curPos.row) {
+      curPos.col = newX;
+      curPos.row = newY;
+    }
+    if ((curPos.row + 1) >= rows) {
+      rows = curPos.row + 1;
+      container.style.height = (rows + 1) * width + 6 + "px";
+    }
+  }
+
+  function readCsv() {
+    var raw = csvData.value;
+    if (raw !== '') {
+      populateGrid(raw);
+    }
+    setOutputCsv();
+    setRCode();
+  }
+
+  function setOutputCsv() {
+    var header = dNames.join(',');
+    var res;
+    if (draggies.length === 0) {
+      res = '';
+    } else {
+      var txt = draggies.map(function(e) {
+        return dNames.map(function(nm) {
+          if (nm == "row" || nm == "col")
+            return e.data[nm] + 1;
+          return e.data[nm]
+        }).join(',');
+      });
+      res = header + '\n' + txt.join('\n');
+    }
+
+    csvData.value = res;
+    if (res === '') {
+      hashquery.del('data');
+    } else {
+      hashquery.set('data', res);
+    }
+  }
+
+  function setRCode() {
+    var code = 'mygrid <- data.frame(\n';
+    for (var i = 0; i < dNames.length; i++) {
+      var nm = dNames[i];
+      var vals = _.map(draggies, function(x) {
+        if (nm == 'row' || nm == 'col') {
+          return x.data[nm] + 1;
+        } else {
+          return x.data[nm];
+        }
+      })
+      if (typeof draggies[0].data[nm] === 'number') {
+        code = code + '  ' + nm + ' = c(' + vals.join(', ') + ')';
+      } else {
+        code = code + '  ' + nm + ' = c("' + vals.join('", "') + '")';
+      }
+      if (i < (dNames.length - 1)) {
+        code = code + ',';
+      }
+      code = code + '\n';
+    }
+    code = code + ')\ngeofacet::grid_preview(mygrid)'
+    RCode.innerHTML = code;
+  }
+
+  function submitGithub() {
+    // body <- paste0(desc, "\n\n",
+    //   "[[Note: To help streamline the process of adding this grid, ",
+    //   "please replace this text with an image of a map for the region for reference. ",
+    //   "Please check the ISO_3166-2 (https://en.wikipedia.org/wiki/ISO_3166-2) ",
+    //   "codes if your grid uses countries or states/provinces. Finally, if you can ",
+    //   "provide an example of your grid in action with a data set and sample code, ",
+    //   "that would be great but is not required.]]",
+    //   "\n\nGrid data:\n\n```\n", dat_txt, "\n```\n\n")
+
+    // url <- sprintf(
+    //   "https://github.com/hafen/geofacet/issues/new?title=new grid: '%s'&body=%s",
+    //   name,
+    //   body
+    // )
+
+    // encodeURI
+  }
+
+  function checkLastRow() {
+    rows = _.maxBy(draggies, function(o) { return o.data.row; }).data.row + 1;
+    container.style.height = (rows + 1) * width + 6 + "px";
+  }
+
+  window.addEventListener("resize", _.throttle(function() {
+    container.style.width = window.innerWidth - 320 + "px";
+    width = Math.floor(container.clientWidth / cols);
+    updateCss();
+  }, 50));
+  </script>
+</body>
+</html>
+

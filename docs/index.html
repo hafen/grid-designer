@@ -431,6 +431,7 @@
     });
     draggie.data = data;
     draggie.on('dragStart', function(event, pointer) {
+      this.element.style.zIndex = 1000;
       closest.style.display = "block";
       fromBox.style.display = "block";
       fromBox.style.top = this.data.row * width + "px";
@@ -481,6 +482,7 @@
     }, 50))
 
     draggie.on('dragEnd', function(event, pointer) {
+      this.element.style.zIndex = "";
       closest.style.display = "none";
       fromBox.style.display = "none";
       setCurrentPos(this.position.x, this.position.y);
@@ -584,7 +586,7 @@
   function setCurrentPos(x, y) {
     var newX = Math.round(x / width);
     var newY = Math.round(y / width);
-    if (newX != curPos.col || newY != curPos.row) {
+    if (newX !== curPos.col || newY !== curPos.row) {
       curPos.col = newX;
       curPos.row = newY;
     }

@@ -159,8 +159,9 @@
       transition: none;
     }
     .draggable.is-dragging {
-      opacity: 0.7;
+      opacity: 0.8;
       transition: none;
+      box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
     }
     #closest {
       box-sizing: border-box;
@@ -239,7 +240,7 @@
   var columnIndex;
 
   container.style.width = window.innerWidth - 320 + "px";
-  container.style.height = window.innerHeight - 20 + "px";
+  container.style.height = window.innerHeight - 120 + "px";
 
   var data, dNames, dNames2, width, cols, rows;
   var draggies = [];

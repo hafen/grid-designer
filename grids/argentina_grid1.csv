@@ -1,0 +1,27 @@
+code,code_short,name_es,col,row
+AR-B,B,Buenos Aires,3,5
+AR-C,C,Ciudad Autónoma de Buenos Aires,4,5
+AR-K,K,Catamarca,1,3
+AR-H,H,Chaco,3,3
+AR-U,U,Chubut,1,8
+AR-X,X,Córdoba,2,4
+AR-W,W,Corrientes,4,3
+AR-E,E,Entre Ríos,4,4
+AR-P,P,Formosa,3,2
+AR-Y,Y,Jujuy,1,1
+AR-L,L,La Pampa,2,6
+AR-F,F,La Rioja,1,4
+AR-M,M,Mendoza,1,6
+AR-N,N,Misiones,5,2
+AR-Q,Q,Neuquén,1,7
+AR-R,R,Río Negro,2,7
+AR-A,A,Salta,1,2
+AR-J,J,San Juan,1,5
+AR-D,D,San Luis,2,5
+AR-Z,Z,Santa Cruz,1,9
+AR-S,S,Santa Fe,3,4
+AR-G,G,Santiago del Estero,2,3
+AR-V,V,Tierra del Fuego,1,10
+AR-T,T,Tucumán,2,2
+FK,FK,Islas Malvinas,4,9
+AQ,AQ,Antártida Argentina,2,12

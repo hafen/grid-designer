@@ -1,0 +1,9 @@
+row,col,code,name
+2,1,WA,Western Australia
+1,2,NT,Northern Territory
+2,2,SA,South Australia
+1,3,QLD,Queensland
+2,3,NSW,New South Wales
+3,4,ACT,Australian Capital Territory
+3,3,VIC,Victoria
+5,3,TAS,Tasmania

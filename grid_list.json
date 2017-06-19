@@ -18,7 +18,7 @@
   "name": "aus_grid1",
   "desc": "Grid layout for the Australian States and Territories.",
   "contrib": "https://github.com/jonocarroll",
-  "img_ref": "https://cloud.githubusercontent.com/assets/9496865/26334627/75a729d2-3fa5-11e7-88af-a1dd86b7ddf3.png"
+  "ref_img": "https://cloud.githubusercontent.com/assets/9496865/26334627/75a729d2-3fa5-11e7-88af-a1dd86b7ddf3.png"
 },
 {
   "name": "sa_prov_grid1",

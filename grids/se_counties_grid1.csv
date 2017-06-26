@@ -1,0 +1,22 @@
+row,col,code,name
+1,3,BD,Norrbotten
+2,3,AC,Västerbotten
+3,3,Y,Västernorrland
+3,2,Z,Jämtland
+4,2,W,Dalarna
+4,3,X,Gävleborg
+5,4,C,Uppsala
+5,2,S,Värmland
+5,3,U,Västmanland
+6,4,AB,Stockholm
+6,3,D,Södermanland
+6,2,T,Örebro
+7,3,E,Östergötland
+7,2,O,Västra Götaland
+8,2,F,Jönköping
+8,3,H,Kalmar
+8,5,I,Gotland
+9,2,G,Kronoberg
+9,1,N,Halland
+10,2,K,Blekinge
+10,1,M,Skåne

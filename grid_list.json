@@ -35,7 +35,7 @@
 {
   "name": "nhs_scot_grid",
   "desc": "Grid layout for a grid of NHS Scotland Health Boards. Note that the column \\code{code} contains the \\href{http://geoportal.statistics.gov.uk/datasets/61dca36aa33e4aee99bbfa784fa9eb25_0?uiTab=table}{codes} used by UK Office for National Statistics.",
-  "contrib": "https://github.com/josephjosephadams.",
+  "contrib": "https://github.com/josephjosephadams",
   "ref_img": "https://cloud.githubusercontent.com/assets/24879214/26426113/253658d0-40cf-11e7-88b5-fe5ee7fda44f.png"
 },
 {
@@ -60,5 +60,58 @@
   "desc": "Grid for the 27 states of Brazil.",
   "contrib": "https://github.com/italocegatta",
   "ref_img": "https://camo.githubusercontent.com/477627dce2610f18f1bf3850cd32fca01610656e/687474703a2f2f63656a656475696e66616e74696c2e7062776f726b732e636f6d2f662f313435383034313938342f4d61706142726173696c5369676c61732e676966"
+},
+{
+  "name": "sea_grid1",
+  "desc": "Grid for South East Asian countries.",
+  "contrib": "https://github.com/jasonjb82",
+  "ref_img": "https://camo.githubusercontent.com/694a275db0e89984f347ce8b49221352416d2c48/68747470733a2f2f7669676e65747465322e77696b69612e6e6f636f6f6b69652e6e65742f757461752f696d616765732f382f38322f536f757468656173745f617369612e6a70672f7265766973696f6e2f6c61746573743f63623d3230313130313230303431383034"
+},
+{
+  "name": "mys_grid1",
+  "desc": "Grid for Malaysian states and territories.",
+  "contrib": "https://github.com/jasonjb82",
+  "ref_img": "https://camo.githubusercontent.com/cd22848f0b7b53d4ef7afc6d178a0e9579ecf2aa/68747470733a2f2f7777772e6d6170736f66776f726c642e636f6d2f6d616c61797369612f6d6170732f6d616c61797369612d706f6c69746963616c2d6d61702e6a7067"
+},
+{
+  "name": "fr_regions_grid1",
+  "desc": "Land and overseas regions of France. Codes are INSEE codes.",
+  "contrib": "https://github.com/mtmx",
+  "ref_img": "https://camo.githubusercontent.com/b526c357a4c30cdd2e90700c6559381348111377/687474703a2f2f7777772e6361727465736672616e63652e66722f6361727465732f67656f677261706869652f63617274652d726567696f6e732e6a7067"
+},
+{
+  "name": "de_states_grid1",
+  "desc": "Grid for the German states ('Länder')",
+  "contrib": "https://github.com/DominikVogel",
+  "ref_img": "https://camo.githubusercontent.com/e144ebb2bdd2d82d8a4c34908cd68ab2b2388425/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64332f5374617465735f6f665f4765726d616e792e737667"
+},
+{
+  "name": "or_counties_grid1",
+  "desc": "Grid for Oregon counties.",
+  "contrib": "https://github.com/aosmith16",
+  "ref_img": "https://user-images.githubusercontent.com/11638312/27445795-01b77804-5730-11e7-919b-36cde8027706.jpg"
+},
+{
+  "name": "wa_counties_grid1",
+  "desc": "Grid for Washington counties.",
+  "ref_img": "http://www.countymapsofwashington.com/aapics/washingstate.gif"
+},
+{
+  "name": "in_counties_grid1",
+  "desc": "Grid for Indiana counties.",
+  "contrib": "https://github.com/nateapathy",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Indiana_county_map.png/640px-Indiana_county_map.png"
+},
+{
+  "name": "se_counties_grid1",
+  "desc": "Grid for counties of Sweden.",
+  "contrib": "https://github.com/duleise",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SverigesL%C3%A4n2007mKod.svg/200px-SverigesL%C3%A4n2007mKod.svg.png"
+},
+{
+  "name": "in_central_counties_grid1",
+  "desc": "Gri for central Indiana counties.",
+  "contrib": "https://github.com/nateapathy",
+  "ref_img": "https://camo.githubusercontent.com/eb31e821890a0c600f59234fb184335c2bf84423/687474703a2f2f7777772e736176692e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f30322f6d61702d312e6a7067"
 }
 ]

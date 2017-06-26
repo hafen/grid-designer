@@ -103,15 +103,15 @@
   "ref_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Indiana_county_map.png/640px-Indiana_county_map.png"
 },
 {
+  "name": "in_central_counties_grid1",
+  "desc": "Grid for central Indiana counties.",
+  "contrib": "https://github.com/nateapathy",
+  "ref_img": "https://camo.githubusercontent.com/eb31e821890a0c600f59234fb184335c2bf84423/687474703a2f2f7777772e736176692e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f30322f6d61702d312e6a7067"
+},
+{
   "name": "se_counties_grid1",
   "desc": "Grid for counties of Sweden.",
   "contrib": "https://github.com/duleise",
-  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SverigesL%C3%A4n2007mKod.svg/200px-SverigesL%C3%A4n2007mKod.svg.png"
-},
-{
-  "name": "in_central_counties_grid1",
-  "desc": "Gri for central Indiana counties.",
-  "contrib": "https://github.com/nateapathy",
-  "ref_img": "https://camo.githubusercontent.com/eb31e821890a0c600f59234fb184335c2bf84423/687474703a2f2f7777772e736176692e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f30322f6d61702d312e6a7067"
+  "ref_img": "http://www.worldatlas.com/webimage/countrys/europe/lgcolor/secounties.gif"
 }
 ]

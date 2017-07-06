@@ -642,16 +642,13 @@
         }
       })
       if (typeof draggies[0].data[nm] === 'number') {
-        code = code + '  ' + nm + ' = c(' + vals.join(', ') + ')';
+        code = code + '  ' + nm + ' = c(' + vals.join(', ') + '),';
       } else {
-        code = code + '  ' + nm + ' = c("' + vals.join('", "') + '")';
-      }
-      if (i < (dNames.length - 1)) {
-        code = code + ',';
+        code = code + '  ' + nm + ' = c("' + vals.join('", "') + '"),';
       }
       code = code + '\n';
     }
-    code = code + ')\ngeofacet::grid_preview(mygrid)'
+    code = code + '  stringsAsFactors = FALSE\n)\ngeofacet::grid_preview(mygrid)'
     RCode.innerHTML = code;
   }
 

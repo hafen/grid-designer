@@ -1,0 +1,28 @@
+name_en,code_hasc,code_iso,code_fips,name,row,col
+Cherkasy,CK,71,UP01,Черкаська,3,5
+Chernihiv,CH,74,UP02,Чернігівська,1,5
+Chernivtsi,CV,77,UP03,Чернівецька,4,3
+Crimea AR,KR,43,UP11,Crimea,АР Крим,5,6
+Dnipropetrovsk,DP,12,UP04,Дніпропетровська,3,7
+Donetsk,DT,14,UP05,Донецька,3,8
+Ivano-Frankivsk,IF,26,UP06,Івано-Франківська,4,2
+Kharkiv,KK,63,UP07,Харківська,2,7
+Kherson,KS,65,UP08,Херсонська,4,6
+Khmelnitsky,KM,68,UP09,Хмельницька,3,3
+Kiev City,KC,30,UP12,Київ,2,4
+Kiev,KV,32,UP13,Київська,2,5
+Kirovohrad,KH,35,UP10,Кіровоградська,3,6
+Lviv,LV,46,UP15,Львівська,3,1
+Luhansk,LH,09,UP14,Луганська,2,8
+Mykolaiv,MY,48,UP16,Миколаївська,4,5
+Odessa,OD,51,UP17,Одеська,4,4
+Poltava,PL,53,UP18,Полтавська,2,6
+Rivne,RV,56,UP19,Рівненська,2,2
+Sevastopol City,SC,40,UP20,Севастополь,5,7
+Sumy,SM,59,UP21,Сумська,1,6
+Ternopil,TP,61,UP22,Тернопільська,3,2
+Zakarpattia,ZK,21,UP25,Закарпатська,4,1
+Vinnytsia,VI,05,UP23,Вінницька,3,4
+Volyn,VO,07,UP24,Волинська,2,1
+Zaporizhia,ZP,23,UP26,Запорізька,4,7
+Zhytomyr,ZT,18,UP27,Житомирська,2,3

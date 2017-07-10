@@ -113,5 +113,35 @@
   "desc": "Grid for counties of Sweden.",
   "contrib": "https://github.com/duleise",
   "ref_img": "http://www.worldatlas.com/webimage/countrys/europe/lgcolor/secounties.gif"
+},
+{
+  "name": "sf_bay_area_counties_grid1",
+  "desc": "Grid of the 9 San Francisco Bay Area counties.",
+  "contrib": "https://github.com/Eunoia",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/28043128-53be650a-6585-11e7-920e-4ad9a13bf1a5.png"
+},
+{
+  "name": "ua_region_grid1",
+  "desc": "Grid of administrative divisions of Ukraine (24 oblasts, one autonomous region, and two cities).",
+  "contrib": "https://github.com/woldemarg",
+  "ref_img": "https://camo.githubusercontent.com/0615706478de63da2c7c3c3b21fe92c6db6a2fee/687474703a2f2f696d61676573312e66616e706f702e636f6d2f696d616765732f696d6167655f75706c6f6164732f556b7261696e69616e2d6d61702d756b7261696e652d313135333138375f3733305f3530352e676966"
+},
+{
+  "name": "mx_state_grid1",
+  "desc": "Grid layout for the states of Mexico.",
+  "contrib": "https://github.com/ikashnitsky",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/28044555-ee236b2a-658c-11e7-96e5-3af124ca9619.png"
+},
+{
+  "name": "mx_state_grid2",
+  "desc": "Grid layout for the states of Mexico.",
+  "contrib": "https://github.com/diegovalle",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/28044555-ee236b2a-658c-11e7-96e5-3af124ca9619.png"
+},
+{
+  "name": "scotland_local_authority_grid1",
+  "desc": "Grid layout for the local authorities of Scotland.",
+  "contrib": "https://github.com/davidhen",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/28044967-3b508570-658f-11e7-99b5-b1d73c765c2e.png"
 }
 ]

@@ -1,0 +1,33 @@
+row,col,code,name
+4,5,AGS,Aguascalientes
+1,1,BCN,Baja California
+2,1,BCS,Baja California Sur
+3,5,CDZ,Coahuila
+2,3,CHH,Chihuahua
+7,10,CHP,Chiapas
+6,11,CMP,Campeche
+6,4,COL,Colima
+3,4,DRN,Durango
+6,7,DTD,Distrito Federal
+5,5,GNJ,Guanajuato
+7,7,GRR,Guerrero
+5,7,HDL,Hidalgo
+5,4,JLS,Jalisco
+6,5,MDO,Michoacan
+6,6,MEX,Mexico
+6,8,MRL,Morelos
+3,6,NLE,Nuevo Leon
+4,4,NYR,Nayarit
+7,8,OAX,Oaxaca
+6,9,PUE,Puebla
+5,6,QDA,Queretaro
+7,12,QRO,Quintana Roo
+3,3,SIN,Sinaloa
+4,7,SLP,San Luis Potosi
+1,2,SON,Sonora
+7,11,TBS,Tabasco
+5,8,TLX,Tlaxcala
+3,7,TML,Tamaulipas
+7,9,VLL,Veracruz
+6,12,YCT,Yucatan
+4,6,ZCT,Zacatecas

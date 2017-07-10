@@ -668,9 +668,10 @@
       body.push("![map](" + imgUrl.value + ")\n");
     }
 
-    var url = "https://github.com/hafen/geofacet/issues/new?title=new grid&body=" + body.join('\n');
+    var url = "https://github.com/hafen/geofacet/issues/new?title=new grid&body=" +
+     encodeURIComponent(body.join('\n'));
 
-    window.open(encodeURI(url));
+    window.open(url);
   }
 
   function checkLastRow() {

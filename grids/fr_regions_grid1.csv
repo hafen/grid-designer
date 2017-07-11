@@ -1,19 +1,19 @@
-"code_region","name_region","row","col"
-"01","Guadeloupe",1,7
-"32","Hauts-de-France",1,3
-"11","Île-de-France",2,3
-"02","Martinique",2,7
-"44","Grand Est",2,5
-"28","Normandie",2,2
-"27","Bourgogne-Franche-Comté",2,4
-"53","Bretagne",2,1
-"24","Centre-Val de Loire",3,3
-"52","Pays de la Loire",3,2
-"03","Guyane",3,7
-"84","Auvergne-Rhône-Alpes",3,4
-"75","Nouvelle-Aquitaine",4,2
-"76","Occitanie",4,3
-"93","Provence-Alpes-Côte d'Azur",4,4
-"04","Réunion",4,7
-"06","Mayotte",5,7
-"94","Corse",5,5
+code,name,row,col
+01,Guadeloupe,1,7
+32,Hauts-de-France,1,3
+11,Île-de-France,2,3
+02,Martinique,2,7
+44,Grand Est,2,5
+28,Normandie,2,2
+27,Bourgogne-Franche-Comté,2,4
+53,Bretagne,2,1
+24,Centre-Val de Loire,3,3
+52,Pays de la Loire,3,2
+03,Guyane,3,7
+84,Auvergne-Rhône-Alpes,3,4
+75,Nouvelle-Aquitaine,4,2
+76,Occitanie,4,3
+93,Provence-Alpes-Côte d'Azur,4,4
+04,Réunion,4,7
+06,Mayotte,5,7
+94,Corse,5,5

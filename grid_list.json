@@ -143,5 +143,11 @@
   "desc": "Grid layout for the local authorities of Scotland.",
   "contrib": "https://github.com/davidhen",
   "ref_img": "https://user-images.githubusercontent.com/1275592/28044967-3b508570-658f-11e7-99b5-b1d73c765c2e.png"
+},
+{
+  "name": "us_state_grid3",
+  "desc": "Grid layout for US states (excluding DC)",
+  "contrib": "https://github.com/ejr248",
+  "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
 }
 ]

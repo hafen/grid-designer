@@ -149,5 +149,17 @@
   "desc": "Grid layout for US states (excluding DC)",
   "contrib": "https://github.com/ejr248",
   "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
+},
+{
+  "name": "italy_grid1",
+  "desc": "Grid layout for regions of Italy (in collaboration with Stella Cangelosi and Luciana Dalla Valle).",
+  "contrib": "https://github.com/JulianStander",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/28291015-8f0abd66-6afd-11e7-9e2a-b4c1d4021c13.png"
+},
+{
+  "name": "italy_grid2",
+  "desc": "Grid layout for regions of Italy (in collaboration with Stella Cangelosi and Luciana Dalla Valle).",
+  "contrib": "https://github.com/JulianStander",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/28291015-8f0abd66-6afd-11e7-9e2a-b4c1d4021c13.png"
 }
 ]

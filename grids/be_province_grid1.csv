@@ -1,0 +1,12 @@
+row,col,code,name_EN,name_NL, name_FR, code_NIS1, code_NIS5
+1,3,BE-VAN, Antwerp, Anterwpen, Anvers, 1, 10000
+2,1,BE-VWV, West Flanders, West-Vlaanderen, Flandre Occidentale, 3, 30000
+2,2,BE-VOV, East Flanders, Oost-Vlaanderen, Flandre Orientale, 4, 40000
+2,4,BE-VLI, Limburg, Limburg, Limbourg, 7, 70000
+2,3,BE-VBR, Flemish Brabant, Vlaams-Brabant,Brabant Flamand, 2, 20001
+3,2,BE-WHT, Hainaut, Henegouwen, Hainaut, 5, 50000
+3,3,BE-WBR, Walloon Brabant, Waals-Brabant, Brabant Wallon, 2, 20002
+3,4,BE-WLG, Liege, Luik, Liège, 6, 60000
+4,3,BE-WNA, Namur, Namen, Namur, 9, 90000
+4,4,BE-WLX, Luxembourg, Luxemburg, Luxembourg, 8, 80000
+5,1,BE-BRU, Brussels-Capital,Brussels Hoofdstedelik, Bruxelles Capitale,4, 4000

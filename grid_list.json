@@ -161,5 +161,11 @@
   "desc": "Grid layout for regions of Italy (in collaboration with Stella Cangelosi and Luciana Dalla Valle).",
   "contrib": "https://github.com/JulianStander",
   "ref_img": "https://user-images.githubusercontent.com/1275592/28291015-8f0abd66-6afd-11e7-9e2a-b4c1d4021c13.png"
+},
+{
+  "name": "be_province_grid1",
+  "desc": "Grid layout for provinces of Belgium plus Brussels, including names in three languages (French, Dutch, English) and Belgium internal codes (NIS).",
+  "contrib": "https://github.com/ericlecoutre",
+  "ref_img": "https://camo.githubusercontent.com/efa2c894793585141da8f7b9789b184eacc8d781/687474703a2f2f7777772e657570656469612e636f6d2f696d616765732f636f6e74656e742f42656c6769756d5f526567696f6e732e676966"
 }
 ]

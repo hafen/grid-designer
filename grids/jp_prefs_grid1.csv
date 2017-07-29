@@ -1,0 +1,48 @@
+code,code_pref_jis,name,name_abb,name_region,col,row
+1,01,Hokkaido,HKD,Hokkaido,15,1
+2,02,Aomori,AOM,Tohoku,14,2
+3,03,Iwate,IWT,Tohoku,14,3
+5,05,Akita,AKT,Tohoku,13,3
+4,04,Miyagi,MYG,Tohoku,14,4
+6,06,Yamagata,YGT,Tohoku,13,4
+7,07,Fukushima,FKS,Tohoku,14,5
+8,08,Ibaraki,IBR,Kanto,13,5
+15,15,Niigata,NGT,Chubu,12,5
+9,09,Tochigi,TCG,Kanto,12,6
+10,10,Gunma,GNM,Kanto,14,6
+11,11,Saitama,SIT,Kanto,13,6
+16,16,Toyama,TYM,Chubu,11,6
+17,17,Ishikawa,ISK,Chubu,10,6
+12,12,Chiba,CHB,Kanto,14,7
+13,13,Tokyo,TKY,Kanto,13,7
+18,18,Fukui,FKI,Chubu,10,7
+19,19,Yamanashi,YMN,Chubu,12,7
+20,20,Nagano,NGN,Chubu,11,7
+26,26,Kyoto,KYT,Kinki,9,7
+28,28,Hyogo,HYG,Kinki,8,7
+31,31,Tottori,TTR,Chugoku,7,7
+32,32,Shimane,SMN,Chugoku,6,7
+14,14,Kanagawa,KNG,Kanto,13,8
+21,21,Gifu,GIF,Chubu,10,8
+22,22,Shizuoka,SZO,Chubu,12,8
+23,23,Aichi,AIC,Chubu,11,8
+25,25,Shiga,SIG,Kinki,9,8
+27,27,Osaka,OSK,Kinki,8,8
+33,33,Okayama,OKY,Chugoku,7,8
+34,34,Hiroshima,HRS,Chugoku,6,8
+35,35,Yamaguchi,YGC,Chugoku,5,8
+24,24,Mie,MIE,Chubu,10,9
+29,29,Nara,NAR,Kinki,9,9
+40,40,Fukuoka,FKO,Kyushu / Okinawa,4,9
+41,41,Saga,SAG,Kyushu / Okinawa,3,9
+42,42,Nagasaki,NGS,Kyushu / Okinawa,2,9
+30,30,Wakayama,WKY,Kinki,9,10
+37,37,Kagawa,KGW,Shikoku,7,10
+38,38,Ehime,EHM,Shikoku,6,10
+43,43,Kumamoto,KMM,Kyushu / Okinawa,3,10
+44,44,Oita,OIT,Kyushu / Okinawa,4,10
+36,36,Tokushima,TKS,Shikoku,7,11
+39,39,Kochi,KUC,Shikoku,6,11
+45,45,Miyazaki,MYZ,Kyushu / Okinawa,4,11
+46,46,Kagoshima,KGS,Kyushu / Okinawa,3,11
+47,47,Okinawa,OKN,Kyushu / Okinawa,1,12

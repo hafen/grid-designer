@@ -179,5 +179,11 @@
   "desc": "Grid layout for the prefectures of Japan.",
   "contrib": "https://github.com/uribo",
   "ref_img": "https://camo.githubusercontent.com/bffec5ac4ae6507c1ca1b83570544f405b86b048/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38372f49534f2d333136362d322d4a502e706e672f35313270782d49534f2d333136362d322d4a502e706e67"
+},
+{
+  "name": "ng_state_grid1",
+  "desc": "Grid layout for the 37 Federal States of Nigeria.",
+  "contrib": "https://github.com/ghosthedirewolf",
+  "ref_img": "https://camo.githubusercontent.com/fa12bca8fe3f3de3d7af707400adbc7fc4656cc3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38332f4e6967657269615f7374617465732e706e67"
 }
 ]

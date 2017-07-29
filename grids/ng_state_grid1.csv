@@ -1,0 +1,38 @@
+row,col,code,name
+1,4,NG.KT,Katsina
+1,5,NG.KN,Kano
+1,2,NG.SO,Sokoto
+1,3,NG.ZA,Zamfara
+1,6,NG.JI,Jigawa
+1,7,NG.YO,Yobe
+2,2,NG.KE,Kebbi
+2,3,NG.NI,Niger
+2,4,NG.KD,Kaduna
+2,7,NG.BO,Borno
+2,6,NG.GO,Gombe
+2,5,NG.BA,Bauchi
+3,1,NG.OY,Oyo
+3,2,NG.KW,Kwara
+3,3,NG.FC,Abuja FCT
+3,4,NG.NA,Nassarawa
+3,6,NG.AD,Adamawa
+3,5,NG.PL,Plateau
+4,3,NG.EK,Ekiti
+4,1,NG.OG,Ogun
+4,2,NG.OS,Osun
+4,4,NG.KO,Kogi
+4,6,NG.TA,Taraba
+4,5,NG.BE,Benue
+5,3,NG.ED,Edo
+5,1,NG.LA,Lagos
+5,2,NG.ON,Ondo
+5,6,NG.EB,Ebonyi
+5,4,NG.AN,Anambra
+5,5,NG.EN,Enugu
+6,2,NG.DE,Delta
+6,3,NG.IM,Imo
+6,4,NG.AB,Abia
+6,5,NG.CR,Cross River
+7,3,NG.BY,Bayelsa
+7,4,NG.RI,Rivers
+7,5,NG.AK,Akwa Ibom

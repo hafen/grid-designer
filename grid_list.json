@@ -185,5 +185,11 @@
   "desc": "Grid layout for the 37 Federal States of Nigeria.",
   "contrib": "https://github.com/ghosthedirewolf",
   "ref_img": "https://camo.githubusercontent.com/fa12bca8fe3f3de3d7af707400adbc7fc4656cc3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38332f4e6967657269615f7374617465732e706e67"
+},
+{
+  "name": "bd_upazila_grid1",
+  "desc": "Grid layout for Bangladesh 64 Upazilas.",
+  "contrib": "https://github.com/ghosthedirewolf",
+  "ref_img": "https://camo.githubusercontent.com/df1e4aff5a3e0238afef97586d324d9b23acf27b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32382f42445f4d61705f61646d696e2e7376672f38303070782d42445f4d61705f61646d696e2e7376672e706e67"
 }
 ]

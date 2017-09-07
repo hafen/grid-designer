@@ -196,7 +196,7 @@
   "name": "spain_prov_grid1",
   "desc": "Grid layout for Provinces of Spain.",
   "contrib": "https://github.com/kintero",
-  "ref_img": "https://user-images.githubusercontent.com/1275592/30039555-930879ca-9187-11e7-83ec-c1bebc985cac.png"
+  "ref_img": "https://user-images.githubusercontent.com/1275592/30189589-cbfbf2de-93e9-11e7-9598-bb4c4e09e0c1.png"
 },
 {
   "name": "ch_cantons_grid1",
@@ -215,5 +215,11 @@
   "desc": "Grid layout for Provinces of China.",
   "contrib": "https://github.com/weiyunna",
   "ref_img": "https://user-images.githubusercontent.com/1275592/30039720-cf9c8532-9189-11e7-856b-a6ecf449ee0c.png"
+},
+{
+  "name": "world_86countries_grid",
+  "desc": "Grid layout for 86 countries in the world.",
+  "contrib": "https://github.com/akangsha",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/30190118-0678aeb8-93ed-11e7-91b2-49738beb6f04.png"
 }
 ]

@@ -1,0 +1,87 @@
+code,name,row,col
+FIN,Finland,1,18
+ISL,Iceland,1,12
+NOR,Norway,1,16
+SWE,Sweden,1,17
+CAN,Canada,2,1
+EST,Estonia,2,18
+IRL,Ireland,2,13
+BLR,Belarus,3,19
+DNK,Denmark,3,15
+LVA,Latvia,3,18
+GBR,United Kingdom,3,13
+DEU,Germany,4,16
+LTU,Lithuania,4,18
+NLD,Netherlands,4,15
+POL,Poland,4,17
+UKR,Ukraine,4,19
+USA,United States,4,1
+CZE,Czech Republic,5,16
+FRA,France,5,14
+JPN,Japan,5,35
+CHE,Switzerland,5,15
+AUT,Austria,6,16
+GEO,Georgia,6,20
+HUN,Hungary,6,17
+KAZ,Kazakhstan,6,23
+ROU,Romania,6,18
+ESP,Spain,6,13
+ARM,Armenia,7,21
+BGR,Bulgaria,7,18
+HRV,Croatia,7,17
+CUB,Cuba,7,4
+DOM,Dominican Republic,7,6
+ITA,Italy,7,15
+MEX,Mexico,7,2
+PRT,Portugal,7,12
+TUR,Turkey,7,20
+UZB,Uzbekistan,7,23
+ALB,Albania,8,17
+GTM,Guatemala,8,3
+HND,Honduras,8,4
+IRQ,Iraq,8,21
+ISR,Israel,8,19
+JAM,Jamaica,8,5
+TJK,Tajikistan,8,24
+CHN,China,9,30
+GRC,Greece,9,18
+JOR,Jordan,9,20
+SLV,El Salvador,10,3
+MAR,Morocco,10,13
+NIC,Nicaragua,10,4
+PAK,Pakistan,10,24
+TUN,Tunisia,10,16
+CRI,Costa Rica,11,4
+NPL,Nepal,11,27
+BGD,Bangladesh,12,28
+IND,India,12,26
+PAN,Panama,12,5
+SEN,Senegal,12,12
+SDN,Sudan,12,19
+BEN,Benin,13,15
+COL,Colombia,13,6
+GHA,Ghana,13,13
+NGA,Nigeria,13,16
+TGO,Togo,13,14
+VNM,Vietnam,13,32
+BRA,Brazil,14,8
+ECU,Ecuador,14,5
+PHL,Philippines,14,33
+GAB,Gabon,15,16
+IDN,Indonesia,15,34
+KEN,Kenya,15,19
+LKA,Sri Lanka,15,27
+THA,Thailand,15,30
+AGO,Angola,16,16
+BOL,Bolivia,16,6
+PER,Peru,16,5
+ZMB,Zambia,16,17
+CHL,Chile,17,5
+MYS,Malaysia,17,30
+MOZ,Mozambique,17,19
+PRY,Paraguay,17,6
+URY,Uruguay,17,7
+ZWE,Zimbabwe,17,18
+AUS,Australia,18,33
+ARG,Argentina,19,6
+NZL,New Zealand,19,34

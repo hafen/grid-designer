@@ -1,0 +1,27 @@
+code,name_local,name_de,name_fr,name_it,name_en,row,col
+SH,Schaffhausen,Schaffhausen,Schaffhouse,Sciaffusa,Schaffhausen,2,6
+BS,Basel-Stadt,Basel-Stadt,Bâle-Ville,Basilea Città,Basel-City,2,4
+TG,Thurgau,Thurgau,Thurgovie,Turgovia,Thurgovia,3,7
+AG,Aargau,Aargau,Argovie,Argovia,Argovia,3,5
+JU,Jura,Jura,Jura,Jura,Jura,3,3
+BL,Basel-Landschaft,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,Basel-Country,3,4
+ZH,Zürich,Zürich,Zurich,Zurigo,Zurich,3,6
+AI,Appenzell-Innerrhoden,Appenzell-Innerrhoden,Appenzell Rhodes-Intérieures,Appenzello Interno,Appenzell Inner-Rhodes,3,8
+VD,Vaud,Waadt,Vaud,Vaud,Vaud,4,2
+NE,Neuchâtel,Neuenburg,Neuchâtel,Neuchâtel,Neuchâtel,4,3
+SO,Solothurn,Solothurn,Soleure,Soletta,Solothurn,4,4
+LU,Luzern,Luzern,Lucerne,Lucerna,Lucerne,4,5
+ZG,Zug,Zug,Zoug,Zugo,Zug,4,6
+SG,St.Gallen,St.Gallen,Saint-Gall,San Gallo,St.Gallen,4,7
+AR,Appenzell-Ausserrhoden,Appenzell-Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,Appenzell Outer-Rhodes,4,8
+FR,Fribourg,Freiburg,Fribourg,Friburgo,Fribourg,5,3
+BE,Bern,Bern,Berne,Berna,Bern,5,4
+NW,Nidwalden,Nidwalden,Nidwald,Nidvaldo,Nidwalden,5,5
+GE,Genève,Genf,Genève,Ginevra,Geneva,5,1
+SZ,Schwyz,Schwyz,Schwytz,Svitto,Schwyz,5,6
+GL,Glarus,Glarus,Glaris,Glarona,Glarus,5,7
+GR,Graubünden,Graubünden,Grisons,Grigioni,Grisons,5,9
+VS,Valais,Wallis,Valais,Vallese,Valais,6,3
+OW,Obwalden,Obwalden,Obwald,Obvaldo,Obwalden,6,5
+UR,Uri,Uri,Uri,Uri,Uri,6,6
+TI,Ticino,Tessin,Tessin,Ticino,Ticino,7,6

@@ -1,0 +1,27 @@
+row,col,code,name
+1,5,SH,Schaffhausen
+2,2,BS,Basel-Stadt
+2,6,TG,Thurgau
+2,5,ZH,Zürich
+2,4,AG,Aargau
+2,3,BL,Basel-Landschaft
+2,7,SG,St. Gallen
+3,2,JU,Jura
+3,3,SO,Solothurn
+3,5,ZG,Zug
+3,6,AR,Appenzell A.Rh.
+3,7,AI,Appenzell I.Rh.
+3,4,LU,Luzern
+4,3,BE,Bern
+4,6,SZ,Schwyz
+4,7,GL,Glarus
+4,4,OW,Obwalden
+4,5,NW,Nidwalden
+4,2,NE,Neuenburg
+5,8,GR,Graubünden
+5,5,UR,Uri
+5,2,VD,Waadt
+5,3,FR,Freiburg
+6,4,VS,Wallis
+6,6,TI,Tessin
+6,1,GE,Genf

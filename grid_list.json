@@ -221,5 +221,17 @@
   "desc": "Grid layout for 86 countries in the world.",
   "contrib": "https://github.com/akangsha",
   "ref_img": "https://user-images.githubusercontent.com/1275592/30190118-0678aeb8-93ed-11e7-91b2-49738beb6f04.png"
+},
+{
+  "name": "se_counties_grid2",
+  "desc": "Grid for counties of Sweden.",
+  "contrib": "https://github.com/richardohrvall",
+  "ref_img": "https://user-images.githubusercontent.com/6022947/31674182-71150350-b361-11e7-9873-ffe319344c90.jpg"
+},
+{
+  "name": "uk_regions1",
+  "desc": "Grid for regions of the UK (aka EU standard NUTS 1 areas).",
+  "contrib": "https://github.com/paulb20",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/32032394-d394b24a-b9bb-11e7-91e8-fe4da69ba005.jpg"
 }
 ]

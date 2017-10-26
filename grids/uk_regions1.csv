@@ -1,0 +1,13 @@
+row,col,name,code
+1,2,Scotland,UKM
+2,1,Northern Ireland,UKN
+2,3,North East,UKC
+3,2,North West,UKD
+3,3,Yorkshire & the Humber,UKE
+4,3,East Midlands,UKF
+5,2,Wales,UKL
+5,4,Eastern,UKH
+5,3,West Midlands,UKG
+6,2,South West,UKK
+6,3,London,UKI
+6,4,South East,UKJ

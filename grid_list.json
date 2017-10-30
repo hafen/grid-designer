@@ -233,5 +233,17 @@
   "desc": "Grid for regions of the UK (aka EU standard NUTS 1 areas).",
   "contrib": "https://github.com/paulb20",
   "ref_img": "https://user-images.githubusercontent.com/1275592/32032394-d394b24a-b9bb-11e7-91e8-fe4da69ba005.jpg"
+},
+{
+  "name": "us_state_contiguous_grid1",
+  "desc": "Grid layout for the contiguous US states (including DC).",
+  "contrib": "https://github.com/andrewsr",
+  "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
+},
+{
+  "name": "sk_province_grid1",
+  "desc": "Grid layout for South Korean sis and dos (metropolitan/special/autonomous cities and provinces).",
+  "contrib": "https://github.com/heon131",
+  "ref_img": "http://tong.visitkorea.or.kr/enu/images/koreastay/korea_map.jpg"
 }
 ]

@@ -249,7 +249,7 @@
 {
   "name": "ch_aargau_districts_grid1",
   "desc": "Grid layout for Districts of the Canton of Aargau, Switzerland.",
-  "contrib": "zumbov2",
+  "contrib": "https://github.com/zumbov2",
   "ref_img": "https://user-images.githubusercontent.com/31518032/32281394-fcd761d0-bf1e-11e7-9dcc-ae52307eeafd.png"
 }
 ]

@@ -1,0 +1,20 @@
+code,name,row,col
+03,Asturias,1,2
+06,Cantabria,1,3
+12,Galicia,1,1
+16,País Vasco,1,4
+09,Cataluña,1,6
+15,Navarra,1,5
+02,Aragón,2,5
+07,Castilla y León,2,3
+17,Rioja,2,4
+10,Comunitat Valenciana,2,6
+04,Balears,2,7
+11,Extremadura,3,2
+13,Madrid,3,3
+08,Castilla - La Mancha,3,4
+14,Murcia,3,5
+01,Andalucía,4,4
+05,Canarias,5,1
+19,Melilla,5,6
+18,Ceuta,5,5

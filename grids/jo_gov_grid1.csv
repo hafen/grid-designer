@@ -1,0 +1,13 @@
+row,col,code,name
+1,1,JOR1,Irbid
+2,1,JOR5,Balqa
+2,4,JOR4,Mafraq
+2,2,JOR2,Ajloun
+2,3,JOR3,Jerash
+3,2,JOR6,Amman
+3,1,JOR8,Madaba
+3,3,JOR7,Zarqa
+4,1,JOR9,Karak
+5,1,JOR10,Tafilah
+4,2,JOR11,Ma'an
+6,1,JOR12,Aqaba

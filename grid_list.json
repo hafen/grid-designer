@@ -56,7 +56,7 @@
   "ref_img": "https://s-media-cache-ak0.pinimg.com/736x/bf/cb/96/bfcb9654477c127d3b0e0b72d5be65fc.jpg"
 },
 {
-  "name": "br_grid1",
+  "name": "br_states_grid1",
   "desc": "Grid for the 27 states of Brazil.",
   "contrib": "https://github.com/italocegatta",
   "ref_img": "https://camo.githubusercontent.com/477627dce2610f18f1bf3850cd32fca01610656e/687474703a2f2f63656a656475696e66616e74696c2e7062776f726b732e636f6d2f662f313435383034313938342f4d61706142726173696c5369676c61732e676966"
@@ -269,5 +269,17 @@
   "desc": "Grid layout for Provinces of Spain.",
   "contrib": "https://github.com/JoseAntonioOrtega",
   "ref_img": "https://user-images.githubusercontent.com/1275592/30189589-cbfbf2de-93e9-11e7-9598-bb4c4e09e0c1.png"
+},
+{
+  "name": "world_countries_grid1",
+  "desc": "Grid layout for countries of the world, with a few exclusions. See .",
+  "contrib": "https://github.com/JoseAntonioOrtega",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/30189589-cbfbf2de-93e9-11e7-9598-bb4c4e09e0c1.png"
+},
+{
+  "name": "br_states_grid2",
+  "desc": "Grid for the 27 states of Brazil.",
+  "contrib": "https://github.com/hafen",
+  "ref_img": "http://www.brazil-help.com/mapa_do_brasil.gif"
 }
 ]

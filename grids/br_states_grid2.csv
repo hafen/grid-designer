@@ -1,0 +1,28 @@
+row,col,code,name
+1,1,AM,Amazonas
+1,2,RR,Roraima
+1,3,AP,Amapá
+1,4,RN,Rio Grande do Norte
+1,5,PB,Paraíba
+1,6,PE,Pernambuco
+2,1,AC,Acre
+2,2,PA,Pará
+2,3,MA,Maranhão
+2,4,CE,Ceará
+2,5,SE,Sergipe
+2,6,AL,Alagoas
+3,1,RO,Rondônia
+3,2,MT,Mato Grosso
+3,3,TO,Tocantins
+3,4,PI,Piauí
+3,5,BA,Bahia
+4,2,DF,Distrito Federal
+4,3,GO,Goiás
+4,4,MG,Minas Gerais
+4,5,ES,Espírito Santo
+5,2,MS,Mato Grosso do Sul
+5,3,SP,São Paulo
+5,4,RJ,Rio de Janeiro
+6,2,PR,Paraná
+6,3,SC,Santa Catarina
+7,3,RS,Rio Grande do Sul

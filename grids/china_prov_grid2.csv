@@ -1,0 +1,35 @@
+code,row,col,name
+XJ,4,1,Xinjiang
+XZ,5,1,Tibet
+GS,4,2,Gansu
+QH,5,2,Qinghai
+SC,6,2,Sichuan
+YN,7,2,Yunnan
+NX,5,3,Ningxia
+CQ,6,3,Chongqing
+GZ,7,3,Guizhou
+SX,4,4,Shanxi
+SX,5,4,Shaanxi
+HB,6,4,Hubei
+HN,7,4,Hunan
+GX,8,4,Guangxi
+HN,9,4,Hainan
+HB,4,5,Hebei
+HN,5,5,Henan
+AH,6,5,Anhui
+JX,7,5,Jiangxi
+GD,8,5,Guangdong
+MC,9,5,Macau
+NM,2,6,Inner Mongolia
+BJ,3,6,Beijing
+TJ,4,6,Tianjin
+SD,5,6,Shandong
+JS,6,6,Jiangsu
+ZJ,7,6,Zhejiang
+FJ,8,6,Fujian
+HK,9,6,Hong Kong
+HLJ,1,7,Heilongjiang
+JL,2,7,Jilin
+LN,3,7,Liaoning
+SH,6,7,Shanghai
+TW,8,7,Taiwan

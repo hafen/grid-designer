@@ -1,0 +1,17 @@
+code,name,row,col
+Northland,Northland,1,4
+Auckland,Auckland,2,5
+Taranaki,Taranaki,3,4
+Waikato,Waikato,3,5
+Bay of Plenty,Bay of Plenty,3,6
+Gisborne,Gisborne,3,7
+Manawatu-Whanganui,Manawatu-Whanganui,4,5
+Hawke's Bay,Hawke's Bay,4,6
+Wellington,Wellington,5,5
+Marlborough,Marlborough,7,4
+Tasman,Tasman,7,2
+Nelson,Nelson,7,3
+Canterbury,Canterbury,8,3
+Otago,Otago,9,3
+West Coast,West Coast,9,2
+Southland,Southland,10,2

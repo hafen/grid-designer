@@ -1,0 +1,13 @@
+row,col,code,name
+1,2,FR,Friesland
+1,3,GR,Groningen
+2,1,NH,Noord-Holland
+2,3,DR,Drenthe
+2,2,FL,Flevoland
+3,1,ZH,Zuid-Holland
+3,3,OV,Overijssel
+3,2,UT,Utrecht
+4,3,GE,Gelderland
+4,2,NB,Noord-Brabant
+4,1,ZE,Zeeland
+5,3,LI,Limburg

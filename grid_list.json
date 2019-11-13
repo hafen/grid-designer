@@ -400,5 +400,11 @@
   "desc": "Grid layout for Counties of North Carolina, United States",
   "contrib": "https://github.com/mtdukes",
   "ref_img": "https://camo.githubusercontent.com/50bf9a4f4861fa11dba4ea66f8f7712eb1b59593/68747470733a2f2f7765622e6c69622e756e632e6564752f6e632d6d6170732f696d616765732f686f74636f756e74796d61702e676966"
+},
+{
+  "name": "mx_ciudad_prov_grid1.csv",
+  "desc": "Grid layout for Districts of Mexico City, Mexico",
+  "contrib": "https://github.com/Ivangea",
+  "ref_img": "https://camo.githubusercontent.com/ef6379d66d92e1ea289fcd8522853ec4348499d7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36652f4d582d44462d4469766973692543332542336e5f706f6c254333254144746963612e7376672f38303070782d4d582d44462d4469766973692543332542336e5f706f6c254333254144746963612e7376672e706e67"
 }
 ]

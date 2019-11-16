@@ -417,5 +417,10 @@
   "desc": "This grid approximates the U.S. Health and Human Services Region map",
   "contrib": "https://github.com/akitepowell",
   "ref_img": "https://camo.githubusercontent.com/dd6f1a0c7749dd111d71be74f344d573eaad52f5/68747470733a2f2f7777772e6868732e676f762f73697465732f64656661756c742f66696c65732f6965612f696d616765732f726567696f6e736d61702e6a7067"
+},
+  "name": "tw_prov_grid1.csv",
+  "desc": "Grid layout for Counties of Taiwan",
+  "contrib": "https://github.com/csh484912274",
+  "ref_img": "https://camo.githubusercontent.com/b51d87c85c060ff96335274808600f7984f19e56/68747470733a2f2f692e696d6775722e636f6d2f744a5a6a4f4f422e706e67"
 }
 ]

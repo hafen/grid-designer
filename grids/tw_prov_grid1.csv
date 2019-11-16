@@ -1,0 +1,22 @@
+row,col,name,code
+1,3,Taoyuan,TW25
+1,4,New Taipei City,TW23
+2,2,Hsinchu City,TW08
+2,3,Hsinchu,TW09
+2,4,Yilan,TW26
+3,1,Changhua,TW05
+3,2,Taichung City,TW19
+3,3,Taipei City,TW03
+3,4,Keelung City,TW12
+4,1,Yunlin,TW27
+4,2,Nantou,TW16
+4,3,Miaoli,TW15
+5,1,Chiayi City,TW06
+5,2,Chiayi,TW07
+5,3,Hualien,TW10
+6,1,Penghu,TW17
+6,2,Kaohsiung City,TW02
+6,3,Taitung,TW24
+7,1,Kinmen,TW13
+7,2,Tainan City,TW21
+8,2,Pingtung,TW18

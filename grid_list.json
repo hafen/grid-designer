@@ -383,5 +383,34 @@
   "desc": "Grid layout for provinces of Ecuador",
   "contrib": "https://github.com/Ricardo95RM",
   "ref_img": "https://camo.githubusercontent.com/7eabd24db749e5335f13c911df65f15516c10bef/68747470733a2f2f65637561646f726e6f7469636961732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30342f70726f76696e636961732d65637561646f722e6a7067"
+},
+  "name": "nl_prov_grid1.csv",
+  "desc": "Grid layout for provinces of Netherlands",
+  "contrib": "https://github.com/ruditurksema",
+  "ref_img": "https://camo.githubusercontent.com/a094b2603eff7e4c45b9fbdbbfd7b5637473354c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63632f4d61705f70726f76696e6365735f4e65746865726c616e64732d656e2e737667"
+},
+{
+  "name": "ca_prov_grid1.csv",
+  "desc": "Grid layout for provinces of Canada",
+  "contrib": "https://github.com/michael-chong",
+  "ref_img": "https://camo.githubusercontent.com/5a0ad66e98796b817e506fe3127d48d7277a74a8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31342f506f6c69746963616c5f6d61705f6f665f43616e6164612e706e672f38303070782d506f6c69746963616c5f6d61705f6f665f43616e6164612e706e67"
+},
+{
+  "name": "us_nc_county_grid1.csv",
+  "desc": "Grid layout for Counties of North Carolina, United States",
+  "contrib": "https://github.com/mtdukes",
+  "ref_img": "https://camo.githubusercontent.com/50bf9a4f4861fa11dba4ea66f8f7712eb1b59593/68747470733a2f2f7765622e6c69622e756e632e6564752f6e632d6d6170732f696d616765732f686f74636f756e74796d61702e676966"
+},
+{
+  "name": "mx_ciudad_prov_grid1.csv",
+  "desc": "Grid layout for Districts of Mexico City, Mexico",
+  "contrib": "https://github.com/Ivangea",
+  "ref_img": "https://camo.githubusercontent.com/ef6379d66d92e1ea289fcd8522853ec4348499d7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36652f4d582d44462d4469766973692543332542336e5f706f6c254333254144746963612e7376672f38303070782d4d582d44462d4469766973692543332542336e5f706f6c254333254144746963612e7376672e706e67"
+},
+{
+  "name": "bg_prov_grid1.csv",
+  "desc": "Grid layout for provinces of Bulgaria",
+  "contrib": "https://github.com/savinastoitsova",
+  "ref_img": "https://camo.githubusercontent.com/46872c5c1703af4739df87eca5075ae91fe83833/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38362f526567696f6e735f6f665f42756c67617269615f4d61702e706e67"
 }
 ]

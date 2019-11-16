@@ -1,0 +1,14 @@
+row,col,code,name
+1,1,YT,Yukon
+1,2,NT,Northwest Territories
+1,4,NU,Nunavut
+1,6,NL,Newfoundland and Labrador
+1,7,PE,Prince Edward Island
+2,1,BC,British Columbia
+2,2,AB,Alberta
+2,3,SK,Saskatchewan
+2,4,MB,Manitoba
+2,5,ON,Ontario
+2,6,QC,Quebec
+2,7,NB,New Brunswick
+2,8,NS,Nova Scotia

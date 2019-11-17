@@ -436,5 +436,11 @@
   "desc": "Grid layout for Provinces of Afghanistan",
   "contrib": "https://github.com/jrennyb",
   "ref_img": "https://camo.githubusercontent.com/86d2b1807e37f2d3009da212a870b58f9b091d67/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34342f41666768616e697374616e5f70726f76696e6365735f6e756d62657265642e706e67"
+},
+{
+  "name": "us_mi_counties_grid1.csv",
+  "desc": "Grid layout for Counties of Michigan, United States",
+  "contrib": "https://github.com/jrennyb",
+  "ref_img": "https://camo.githubusercontent.com/834a8eaa5d2bc37ec003d06d0cb5eee53954320d/687474703a2f2f7777772d706572736f6e616c2e756d6963682e6564752f7e62626f776d616e2f62697264732f4352414d5f696d6167656e756d732e676966"
 }
 ]

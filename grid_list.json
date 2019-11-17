@@ -442,5 +442,11 @@
   "desc": "Grid layout for Counties of Michigan, United States",
   "contrib": "https://github.com/jrennyb",
   "ref_img": "https://camo.githubusercontent.com/834a8eaa5d2bc37ec003d06d0cb5eee53954320d/687474703a2f2f7777772d706572736f6e616c2e756d6963682e6564752f7e62626f776d616e2f62697264732f4352414d5f696d6167656e756d732e676966"
+},
+{
+  "name": "pe_prov_grid1.csv",
+  "desc": "Grid layout for Provinces of Peru",
+  "contrib": "https://github.com/jmcastagnetto",
+  "ref_img": "https://camo.githubusercontent.com/6c8d13fd43bf90b6bc7dbc3bff6c5a2abcda2e52/68747470733a2f2f696d6167656e6573746f74616c65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4d6170612d706f6c697469636f2d64656c2d506572752d322d373638783933362e706e67"
 }
 ]

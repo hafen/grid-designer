@@ -412,5 +412,41 @@
   "desc": "Grid layout for provinces of Bulgaria",
   "contrib": "https://github.com/savinastoitsova",
   "ref_img": "https://camo.githubusercontent.com/46872c5c1703af4739df87eca5075ae91fe83833/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38362f526567696f6e735f6f665f42756c67617269615f4d61702e706e67"
+},
+{
+  "name": "us_hhs_regions_grid1.csv",
+  "desc": "This grid approximates the U.S. Health and Human Services Region map",
+  "contrib": "https://github.com/akitepowell",
+  "ref_img": "https://camo.githubusercontent.com/dd6f1a0c7749dd111d71be74f344d573eaad52f5/68747470733a2f2f7777772e6868732e676f762f73697465732f64656661756c742f66696c65732f6965612f696d616765732f726567696f6e736d61702e6a7067"
+},
+{
+  "name": "tw_counties_grid1.csv",
+  "desc": "Grid layout for Counties of Taiwan",
+  "contrib": "https://github.com/csh484912274",
+  "ref_img": "https://camo.githubusercontent.com/b51d87c85c060ff96335274808600f7984f19e56/68747470733a2f2f692e696d6775722e636f6d2f744a5a6a4f4f422e706e67"
+},
+{
+  "name": "tw_counties_grid2.csv",
+  "desc": "Grid layout for Counties of Taiwan including Lienchiang County",
+  "contrib": "https://github.com/csh484912274",
+  "ref_img": "https://camo.githubusercontent.com/b26bf4a5ff70294daaa6db508e06a82f2afd902f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f54616977616e5f524f435f706f6c69746963616c5f6469766973696f6e735f6c6162656c65642e7376672f3132303070782d54616977616e5f524f435f706f6c69746963616c5f6469766973696f6e735f6c6162656c65642e7376672e706e67"
+},
+{
+  "name": "af_prov_grid1.csv",
+  "desc": "Grid layout for Provinces of Afghanistan",
+  "contrib": "https://github.com/jrennyb",
+  "ref_img": "https://camo.githubusercontent.com/86d2b1807e37f2d3009da212a870b58f9b091d67/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34342f41666768616e697374616e5f70726f76696e6365735f6e756d62657265642e706e67"
+},
+{
+  "name": "us_mi_counties_grid1.csv",
+  "desc": "Grid layout for Counties of Michigan, United States",
+  "contrib": "https://github.com/jrennyb",
+  "ref_img": "https://camo.githubusercontent.com/834a8eaa5d2bc37ec003d06d0cb5eee53954320d/687474703a2f2f7777772d706572736f6e616c2e756d6963682e6564752f7e62626f776d616e2f62697264732f4352414d5f696d6167656e756d732e676966"
+},
+{
+  "name": "pe_prov_grid1.csv",
+  "desc": "Grid layout for Provinces of Peru",
+  "contrib": "https://github.com/jmcastagnetto",
+  "ref_img": "https://camo.githubusercontent.com/6c8d13fd43bf90b6bc7dbc3bff6c5a2abcda2e52/68747470733a2f2f696d6167656e6573746f74616c65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4d6170612d706f6c697469636f2d64656c2d506572752d322d373638783933362e706e67"
 }
 ]

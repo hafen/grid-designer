@@ -460,5 +460,11 @@
   "desc": "Grid layout for States of Mexico",
   "contrib": "https://github.com/ikashnitsky",
   "ref_img": "https://camo.githubusercontent.com/3b62258772065fe17c3a7a6a99b889251fa53d4a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63322f506f6c69746963616c5f6469766973696f6e735f6f665f4d657869636f2d656e2e7376672f3132303070782d506f6c69746963616c5f6469766973696f6e735f6f665f4d657869636f2d656e2e7376672e706e67"
+},
+{
+  "name": "cn_bj_districts_grid1.csv",
+  "desc": "Grids for Administrative Districts of Beijing, China",
+  "contrib": "https://github.com/shiedelweiss",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54295842-0ccea100-4571-11e9-8d3f-c60f4f7f2c0a.png"
 }
 ]

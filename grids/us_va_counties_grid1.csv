@@ -1,0 +1,136 @@
+code,name,row,col
+51013,Arlington,1,16
+51059,Fairfax,1,15
+51069,Frederick,2,12
+51043,Clarke,2,13
+51107,Loudoun,2,14
+51610,Falls Church (City),2,16
+51600,Fairfax (City),2,15
+51510,Alexandria (City),2,17
+51840,Winchester (City),3,12
+51061,Fauquier,3,14
+51685,Manassas Park (City),3,17
+51153,Prince William,3,15
+51047,Culpeper,3,13
+51683,Manassas (City),3,16
+51187,Warren,4,11
+51171,Shenandoah,4,12
+51139,Page,4,13
+51157,Rappahannock,4,14
+51179,Stafford,4,16
+51177,Spotsylvania,4,15
+51015,Augusta,5,9
+51113,Madison,5,12
+51660,Harrisonburg (City),5,8
+51165,Rockingham,5,10
+51079,Greene,5,11
+51137,Orange,5,13
+51630,Fredericksburg (City),5,15
+51099,King George,5,16
+51193,Westmoreland,5,17
+51133,Northumberland,5,18
+51033,Caroline,5,14
+51103,Lancaster,6,18
+51159,Richmond,6,17
+51091,Highland,6,7
+51017,Bath,6,8
+51790,Staunton (City),6,9
+51820,Waynesboro (City),6,10
+51003,Albemarle,6,12
+51540,Charlottesville (City),6,11
+51109,Louisa,6,13
+51057,Essex,6,16
+51119,Middlesex,6,19
+51001,Accomack,6,21
+51075,Goochland,6,14
+51085,Hanover,6,15
+51041,Chesterfield,7,14
+51174,Clifton Forge (City),7,6
+51580,Covington (City),7,7
+51678,Lexington (City),7,8
+51530,Buena Vista (City),7,10
+51163,Rockbridge,7,9
+51125,Nelson,7,11
+51065,Fluvanna,7,12
+51097,King and Queen,7,17
+51101,King William,7,16
+51115,Mathews,7,19
+51073,Gloucester,7,18
+51087,Henrico,7,13
+51131,Northampton,7,21
+51036,Charles City,7,15
+51005,Alleghany,8,6
+51199,York,8,18
+51735,Poquoson (City),8,19
+51830,Williamsburg (City),8,16
+51127,New Kent,8,15
+51760,Richmond (City),8,13
+51049,Cumberland,8,11
+51145,Powhatan,8,12
+51029,Buckingham,8,10
+51009,Amherst,8,9
+51023,Botetourt,8,8
+51045,Craig,8,5
+51027,Buchanan,8,3
+51095,James City,8,17
+51071,Giles,8,7
+51135,Nottoway,8,14
+51007,Amelia,9,15
+51670,Hopewell (City),9,17
+51570,Colonial Heights (City),9,14
+51161,Roanoke,9,10
+51051,Dickenson,9,2
+51121,Montgomery,9,7
+51185,Tazewell,9,3
+51021,Bland,9,4
+51155,Pulaski,9,5
+51775,Salem (City),9,8
+51770,Roanoke (City),9,9
+51680,Lynchburg (City),9,11
+51011,Appomattox,9,12
+51147,Prince Edward,9,13
+51149,Prince George,9,18
+51730,Petersburg (City),9,16
+51700,Newport News (City),9,19
+51650,Hampton (City),9,20
+51750,Radford (City),9,6
+51800,Suffolk (City),10,18
+51093,Isle of Wight,10,17
+51181,Surry,10,16
+51183,Sussex,10,15
+51053,Dinwiddie,10,14
+51111,Lunenburg,10,13
+51037,Charlotte,10,12
+51031,Campbell,10,10
+51019,Bedford,10,9
+51515,Bedford (City),10,8
+51067,Franklin,10,7
+51197,Wythe,10,5
+51173,Smyth,10,4
+51167,Russell,10,3
+51195,Wise,10,2
+51720,Norton (City),10,1
+51740,Portsmouth (City),10,19
+51710,Norfolk (City),10,20
+51143,Pittsylvania,10,11
+51063,Floyd,10,6
+51620,Franklin (City),11,18
+51169,Scott,11,2
+51105,Lee,11,1
+51520,Bristol (City),11,3
+51191,Washington,11,4
+51077,Grayson,11,5
+51035,Carroll,11,7
+51141,Patrick,11,8
+51089,Henry,11,10
+51690,Martinsville (City),11,9
+51590,Danville (City),11,11
+51083,Halifax,11,12
+51117,Mecklenburg,11,13
+51025,Brunswick,11,14
+51175,Southampton,11,16
+51081,Greensville,11,17
+51810,Virginia Beach (City),11,20
+51595,Emporia (City),11,15
+51550,Chesapeake (City),11,19
+51640,Galax (City),11,6

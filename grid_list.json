@@ -466,5 +466,11 @@
   "desc": "Grids for Administrative Districts of Beijing, China",
   "contrib": "https://github.com/shiedelweiss",
   "ref_img": "https://user-images.githubusercontent.com/1275592/54295842-0ccea100-4571-11e9-8d3f-c60f4f7f2c0a.png"
+},
+{
+  "name": "us_va_counties_grid1.csv",
+  "desc": "Grids for Counties of Virginia, United States",
+  "contrib": "https://github.com/joshyazman",
+  "ref_img": "https://camo.githubusercontent.com/ad5f91421db6241dae5a292d841c13475b39452e/68747470733a2f2f67656f6c6f67792e636f6d2f73746174652d6d61702f6d6170732f76697267696e69612d636f756e74792d6d61702e676966"
 }
 ]

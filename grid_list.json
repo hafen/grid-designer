@@ -24,7 +24,7 @@
   "name": "sa_prov_grid1",
   "desc": "Grid layout for the provinces of South Africa",
   "contrib": "https://github.com/jonmcalder",
-  "ref_img": "https://camo.githubusercontent.com/a90b18a1ab0c36200da9b118141b997b3f22638e/687474703a2f2f7777772e6578706c6f7265736f7574686166726963612e6e65742f696d616765732f70726f766d61702e6a7067"
+  "ref_img": "https://camo.githubusercontent.com/14e357c36b6b72c0ef60e700d832b57aac87bddd/68747470733a2f2f7777772e736f7574686166726963612e746f2f70726f76696e6365732f5253415f62795f70726f76696e6365732e6a7067"
 },
 {
   "name": "london_boroughs_grid",
@@ -448,5 +448,29 @@
   "desc": "Grid layout for Provinces of Peru",
   "contrib": "https://github.com/jmcastagnetto",
   "ref_img": "https://camo.githubusercontent.com/6c8d13fd43bf90b6bc7dbc3bff6c5a2abcda2e52/68747470733a2f2f696d6167656e6573746f74616c65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4d6170612d706f6c697469636f2d64656c2d506572752d322d373638783933362e706e67"
+},
+{
+  "name": "sa_prov_grid2.csv",
+  "desc": "Grid layout for Provinces of South Africa",
+  "contrib": "https://github.com/kamermanpr",
+  "ref_img": "https://camo.githubusercontent.com/14e357c36b6b72c0ef60e700d832b57aac87bddd/68747470733a2f2f7777772e736f7574686166726963612e746f2f70726f76696e6365732f5253415f62795f70726f76696e6365732e6a7067"
+},
+{
+  "name": "mx_state_grid3.csv",
+  "desc": "Grid layout for States of Mexico",
+  "contrib": "https://github.com/ikashnitsky",
+  "ref_img": "https://camo.githubusercontent.com/3b62258772065fe17c3a7a6a99b889251fa53d4a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63322f506f6c69746963616c5f6469766973696f6e735f6f665f4d657869636f2d656e2e7376672f3132303070782d506f6c69746963616c5f6469766973696f6e735f6f665f4d657869636f2d656e2e7376672e706e67"
+},
+{
+  "name": "cn_bj_districts_grid1.csv",
+  "desc": "Grids for Administrative Districts of Beijing, China",
+  "contrib": "https://github.com/shiedelweiss",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54295842-0ccea100-4571-11e9-8d3f-c60f4f7f2c0a.png"
+},
+{
+  "name": "us_va_counties_grid1.csv",
+  "desc": "Grids for Counties of Virginia, United States",
+  "contrib": "https://github.com/joshyazman",
+  "ref_img": "https://camo.githubusercontent.com/ad5f91421db6241dae5a292d841c13475b39452e/68747470733a2f2f67656f6c6f67792e636f6d2f73746174652d6d61702f6d6170732f76697267696e69612d636f756e74792d6d61702e676966"
 }
 ]

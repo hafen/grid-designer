@@ -490,5 +490,11 @@
   "desc": "This is a grid of a 10 county planning region around Austin, Texas, United States",
   "contrib": "https://github.com/mth444",
   "ref_img": "https://camo.githubusercontent.com/029adb9992cb52f8b655935a8ea67f3b2ba2778f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32332f434150434f472e706e67"
+},
+{
+  "name": "sg_planning_area_grid1.csv",
+  "desc": "Grids for Planning Areas of Singapore",
+  "contrib": "https://github.com/Elenafuyi",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54297744-a9467280-4574-11e9-99f7-bdb62bbb34b4.png"
 }
 ]

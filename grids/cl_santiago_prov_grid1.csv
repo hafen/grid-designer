@@ -1,0 +1,38 @@
+row,col,name,code
+1,3,"Quilicura",13125
+1,4,"Conchalí",13104
+1,7,"Huechuraba",13107
+1,8,"Lo Barnechea",13115
+2,3,"Renca",13128
+2,4,"Quinta Normal",13126
+2,5,"Independencia",13108
+2,6,"Recoleta",13127
+2,7,"Vitacura",13132
+2,8,"Las Condes",13114
+3,2,"Pudahuel",13124
+3,3,"Cerro Navia",13103
+3,4,"Estación Central",13106
+3,5,"Santiago",13101
+3,6,"Providencia",13123
+3,7,"Ñuñoa",13120
+3,8,"La Reina",13113
+4,3,"Lo Prado",13117
+4,4,"Pedro Aguirre Cerda",13121
+4,5,"San Miguel",13130
+4,6,"Macul",13118
+4,7,"Peñalolén",13122
+5,2,"Maipú",13119
+5,3,"Cerrillos",13102
+5,4,"Lo Espejo",13116
+5,5,"La Cisterna",13109
+5,6,"San Joaquín",13129
+5,7,"La Florida",13110
+6,1,"Padre Hurtado",13604
+6,4,"El Bosque",13105
+6,5,"San Ramón",13131
+6,6,"La Granja",13111
+6,7,"Puente Alto",13201
+6,8,"San José De Maipo",13203
+7,4,"San Bernardo",13401
+7,5,"La Pintana",13112
+7,6,"Pirque",13202

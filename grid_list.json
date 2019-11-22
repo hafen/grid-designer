@@ -472,5 +472,29 @@
   "desc": "Grids for Counties of Virginia, United States",
   "contrib": "https://github.com/joshyazman",
   "ref_img": "https://camo.githubusercontent.com/ad5f91421db6241dae5a292d841c13475b39452e/68747470733a2f2f67656f6c6f67792e636f6d2f73746174652d6d61702f6d6170732f76697267696e69612d636f756e74792d6d61702e676966"
+},
+{
+  "name": "us_mo_counties_grid1.csv",
+  "desc": "Grids for Counties of Missouri, United States",
+  "contrib": "https://github.com/Yanqi-Xu",
+  "ref_img": "https://camo.githubusercontent.com/d58ebdce931d0d42085d3b4d76f9e809bd147f84/68747470733a2f2f6f736564612e6d6973736f7572692e6564752f636f756e7479706167652f4d4f5f636f756e746965732e706e67"
+},
+{
+  "name": "cl_santiago_prov_grid1.csv",
+  "desc": "Communes of Santiago Province, Chile",
+  "contrib": "https://github.com/robsalasco",
+  "ref_img": "https://camo.githubusercontent.com/64e592a3c79ce5b03024cccfe43a9fca64ebffe1/68747470733a2f2f692e696d6775722e636f6d2f457361444675762e706e67"
+},
+{
+  "name": "us_tx_capcog_counties_grid1.csv",
+  "desc": "This is a grid of a 10 county planning region around Austin, Texas, United States",
+  "contrib": "https://github.com/mth444",
+  "ref_img": "https://camo.githubusercontent.com/029adb9992cb52f8b655935a8ea67f3b2ba2778f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32332f434150434f472e706e67"
+},
+{
+  "name": "sg_planning_area_grid1.csv",
+  "desc": "Grids for Planning Areas of Singapore",
+  "contrib": "https://github.com/Elenafuyi",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54297744-a9467280-4574-11e9-99f7-bdb62bbb34b4.png"
 }
 ]

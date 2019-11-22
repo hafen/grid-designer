@@ -1,0 +1,56 @@
+row,col,code,name
+1,7,WD,Woodlands
+1,9,SE,Simpang
+1,8,SB,Sembawang
+1,10,SL,Seletar
+2,8,YS,Yishun
+2,9,SE,Sengkang
+2,10,PG,Punggol
+2,7,MD,Mandai
+3,7,TP,Toa Payoh
+3,5,SK,Sungei Kadut
+3,9,SG,Serangoon
+3,11,PL,Paya Lebar
+3,12,PR,Pasir Ris
+3,14,NI,North Eastern Islands
+3,10,HG,Hougang
+3,4,CK,Choa Chu Kang
+3,6,BS,Bishan
+3,8,AM,Ang Mo Kio
+4,4,TH,Tengah
+4,6,TL,Tanglin
+4,12,TM,Tampines
+4,8,RC,Rochor
+4,7,NT,Newton
+4,3,LK,Lim Chu Kang
+4,9,KL,Kallang
+4,10,GL,Geylang
+4,13,CH,Changi
+4,5,CC,Central Water Catchment
+4,11,BD,Bedok
+5,13,CB,Changi Bay
+5,2,WC,Western Water Catchment
+5,7,OR,Orchard
+5,6,NV,Novena
+5,8,MU,Museum
+5,10,MP,Marine Parade
+5,9,ME,Marina East
+5,3,JW,Jurong West
+5,5,BP,Bukit Panjang
+5,4,BK,Bukit Batok
+6,1,TS,Tuas
+6,6,RV,River Valley
+6,2,PN,Pioneer
+6,8,MS,Marina South
+6,4,JE,Jurong East
+6,7,DT,Downtown Core
+6,5,BT,Bukit Timah
+6,3,BL,Boon Lay
+7,7,SV,Straits View
+7,6,SR,Singapore River
+7,5,QT,Queenstown
+7,4,CL,Clementi
+8,7,OT,Outram
+8,6,BM,Bukit Merah
+9,6,SI,Southern Islands
+9,4,WI,Western Islands

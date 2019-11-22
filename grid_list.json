@@ -478,5 +478,11 @@
   "desc": "Grids for Counties of Missouri, United States",
   "contrib": "https://github.com/Yanqi-Xu",
   "ref_img": "https://camo.githubusercontent.com/d58ebdce931d0d42085d3b4d76f9e809bd147f84/68747470733a2f2f6f736564612e6d6973736f7572692e6564752f636f756e7479706167652f4d4f5f636f756e746965732e706e67"
+},
+{
+  "name": "cl_santiago_prov_grid1.csv",
+  "desc": "Communes of Santiago Province, Chile",
+  "contrib": "https://github.com/robsalasco",
+  "ref_img": "https://camo.githubusercontent.com/64e592a3c79ce5b03024cccfe43a9fca64ebffe1/68747470733a2f2f692e696d6775722e636f6d2f457361444675762e706e67"
 }
 ]

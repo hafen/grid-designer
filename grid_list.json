@@ -484,5 +484,11 @@
   "desc": "Communes of Santiago Province, Chile",
   "contrib": "https://github.com/robsalasco",
   "ref_img": "https://camo.githubusercontent.com/64e592a3c79ce5b03024cccfe43a9fca64ebffe1/68747470733a2f2f692e696d6775722e636f6d2f457361444675762e706e67"
+},
+{
+  "name": "us_tx_capcog_counties_grid1.csv",
+  "desc": "This is a grid of a 10 county planning region around Austin, Texas, United States",
+  "contrib": "https://github.com/mth444",
+  "ref_img": "https://camo.githubusercontent.com/029adb9992cb52f8b655935a8ea67f3b2ba2778f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32332f434150434f472e706e67"
 }
 ]

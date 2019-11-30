@@ -514,5 +514,11 @@
   "desc": "Grid of Electoral Districts of Québec, Canada",
   "contrib": "https://github.com/jhroy",
   "ref_img": "https://camo.githubusercontent.com/d1f75185f1a675f1a358297ad0dbdae1b0d7b131/68747470733a2f2f7777772e656c656374696f6e737175656265632e71632e63612f3730616e732f6173736574732f696d672f323031312d342e6a7067"
+},
+{
+  "name": "nl_prov_cbs_grid2.csv",
+  "desc": "Grid with the provinces of The Netherlands with codes that are used by the statistical institute of NL",
+  "contrib": "https://github.com/edwindj",
+  "ref_img": "https://camo.githubusercontent.com/2b6204b5f9856fadeb32a6042fe1fd48cbb4b06f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f332f33302f4e656465726c616e64736550726f76696e636965734c617267652e706e67"
 }
 ]

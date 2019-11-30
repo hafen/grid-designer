@@ -19,13 +19,13 @@ row,col,code_ons,name
 4,1,E09000018,Hounslow
 3,5,E09000019,Islington
 4,3,E09000020,Kensington and Chelsea
-5,2,E09000021,Kingston upon Thames
+6,3,E09000021,Kingston upon Thames
 5,4,E09000022,Lambeth
 5,6,E09000023,Lewisham
 6,4,E09000024,Merton
 4,7,E09000025,Newham
 3,7,E09000026,Redbridge
-6,3,E09000027,Richmond upon Thames
+5,2,E09000027,Richmond upon Thames
 5,5,E09000028,Southwark
 7,4,E09000029,Sutton
 4,6,E09000030,Tower Hamlets

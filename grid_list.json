@@ -508,5 +508,11 @@
   "desc": "Grid of counties of Fujian Province, China",
   "contrib": "https://github.com/nannanchen333",
   "ref_img": "https://user-images.githubusercontent.com/1275592/54298318-c2035800-4575-11e9-8d68-868cc76315df.png"
+},
+{
+  "name": "ca_quebec_electoral_districts_grid1.csv",
+  "desc": "Grid of Electoral Districts of Québec, Canada",
+  "contrib": "https://github.com/jhroy",
+  "ref_img": "https://camo.githubusercontent.com/d1f75185f1a675f1a358297ad0dbdae1b0d7b131/68747470733a2f2f7777772e656c656374696f6e737175656265632e71632e63612f3730616e732f6173736574732f696d672f323031312d342e6a7067"
 }
 ]

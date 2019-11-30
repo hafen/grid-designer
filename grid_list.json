@@ -496,5 +496,17 @@
   "desc": "Grids for Planning Areas of Singapore",
   "contrib": "https://github.com/Elenafuyi",
   "ref_img": "https://user-images.githubusercontent.com/1275592/54297744-a9467280-4574-11e9-99f7-bdb62bbb34b4.png"
+},
+{
+  "name": "in_state_ut_grid1.csv",
+  "desc": "Grid of Indian States and Union Territories",
+  "contrib": "https://github.com/seanangio",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54297966-1f4ad980-4575-11e9-8e8c-5006c91fccd1.png"
+},
+{
+  "name": "cn_fujian_prov_grid1.csv",
+  "desc": "Grid of counties of Fujian Province, China",
+  "contrib": "https://github.com/nannanchen333",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54298318-c2035800-4575-11e9-8d68-868cc76315df.png"
 }
 ]

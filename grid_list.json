@@ -550,5 +550,11 @@
   "desc": "Grid with districts of Catamarca Province, Argentina",
   "contrib": "https://github.com/TuQmano",
   "ref_img": "https://camo.githubusercontent.com/8a25c2986d42003208644618e0e3d3c1950fcd92/687474703a2f2f7777772e616c6c2d617267656e74696e612e636f6d2e61722f77702d636f6e74656e742f75706c6f6164732f6d6170612d706f6c697469636f2d636174616d617263612e6a7067"
+},
+{
+  "name": "ar_jujuy_prov_grid1.csv",
+  "desc": "Grid with districts of Jujuy Province, Argentina",
+  "contrib": "https://github.com/TuQmano",
+  "ref_img": "https://camo.githubusercontent.com/df150ce3e47d85c63efc43a5614f5f6366970669/687474703a2f2f7777772e64697065632e6a756a75792e676f762e61722f6d617061735f6a756a75795f63656e736f2f6a756a7579646570617274616d656e746f732e676966"
 }
 ]

@@ -622,5 +622,11 @@
   "desc": "Grid layout for all European countries except Vatican City, Monaco, San Marino and Liechtenstein",
   "contrib": "https://github.com/THargreaves",
   "ref_img": "https://user-images.githubusercontent.com/38204689/38485856-23e709b6-3bd3-11e8-8bc7-ae5cd892419c.png"
+},
+{
+  "name": "argentina_grid2.csv",
+  "desc": "Grid layout for Argentina without Islas Malvinas and Antártida Argentina",
+  "contrib": "https://github.com/TuQmano",
+  "ref_img": "https://camo.githubusercontent.com/f14f25ac3e42051994f5fd4c53e2718c2b2290aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39652f4d61705f6f665f417267656e74696e615f776974685f70726f76696e6365735f6e616d65735f656e2e706e67"
 }
 ]

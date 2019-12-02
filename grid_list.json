@@ -598,5 +598,11 @@
   "desc": "Grid with districts of Salta Province, Argentina",
   "contrib": "https://github.com/TuQmano",
   "ref_img": "https://camo.githubusercontent.com/9232d808104ddd3ab3983f9a670eb507a4d95e51/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f5f564a6b71374771783743512f52303349467549766e30492f41414141414141414141632f75336655614c744e6a53672f733430302f646570617274616d656e746f732b64652b53616c74612e6a7067"
+},
+{
+  "name": "ar_rio_negro_prov_grid1.csv",
+  "desc": "Grid with districts of Rio Negro Province, Argentina",
+  "contrib": "https://github.com/TuQmano",
+  "ref_img": "https://camo.githubusercontent.com/123414ec4933d38f3b991cc8d669138594d68b17/68747470733a2f2f63646e2e7468696e676c696e6b2e6d652f6170692f696d6167652f3536353530363334383233343537313737362f313234302f31302f7363616c65746f7769647468"
 }
 ]

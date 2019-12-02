@@ -616,5 +616,11 @@
   "desc": "Grid with Electoral Districts of Buenos Aires Province, Argentina",
   "contrib": "https://github.com/TuQmano",
   "ref_img": "https://camo.githubusercontent.com/3803a78b6fc2ca41ffd7bdf3a7a503af1cb48ba7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62302f53656363696f6e65735f656c6563746f72616c65735f64655f6c615f70726f76696e6369615f64655f4275656e6f735f41697265732e7376672f38303070782d53656363696f6e65735f656c6563746f72616c65735f64655f6c615f70726f76696e6369615f64655f4275656e6f735f41697265732e7376672e706e67"
+},
+{
+  "name": "europe_countries_grid1.csv",
+  "desc": "Grid layout for all European countries except Vatican City, Monaco, San Marino and Liechtenstein",
+  "contrib": "https://github.com/THargreaves",
+  "ref_img": "https://user-images.githubusercontent.com/38204689/38485856-23e709b6-3bd3-11e8-8bc7-ae5cd892419c.png"
 }
 ]

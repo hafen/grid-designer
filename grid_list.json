@@ -640,5 +640,11 @@
   "desc": "Grid layout for Prefectures of Japan",
   "contrib": "https://github.com/Ryo-N7",
   "ref_img": "https://user-images.githubusercontent.com/19657164/46902315-4c2f8d80-cefe-11e8-90bb-661771ce2836.JPG"
+},
+{
+  "name": "na_regions_grid1.csv",
+  "desc": "Regions of Namibia",
+  "contrib": "https://github.com/stedy",
+  "ref_img": "https://camo.githubusercontent.com/a4519aa536614e5f5fc0839ff1a6208b9a79716a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63302f4e616d696269615f6e756d62657265645f636f6c6f7265645f726567696f6e735f456e676c697368312e706e672f38303070782d4e616d696269615f6e756d62657265645f636f6c6f7265645f726567696f6e735f456e676c697368312e706e67"
 }
 ]

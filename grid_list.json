@@ -655,8 +655,14 @@
 },
 {
   "name": "us_state_grid6.csv",
-  "desc": "United States inclusing Washington, D.C. and Puerto Rico",
+  "desc": "United States of America including Washington, D.C. and Puerto Rico",
   "contrib": "https://github.com/krothkin",
   "ref_img": "https://camo.githubusercontent.com/c1ac0dd02771e221d5003984ab1ce518b864ef0c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61632f4d61705f6f665f5553415f50522e7376672f3132303070782d4d61705f6f665f5553415f50522e7376672e706e67"
+},
+{
+  "name": "fr_departements_grid1.csv",
+  "desc": "Grid for France's departements, the second levels of administrative boundaries after the regions",
+  "contrib": "https://github.com/tvroylandt",
+  "ref_img": "https://camo.githubusercontent.com/6c082d52645d75469d542aefed9ef2feb48b2247/68747470733a2f2f7777772e616964656d6f692e6e65742f67656f677261706869652f6672616e63652f646570617274656d656e745f7265647569742e676966"
 }
 ]

@@ -664,5 +664,11 @@
   "desc": "Grid for France's departements, the second levels of administrative boundaries after the regions",
   "contrib": "https://github.com/tvroylandt",
   "ref_img": "https://camo.githubusercontent.com/6c082d52645d75469d542aefed9ef2feb48b2247/68747470733a2f2f7777772e616964656d6f692e6e65742f67656f677261706869652f6672616e63652f646570617274656d656e745f7265647569742e676966"
+},
+{
+  "name": "ar_salta_prov_grid2.csv",
+  "desc": "Grids for Salta Province Argentina",
+  "contrib": "https://github.com/francogaleano",
+  "ref_img": "https://camo.githubusercontent.com/7ced09c1b65c46671c333cc13acbaf864eaa358b/68747470733a2f2f7777772e616d657473616c74612e636f6d2e61722f7765622f696d616765732f616e69766572736172696f732f32343430343436322e6a7067"
 }
 ]

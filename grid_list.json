@@ -676,5 +676,11 @@
   "desc": "Ireland counties. Code is the car number plate abbreviation for Republic counties, similar for the six counties of Northern Ireland. Tipperary is split North / South for historical reasons",
   "contrib": "https://github.com/eugene100hickey",
   "ref_img": "https://camo.githubusercontent.com/6497a5d179e5e3e64952f0334422bc0c2f634324/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f4972656c616e645f747261645f636f756e746965735f6e616d65642e737667"
+},
+{
+  "name": "sg_regions_grid1.csv",
+  "desc": "Urban planning regions of Singapore",
+  "contrib": "https://github.com/erhuttk",
+  "ref_img": "https://camo.githubusercontent.com/b5d68deaeb825640e7bf70a4965f6378b859bf22/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f53696e6761706f72655f506c616e6e696e675f526567696f6e732e706e672f3130323470782d53696e6761706f72655f506c616e6e696e675f526567696f6e732e706e67"
 }
 ]

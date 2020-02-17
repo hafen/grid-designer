@@ -1,0 +1,34 @@
+name,row,col,code
+Antrim,1,5,AN
+Derry,1,4,DY
+Donegal,1,3,DL
+Armagh,2,5,AR
+Down,2,6,DW
+Tyrone,2,4,TE
+Fermanagh,2,3,FH
+Mayo,3,1,MO
+Sligo,3,2,SO
+Leitrim,3,3,LM
+Cavan,3,4,CN
+Louth,3,6,LH
+Monaghan,3,5,MN
+Galway,4,1,GY
+Roscommon,4,2,RN
+Longford,4,3,LD
+Meath,4,5,MH
+Westmeath,4,4,WH
+Dublin,5,6,DN
+Kildare,5,5,KE
+Clare,5,2,CE
+Offaly,5,3,OY
+Laois,5,4,LS
+Tipperary N,6,3,TN
+Tipperary N,7,3,TS
+Wicklow,6,6,WW
+Limerick,6,2,LK
+Carlow,6,5,CW
+Kilkenny,6,4,KK
+Wexford,7,5,WX
+Waterford,7,4,WD
+Kerry,7,1,KY
+Cork,7,2,CK

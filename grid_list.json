@@ -682,5 +682,11 @@
   "desc": "Urban planning regions of Singapore",
   "contrib": "https://github.com/erhuttk",
   "ref_img": "https://camo.githubusercontent.com/b5d68deaeb825640e7bf70a4965f6378b859bf22/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f53696e6761706f72655f506c616e6e696e675f526567696f6e732e706e672f3130323470782d53696e6761706f72655f506c616e6e696e675f526567696f6e732e706e67"
+},
+{
+  "name": "us_ny_counties_grid1.csv",
+  "desc": "Counties of New York state, United States",
+  "contrib": "https://github.com/jjdfsny",
+  "ref_img": "https://user-images.githubusercontent.com/61556039/75466948-f9bb0980-5958-11ea-9727-b86ca7580a35.png"
 }
 ]

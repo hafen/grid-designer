@@ -688,5 +688,11 @@
   "desc": "Counties of New York state, United States",
   "contrib": "https://github.com/jjdfsny",
   "ref_img": "https://user-images.githubusercontent.com/61556039/75466948-f9bb0980-5958-11ea-9727-b86ca7580a35.png"
+},
+{
+  "name": "ru_federal_subjects_grid1.csv",
+  "desc": "Federal Subjects of Russia",
+  "contrib": "https://github.com/ParanoidAndroid18",
+  "ref_img": "https://camo.githubusercontent.com/a47b5ea20c00d051979e11a5f6641dfffc4c4c94/68747470733a2f2f7777772e776f726c6461746c61732e636f6d2f722f773732382d683432352d63373238783432352f75706c6f61642f66362f33362f37632f7368757474657273746f636b2d3634313836353833352e6a7067"
 }
 ]

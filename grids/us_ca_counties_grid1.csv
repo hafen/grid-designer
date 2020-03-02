@@ -1,0 +1,59 @@
+"code","name","row","col"
+"Del Norte","Del Norte",1,2
+"Modoc","Modoc",1,5
+"Siskiyou","Siskiyou",1,4
+"Humboldt","Humboldt",2,2
+"Lassen","Lassen",2,5
+"Shasta","Shasta",2,4
+"Trinity","Trinity",2,3
+"Mendocino","Mendocino",3,2
+"Plumas","Plumas",3,4
+"Tehama","Tehama",3,3
+"Butte","Butte",4,4
+"Glenn","Glenn",4,3
+"Lake","Lake",4,2
+"Sierra","Sierra",4,5
+"Colusa","Colusa",5,3
+"Nevada","Nevada",5,6
+"Sutter","Sutter",5,4
+"Yuba","Yuba",5,5
+"El Dorado","El Dorado",6,6
+"Napa","Napa",6,2
+"Placer","Placer",6,5
+"Sacramento","Sacramento",6,4
+"Sonoma","Sonoma",6,1
+"Yolo","Yolo",6,3
+"Alpine","Alpine",7,5
+"Amador","Amador",7,4
+"Marin","Marin",7,2
+"Solano","Solano",7,3
+"Calaveras","Calaveras",8,5
+"Contra Costa","Contra Costa",8,3
+"San Francisco","San Francisco",8,2
+"San Joaquin","San Joaquin",8,4
+"Alameda","Alameda",9,3
+"Mono","Mono",9,6
+"San Mateo","San Mateo",9,2
+"Stanislaus","Stanislaus",9,4
+"Tuolumne","Tuolumne",9,5
+"Madera","Madera",10,6
+"Mariposa","Mariposa",10,5
+"Merced","Merced",10,4
+"Santa Clara","Santa Clara",10,3
+"Santa Cruz","Santa Cruz",10,2
+"Fresno","Fresno",11,4
+"Inyo","Inyo",11,5
+"Monterey","Monterey",11,2
+"San Benito","San Benito",11,3
+"Kings","Kings",12,3
+"Tulare","Tulare",12,4
+"San Luis Obispo","San Luis Obispo",13,2
+"Kern","Kern",13,3
+"San Bernardino","San Bernardino",13,4
+"Santa Barbara","Santa Barbara",14,2
+"Riverside","Riverside",15,4
+"Ventura","Ventura",14,3
+"Los Angeles","Los Angeles",15,3
+"Imperial","Imperial",16,5
+"San Diego","San Diego",16,4
+"Orange","Orange",16,3

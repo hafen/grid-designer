@@ -1,11 +1,11 @@
 [
 {
-  "name": "us_state_grid1",
+  "name": "us_state_with_DC_grid1",
   "desc": "Grid layout for US states (including DC)",
   "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
 },
 {
-  "name": "us_state_grid2",
+  "name": "us_state_with_DC_grid2",
   "desc": "Grid layout for US states (including DC)",
   "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
 },
@@ -145,7 +145,7 @@
   "ref_img": "https://user-images.githubusercontent.com/1275592/28044967-3b508570-658f-11e7-99b5-b1d73c765c2e.png"
 },
 {
-  "name": "us_state_grid3",
+  "name": "us_state_grid1",
   "desc": "Grid layout for US states (excluding DC)",
   "contrib": "https://github.com/ejr248",
   "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
@@ -169,7 +169,7 @@
   "ref_img": "https://camo.githubusercontent.com/efa2c894793585141da8f7b9789b184eacc8d781/687474703a2f2f7777772e657570656469612e636f6d2f696d616765732f636f6e74656e742f42656c6769756d5f526567696f6e732e676966"
 },
 {
-  "name": "us_state_grid4",
+  "name": "us_state_with_DC_grid3",
   "desc": "Grid layout for US states (including DC).",
   "contrib": "https://github.com/kanishkamisra",
   "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
@@ -630,7 +630,7 @@
   "ref_img": "https://camo.githubusercontent.com/f14f25ac3e42051994f5fd4c53e2718c2b2290aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39652f4d61705f6f665f417267656e74696e615f776974685f70726f76696e6365735f6e616d65735f656e2e706e67"
 },
 {
-  "name": "us_state_grid5.csv",
+  "name": "us_state_grid2.csv",
   "desc": "Grid layout for United States with AK and HI flush with CA",
   "contrib": "https://github.com/christophercannon",
   "ref_img": "https://camo.githubusercontent.com/b446d99f631d067562f50a57449eddb0b89c1acf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61352f4d61705f6f665f5553415f776974685f73746174655f6e616d65732e737667"
@@ -654,7 +654,7 @@
   "ref_img": "https://camo.githubusercontent.com/603ad86c99a004316ac5b53c9dd73d9ce0f73811/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37612f4275726d615f61646d696e6973747261746976655f6469766973696f6e732e7376672f33303070782d4275726d615f61646d696e6973747261746976655f6469766973696f6e732e7376672e706e67"
 },
 {
-  "name": "us_state_grid6.csv",
+  "name": "us_state_with_DC_PR_grid1.csv",
   "desc": "United States of America including Washington, D.C. and Puerto Rico",
   "contrib": "https://github.com/krothkin",
   "ref_img": "https://camo.githubusercontent.com/c1ac0dd02771e221d5003984ab1ce518b864ef0c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61632f4d61705f6f665f5553415f50522e7376672f3132303070782d4d61705f6f665f5553415f50522e7376672e706e67"
@@ -706,5 +706,11 @@
   "desc": "Second level administrative divisions of Sri Lanka",
   "contrib": "https://github.com/thiyangt",
   "ref_img": "https://camo.githubusercontent.com/97b57a2d650118c1a5596330824feb7c4eacbcfd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63632f4469737472696374735f6f665f5372695f4c616e6b612e706e672f3132303070782d4469737472696374735f6f665f5372695f4c616e6b612e706e67"
+},
+{
+  "name": "us_state_grid3.csv",
+  "desc": "United States grid without Washington, D.C",
+  "contrib": "https://github.com/truongduongvn2",
+  "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

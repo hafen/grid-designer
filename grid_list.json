@@ -718,5 +718,11 @@
   "desc": "Corregimientos of Cali, Columbia",
   "contrib": "https://github.com/Carolina101",
   "ref_img": "https://user-images.githubusercontent.com/58274681/77264499-74312d80-6c68-11ea-8b87-b7185c53a8e8.png"
+},
+{
+  "name": "us_in_northern_counties_grid1.csv",
+  "desc": "Northern Counties of Indiana, United States",
+  "contrib": "https://github.com/robertoge",
+  "ref_img": "https://camo.githubusercontent.com/e083d6d2b65e0e6660b602a3261a3d382d84403e/68747470733a2f2f7777772e696e2e676f762f6476612f696d616765732f696e6469616e61636f756e74796d61702e6a7067"
 }
 ]

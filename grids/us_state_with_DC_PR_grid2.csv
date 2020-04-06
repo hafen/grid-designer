@@ -1,0 +1,53 @@
+row,col,code,name
+1,11,ME,Maine
+1,10,NH,New Hampshire
+1,9,VT,Vermont
+1,6,WI,Wisconsin
+2,2,ID,Idaho
+2,6,IL,Illinois
+2,10,MA,Massachusetts
+2,7,MI,Michigan
+2,5,MN,Minnesota
+2,3,MT,Montana
+2,9,NY,New York
+2,4,ND,North Dakota
+2,1,WA,Washington
+3,10,CT,Connecticut
+3,6,IN,Indiana
+3,5,IA,Iowa
+3,2,NV,Nevada
+3,9,NJ,New Jersey
+3,7,OH,Ohio
+3,1,OR,Oregon
+3,8,PA,Pennsylvania
+3,11,RI,Rhode Island
+3,4,SD,South Dakota
+3,3,WY,Wyoming
+4,1,CA,California
+4,3,CO,Colorado
+4,10,DE,Delaware
+4,6,KY,Kentucky
+4,9,MD,Maryland
+4,5,MO,Missouri
+4,4,NE,Nebraska
+4,2,UT,Utah
+4,8,VA,Virginia
+4,7,WV,West Virginia
+5,2,AZ,Arizona
+5,5,AR,Arkansas
+5,4,KS,Kansas
+5,3,NM,New Mexico
+5,7,NC,North Carolina
+5,8,SC,South Carolina
+5,6,TN,Tennessee
+5,9,DC,District of Columbia
+6,7,AL,Alabama
+6,8,GA,Georgia
+6,5,LA,Louisiana
+6,6,MS,Mississippi
+6,4,OK,Oklahoma
+6,11,PR,Puerto Rico
+7,2,AK,Alaska
+7,9,FL,Florida
+7,1,HI,Hawaii
+7,4,TX,Texas

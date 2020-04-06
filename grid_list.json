@@ -730,5 +730,11 @@
   "desc": "Autonomous Provinces of Italy",
   "contrib": "https://github.com/danilolofaro",
   "ref_img": "https://camo.githubusercontent.com/c99fec4eacdf2b580301a1296e977951661b9e2e/687474703a2f2f6135312e69646174612e6f7665722d626c6f672e636f6d2f332f33322f36382f32302f43617274696e615f6974616c69612e676966"
+},
+{
+  "name": "us_state_with_DC_PR_grid2.csv",
+  "desc": "Grid of 50 states, DC, and Puerto Rico",
+  "contrib": "https://github.com/krmaas",
+  "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

@@ -1,0 +1,22 @@
+row,col,code,name
+1,1,VAL,Valle d'Aosta
+1,3,TRE,Trento
+1,4,BLZ,Bolzano
+2,1,PIE,Piemonte
+2,2,LOM,Lombardia
+2,3,VEN,Veneto
+2,4,FRI,Friuli-Venezia Giulia
+3,1,LIG,Liguria
+3,2,EMI,Emilia-Romagna
+4,2,TOS,Toscana
+4,3,UMB,Umbria
+4,4,MAR,Marche
+5,3,LAZ,Lazio
+5,4,ABR,Abruzzo
+6,4,MOL,Molise
+6,1,SAR,Sardegna
+6,3,CAM,Campania
+6,5,PUG,Puglia
+7,5,BAS,Basilicata
+8,5,CAL,Calabria
+8,4,SIC,Sicilia

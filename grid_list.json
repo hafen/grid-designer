@@ -724,5 +724,11 @@
   "desc": "Northern Counties of Indiana, United States",
   "contrib": "https://github.com/robertoge",
   "ref_img": "https://camo.githubusercontent.com/e083d6d2b65e0e6660b602a3261a3d382d84403e/68747470733a2f2f7777772e696e2e676f762f6476612f696d616765732f696e6469616e61636f756e74796d61702e6a7067"
+},
+{
+  "name": "italy_grid3.csv",
+  "desc": "Autonomous Provinces of Italy",
+  "contrib": "https://github.com/danilolofaro",
+  "ref_img": "https://camo.githubusercontent.com/c99fec4eacdf2b580301a1296e977951661b9e2e/687474703a2f2f6135312e69646174612e6f7665722d626c6f672e636f6d2f332f33322f36382f32302f43617274696e615f6974616c69612e676966"
 }
 ]

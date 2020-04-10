@@ -742,5 +742,11 @@
   "desc": "United States grid with Washington, D.C",
   "contrib": "https://github.com/yichenqin",
   "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
+},
+{
+  "name": "sg_planning_area_grid2.csv",
+  "desc": "Singapore Planning Areas",
+  "contrib": "https://github.com/ZhimaoElliott",
+  "ref_img": "https://camo.githubusercontent.com/46010d480fc21b0e42dcdbd6a56c467e2dbe094d/68747470733a2f2f6f666f6d6170732e636f6d2f77702d636f6e74656e742f75706c6f6164732f6564642f323031392f30362f53696e6761706f72655f4d61702d352d323830783238302e676966"
 }
 ]

@@ -736,5 +736,11 @@
   "desc": "Grid of 50 states, DC, and Puerto Rico",
   "contrib": "https://github.com/krmaas",
   "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
+},
+{
+  "name": "us_state_grid7.csv",
+  "desc": "United States grid with Washington, D.C",
+  "contrib": "https://github.com/yichenqin",
+  "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

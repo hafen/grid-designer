@@ -1,0 +1,28 @@
+"code","name_local","name_de","name_fr","name_it","name_en","row","col"
+"SH","Schaffhausen","Schaffhausen","Schaffhouse","Sciaffusa","Schaffhausen",1,6
+"BS","Basel-Stadt","Basel-Stadt","Bâle-Ville","Basilea Città","Basel-City",1,4
+"TG","Thurgau","Thurgau","Thurgovie","Turgovia","Thurgovia",2,7
+"AG","Aargau","Aargau","Argovie","Argovia","Argovia",2,5
+"JU","Jura","Jura","Jura","Jura","Jura",2,3
+"BL","Basel-Landschaft","Basel-Landschaft","Bâle-Campagne","Basilea Campagna","Basel-Country",2,4
+"ZH","Zürich","Zürich","Zurich","Zurigo","Zurich",2,6
+"AI","Appenzell-Innerrhoden","Appenzell-Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno","Appenzell Inner-Rhodes",3,8
+"VD","Vaud","Waadt","Vaud","Vaud","Vaud",3,2
+"NE","Neuchâtel","Neuenburg","Neuchâtel","Neuchâtel","Neuchâtel",3,3
+"SO","Solothurn","Solothurn","Soleure","Soletta","Solothurn",3,4
+"LU","Luzern","Luzern","Lucerne","Lucerna","Lucerne",3,5
+"ZG","Zug","Zug","Zoug","Zugo","Zug",3,6
+"SG","St.Gallen","St.Gallen","Saint-Gall","San Gallo","St.Gallen",2,8
+"AR","Appenzell-Ausserrhoden","Appenzell-Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno","Appenzell Outer-Rhodes",3,7
+"FR","Fribourg","Freiburg","Fribourg","Friburgo","Fribourg",4,3
+"BE","Bern","Bern","Berne","Berna","Bern",4,4
+"NW","Nidwalden","Nidwalden","Nidwald","Nidvaldo","Nidwalden",4,5
+"GE","Genève","Genf","Genève","Ginevra","Geneva",4,1
+"SZ","Schwyz","Schwyz","Schwytz","Svitto","Schwyz",4,6
+"GL","Glarus","Glarus","Glaris","Glarona","Glarus",4,7
+"GR","Graubünden","Graubünden","Grisons","Grigioni","Grisons",4,9
+"VS","Valais","Wallis","Valais","Vallese","Valais",5,3
+"OW","Obwalden","Obwalden","Obwald","Obvaldo","Obwalden",5,5
+"UR","Uri","Uri","Uri","Uri","Uri",5,6
+"TI","Ticino","Tessin","Tessin","Ticino","Ticino",6,6
+"FL","Fürstentum Liechtenstein","Fürstentum Liechtenstein","Principauté de Liechtenstein","Principato del Liechtenstein","Principality of Liechtenstein",3,9

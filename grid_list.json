@@ -754,5 +754,12 @@
   "desc": "Grid layout for Cantons of Switzerland and the neighbouring Prinicipality of Liechtenstein",
   "contrib": "https://github.com/rastrau",
   "ref_img": "https://camo.githubusercontent.com/e9cc4af58e6fd5cce80789b66965a5f6b1261043/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532467777772e6d6170736f66776f726c642e636f6d253246737769747a65726c616e642532466d617073253246737769747a65726c616e642d706f6c69746963616c2d6d61702e6a706726663d31266e6f66623d31"
+},
+{
+  "name": "europe_countries_grid2.csv",
+  "desc": "Grid layout for European countries (minus micro nations)",
+  "contrib": "https://github.com/rastrau",
+  "ref_img": "https://camo.githubusercontent.com/26d57bac5a363cea2e60c86241a11f85761929eb/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f31662f36372f66613166363739386264346639643439303465303864633063643163323331662e676966"
 }
+
 ]

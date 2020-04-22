@@ -1,0 +1,78 @@
+"name","code","row","col"
+"Rogers Park","Rogers Park",1,8
+"North Park","North Park",2,6
+"Forest Glen","Forest Glen",2,5
+"Edgewater","Edgewater",2,8
+"Edison Park","Edison Park",2,4
+"West Ridge","West Ridge",2,7
+"Albany Park","Albany Park",3,6
+"O'hare","O'hare",3,2
+"Norwood Park","Norwood Park",3,4
+"Jefferson Park","Jefferson Park",3,5
+"Uptown","Uptown",3,8
+"Lincoln Square","Lincoln Square",3,7
+"Irving Park","Irving Park",4,5
+"Portage Park","Portage Park",4,4
+"Lake View","Lake View",4,8
+"Dunning","Dunning",4,3
+"North Center","North Center",4,7
+"Avondale","Avondale",4,6
+"Montclare","Montclare",5,3
+"Hermosa","Hermosa",5,5
+"Belmont Cragin","Belmont Cragin",5,4
+"Lincoln Park","Lincoln Park",5,8
+"Logan Square","Logan Square",5,7
+"Near North Side","Near North Side",6,8
+"Humboldt Park","Humboldt Park",6,5
+"Austin","Austin",6,3
+"West Town","West Town",6,6
+"The Loop","The Loop",7,8
+"West Garfield Park","West Garfield Park",7,4
+"Near West Side","Near West Side",7,6
+"East Garfield Park","East Garfield Park",7,5
+"Near South Side","Near South Side",8,8
+"North Lawndale","North Lawndale",8,5
+"Lower West Side","Lower West Side",8,6
+"Bridgeport","Bridgeport",8,7
+"Armour Square","Armour Square",9,7
+"South Lawndale","South Lawndale",9,5
+"Douglas","Douglas",9,8
+"Oakland","Oakland",9,9
+"Mckinley Park","Mckinley Park",9,6
+"Fuller Park","Fuller Park",10,7
+"Grand Boulevard","Grand Boulevard",10,8
+"Archer Heights","Archer Heights",10,4
+"Brighton Park","Brighton Park",10,5
+"Kenwood","Kenwood",10,9
+"New City","New City",10,6
+"Garfield Ridge","Garfield Ridge",10,3
+"Hyde Park","Hyde Park",11,9
+"West Elsdon","West Elsdon",11,4
+"Washington Park","Washington Park",11,8
+"Gage Park","Gage Park",11,5
+"Clearing","Clearing",11,3
+"Englewood","Englewood",11,7
+"West Englewood","West Englewood",11,6
+"West Lawn","West Lawn",12,4
+"Woodlawn","Woodlawn",12,9
+"Chicago Lawn","Chicago Lawn",12,5
+"Grand Crossing","Grand Crossing",12,8
+"South Shore","South Shore",12,10
+"Ashburn","Ashburn",13,6
+"Auburn-Gresham","Auburn-Gresham",13,7
+"Chatham","Chatham",13,8
+"Avalon Park","Avalon Park",13,9
+"Burnside","Burnside",14,8
+"Washington Heights","Washington Heights",14,7
+"Beverly","Beverly",14,6
+"Calumet Heights","Calumet Heights",14,9
+"South Chicago","South Chicago",14,10
+"Morgan Park","Morgan Park",15,6
+"Mount Greenwood","Mount Greenwood",15,5
+"Roseland","Roseland",15,7
+"Pullman","Pullman",15,8
+"South Deering","South Deering",15,9
+"East Side","East Side",15,10
+"West Pullman","West Pullman",16,8
+"Riverdale","Riverdale",16,9
+"Hegewisch","Hegewisch",16,10

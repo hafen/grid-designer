@@ -784,5 +784,11 @@
   "desc": "United States grid with Washington, D.C. and Puerto Rico",
   "contrib": "https://github.com/klittle314",
   "ref_img": "https://camo.githubusercontent.com/8706f8c7513f0d31c83627d9a7fed6499a93d4ef/68747470733a2f2f7061736172656c6170722e636f6d2f696d616765732f75732d6d61702d776974682d70756572746f2d7269636f2f75732d6d61702d776974682d70756572746f2d7269636f2d392e706e67"
+},
+{
+  "name": "in_state_ut_grid2.csv",
+  "desc": "Grid of Indian States and Union Territories",
+  "contrib": "https://github.com/dnyansagar",
+  "ref_img": "https://user-images.githubusercontent.com/29943634/80574618-7a9e8c00-8a02-11ea-8387-1056410cb54b.png"
 }
 ]

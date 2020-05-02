@@ -796,5 +796,11 @@
   "desc": "Grid layout for States of Austria",
   "contrib": "https://github.com/werkstattcodes",
   "ref_img": "https://user-images.githubusercontent.com/9595585/80590528-4e900480-8a1c-11ea-9bf0-151cce354249.png"
+},
+{
+  "name": "us_pa_counties_grid1.csv",
+  "desc": "Grid layout of Counties of Pennsylvania, United States",
+  "contrib": "https://github.com/urbanSpatial",
+  "ref_img": "https://camo.githubusercontent.com/9e66d19e37c885372b6782efc53f6f3200ce7497/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38332f50656e6e73796c76616e69615f636f756e746965735f6d61702e706e67"
 }
 ]

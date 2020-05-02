@@ -790,5 +790,11 @@
   "desc": "Grid of Indian States and Union Territories",
   "contrib": "https://github.com/dnyansagar",
   "ref_img": "https://user-images.githubusercontent.com/29943634/80574618-7a9e8c00-8a02-11ea-8387-1056410cb54b.png"
+},
+{
+  "name": "at_states_grid1.csv",
+  "desc": "Grid layout for States of Austria",
+  "contrib": "https://github.com/werkstattcodes",
+  "ref_img": "https://user-images.githubusercontent.com/9595585/80590528-4e900480-8a1c-11ea-9bf0-151cce354249.png"
 }
 ]

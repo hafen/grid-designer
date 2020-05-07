@@ -814,6 +814,11 @@
   "desc": "Grid layout of Departements of France",
   "contrib": "https://github.com/jerbou",
   "ref_img": "https://camo.githubusercontent.com/e0992f21a9ff02c5bf792817cd17fd2bab550dfe/68747470733a2f2f61626f75742d6672616e63652e636f6d2f4d61702d6672616e63652d7265672e676966"
+},
+{
+  "name": "us_wi_counties_grid1.csv",
+  "desc": "Grid layout for counties of Wisconsin, United States",
+  "contrib": "https://github.com/aravamu2",
+  "ref_img": "https://camo.githubusercontent.com/493b3324ca2680e299745b72c46ddfb7ab6bbf08/68747470733a2f2f7777772e6468732e776973636f6e73696e2e676f762f73697465732f64656661756c742f66696c65732f77692d636f756e746965732e676966"
 }
-
 ]

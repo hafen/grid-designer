@@ -808,5 +808,12 @@
   "desc": "Grid layout of Counties of Ohio, United States",
   "contrib": "https://github.com/taylorokonek",
   "ref_img": "https://camo.githubusercontent.com/f52a753f240e844905bd487a35cbc3055c7fd58f/687474703a2f2f7777772e646f742e73746174652e6f682e75732f6d6170732f5075626c697368696e67496d616765732f506c61696e436f756e74792e676966"
+},
+{
+  "name": "fr_departements_grid2.csv",
+  "desc": "Grid layout of Departements of France",
+  "contrib": "https://github.com/jerbou",
+  "ref_img": "https://camo.githubusercontent.com/e0992f21a9ff02c5bf792817cd17fd2bab550dfe/68747470733a2f2f61626f75742d6672616e63652e636f6d2f4d61702d6672616e63652d7265672e676966"
 }
+
 ]

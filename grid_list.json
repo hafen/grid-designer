@@ -820,5 +820,11 @@
   "desc": "Grid layout for counties of Wisconsin, United States",
   "contrib": "https://github.com/aravamu2",
   "ref_img": "https://camo.githubusercontent.com/493b3324ca2680e299745b72c46ddfb7ab6bbf08/68747470733a2f2f7777772e6468732e776973636f6e73696e2e676f762f73697465732f64656661756c742f66696c65732f77692d636f756e746965732e676966"
+},
+{
+  "name": "africa_countries_grid1.csv",
+  "desc": "Grid for all countries in Africa. Namibia added as 'NAM' to avoid NA collisions",
+  "contrib": "https://github.com/ntncmch",
+  "ref_img": "https://camo.githubusercontent.com/1b60515e108610e2a510e205c5cbbee28a53b85a/687474703a2f2f342e62702e626c6f6773706f742e636f6d2f2d33616d4d4e5952413255342f56654c55755779596874492f41414141414141414546672f46395a595a6f49444346342f73313630302f6166726963612d636f756e7472792d6d61702e706e67"
 }
 ]

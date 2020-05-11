@@ -1,0 +1,55 @@
+"name","code","row","col"
+"Morocco","MA",1,2
+"Algeria","DZ",1,3
+"Tunisia","TN",1,4
+"Libya","LY",1,5
+"Egypt","EG",1,6
+"Senegal","SN",2,1
+"Mauritania","MR",2,2
+"Mali","ML",2,3
+"Niger","NE",2,4
+"Chad","TD",2,5
+"Sudan","SD",2,6
+"Eritrea","ER",2,7
+"Gambia","GM",3,1
+"Guinea-Bissau","GW",3,2
+"Guinea","GN",3,3
+"Burkina Faso","BF",3,4
+"Benin","BJ",3,5
+"Central African Republic","CF",3,6
+"South Sudan","SS",3,7
+"Djibouti","DJ",3,8
+"Sierra Leone","SL",4,1
+"Liberia","LR",4,2
+"Côte d'Ivoire","CI",4,3
+"Ghana","GH",4,4
+"Togo","TG",4,5
+"Ethiopia","ET",4,7
+"Somalia","SO",4,8
+"Uganda","UG",4,6
+"Cameroon","CM",5,4
+"Republic of the Congo","CG",5,5
+"Kenya","KE",5,7
+"Democratic Republic of the Congo","CD",5,6
+"Nigeria","NG",5,3
+"Equatorial Guinea","GQ",6,3
+"Gabon","GA",6,4
+"Burundi","BI",6,5
+"Rwanda","RW",6,6
+"Tanzania","TZ",6,7
+"Angola","AO",7,4
+"Zambia","ZM",7,5
+"Malawi","MW",7,6
+"Mozambique","MZ",7,7
+"Madagascar","MG",7,9
+"Namibia","NAM",8,4
+"Botswana","BW",8,5
+"Zimbabwe","ZW",8,6
+"Cabo Verde","CV",8,1
+"São Tomé and Principe","ST",9,1
+"Eswatini","SZ",9,5
+"Lesotho","LS",9,6
+"Comoros","KM",9,2
+"South Africa","ZA",10,5
+"Mauritius","MU",10,1
+"Seychelles","SC",10,2

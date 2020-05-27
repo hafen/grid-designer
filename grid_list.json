@@ -845,5 +845,11 @@
   "desc": "US State_grid showing only the states for which some portion falls east of the 100th meridian",
   "contrib": "https://github.com/mihiarc",
   "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
+},
+{
+  "name": "br_states_grid3",
+  "desc": "Grid map of States of Brazil organized horizontally by region",
+  "contrib": "https://github.com/lzrmr",
+  "ref_img": "https://camo.githubusercontent.com/7873fec87f0dd0428d243b217546b3809762f4f1/68747470733a2f2f7777772e776f726c646f666d6170732e6e65742f7479706f3374656d702f696d616765732f62756e6465737374616174656e2d62726173696c69656e2e706e67"
 }
 ]

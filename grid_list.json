@@ -839,5 +839,11 @@
   "desc": "Grid of Provinces of Turkey",
   "contrib": "https://github.com/sadettindemirel",
   "ref_img": "https://camo.githubusercontent.com/1576de0be9c4381984f6082ad6e7dafdaee69f69/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303138313230362f69746a2f6b697373706e672d697374616e62756c2d70726f76696e6365732d6f662d7475726b65792d62757273612d70726f76696e63652d6d61702d616e2d6469737472696274726c65722d726f746f666c7569642d646e65722d62616c616e742d656c652d35633039383137656139653461362e323033373431303731353434313236383436363935392e6a7067"
+},
+{
+  "name": "us_eastern_states_grid1",
+  "desc": "US State_grid showing only the states for which some portion falls east of the 100th meridian",
+  "contrib": "https://github.com/mihiarc",
+  "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

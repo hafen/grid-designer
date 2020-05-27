@@ -857,5 +857,11 @@
   "desc": "Grid map of US States and Territories",
   "contrib": "https://github.com/edavidaja",
   "ref_img": "https://camo.githubusercontent.com/83eb052673572f1a6785075d9e46759cb28ef4cc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39312f5465727269746f7269616c5f7761746572735f2d5f556e697465645f5374617465732e7376672f3238383070782d5465727269746f7269616c5f7761746572735f2d5f556e697465645f5374617465732e7376672e706e67"
+},
+{
+  "name": "us_state_grid8",
+  "desc": "Grid map of US States including Washington, D.C.",
+  "contrib": "https://github.com/krothkin",
+  "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

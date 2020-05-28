@@ -863,5 +863,11 @@
   "desc": "Grid map of US States including Washington, D.C.",
   "contrib": "https://github.com/krothkin",
   "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
+},
+{
+  "name": "us_state_grid9",
+  "desc": "Grid map of US States including Washington, D.C.",
+  "contrib": "https://github.com/krothkin",
+  "ref_img": "https://camo.githubusercontent.com/5038126fbe0052e7d42602dc6856aedc7822f639/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

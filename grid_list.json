@@ -875,5 +875,11 @@
   "desc": "Grid of Departements of France",
   "contrib": "https://github.com/leachareyre",
   "ref_img": "https://camo.githubusercontent.com/f34c4191c203854412cf767e3011286c22177b23/68747470733a2f2f6c68352e67677068742e636f6d2f7836747035465830484a7155494c57725f63614245393065756852785349553635794d42706e6c456231766a6e69627333435a496f6470743977547a594f5f61477464323d68393030"
+},
+{
+  "name": "in_state_ut_grid3",
+  "desc": "Grid of Indian States and Union Territories",
+  "contrib": "https://github.com/aeschuma",
+  "ref_img": "https://user-images.githubusercontent.com/29943634/80574618-7a9e8c00-8a02-11ea-8387-1056410cb54b.png"
 }
 ]

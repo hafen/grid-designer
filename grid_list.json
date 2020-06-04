@@ -887,5 +887,11 @@
   "desc": "Grid of Provinces of Thailand",
   "contrib": "https://github.com/PaulApivat",
   "ref_img": "https://camo.githubusercontent.com/d91bd6c6a2f88e1039e5c4c07e1faf9e7034a77e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63352f546861696c616e645f70726f76696e6365735f656e2e7376672f3132303070782d546861696c616e645f70726f76696e6365735f656e2e7376672e706e67"
+},
+{
+  "name": "th_bangkok_districts_grid1",
+  "desc": "Grid of Districts of Bangkok, Thailand",
+  "contrib": "https://github.com/PaulApivat",
+  "ref_img": "https://camo.githubusercontent.com/d2af0063c81f360e85703d3e6d291a3be79db99d/68747470733a2f2f6d6170732d62616e676b6f6b2e636f6d2f696d672f302f62616e676b6f6b2d64697374726963742d6d61702e6a7067"
 }
 ]

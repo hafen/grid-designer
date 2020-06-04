@@ -881,5 +881,11 @@
   "desc": "Grid of Indian States and Union Territories",
   "contrib": "https://github.com/aeschuma",
   "ref_img": "https://user-images.githubusercontent.com/29943634/80574618-7a9e8c00-8a02-11ea-8387-1056410cb54b.png"
+},
+{
+  "name": "th_provinces_grid1",
+  "desc": "Grid of Provinces of Thailand",
+  "contrib": "https://github.com/PaulApivat",
+  "ref_img": "https://camo.githubusercontent.com/d91bd6c6a2f88e1039e5c4c07e1faf9e7034a77e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63352f546861696c616e645f70726f76696e6365735f656e2e7376672f3132303070782d546861696c616e645f70726f76696e6365735f656e2e7376672e706e67"
 }
 ]

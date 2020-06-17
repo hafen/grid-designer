@@ -893,5 +893,11 @@
   "desc": "Grid of Districts of Bangkok, Thailand",
   "contrib": "https://github.com/PaulApivat",
   "ref_img": "https://camo.githubusercontent.com/d2af0063c81f360e85703d3e6d291a3be79db99d/68747470733a2f2f6d6170732d62616e676b6f6b2e636f6d2f696d672f302f62616e676b6f6b2d64697374726963742d6d61702e6a7067"
+},
+{
+  "name": "ca_us_prov_state_grid1",
+  "desc": "Grid of Provinces and States of Canada and US",
+  "contrib": "https://github.com/ahcyip",
+  "ref_img": "https://camo.githubusercontent.com/3d1bf4ae0c0284f84e563c0d77afd4e546b62f12/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33342f63342f35312f33346334353166316234396362336436313231373933353935646564323337342e6a7067"
 }
 ]

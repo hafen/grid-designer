@@ -899,5 +899,11 @@
   "desc": "Grid of Provinces and States of Canada and US",
   "contrib": "https://github.com/ahcyip",
   "ref_img": "https://camo.githubusercontent.com/3d1bf4ae0c0284f84e563c0d77afd4e546b62f12/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33342f63342f35312f33346334353166316234396362336436313231373933353935646564323337342e6a7067"
+},
+{
+  "name": "sy_governorates_grid1",
+  "desc": "Grid of ADM-1 units (governorates) for Syria",
+  "contrib": "https://github.com/jschon637",
+  "ref_img": "https://camo.githubusercontent.com/ab371c6ed691ad39c65942b9711ad58c4c3432f5/68747470733a2f2f73617773616e7269666165652e66696c65732e776f726470726573732e636f6d2f323031342f30332f737972696534392e676966"
 }
 ]

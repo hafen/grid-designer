@@ -917,5 +917,11 @@
   "desc": "Grid of Commonwealth of Virginia's Health Districts",
   "contrib": "https://github.com/osesusan",
   "ref_img": "https://camo.githubusercontent.com/179f158ebbdc70433a88909fbed72e20273f5d43/68747470733a2f2f692e696d6775722e636f6d2f6c70594e51524f2e706e67"
+},
+{
+  "name": "at_states_DE_grid1",
+  "desc": "Same as at_states_grid1, but with german names of states",
+  "contrib": "https://github.com/wkapga",
+  "ref_img": "https://user-images.githubusercontent.com/9595585/80590528-4e900480-8a1c-11ea-9bf0-151cce354249.png"
 }
 ]

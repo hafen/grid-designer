@@ -917,5 +917,11 @@
   "desc": "Grid of Commonwealth of Virginia's Health Districts",
   "contrib": "https://github.com/osesusan",
   "ref_img": "https://camo.githubusercontent.com/179f158ebbdc70433a88909fbed72e20273f5d43/68747470733a2f2f692e696d6775722e636f6d2f6c70594e51524f2e706e67"
+},
+{
+  "name": "us_state_without_DC_canada_prov_grid1",
+  "desc": " US States without DC with 10 Canadian Provinces",
+  "contrib": "https://github.com/opus1993",
+  "ref_img": "https://camo.githubusercontent.com/4f22d68c8a9401de652188a50c80f9850da1511f/68747470733a2f2f692e696d6775722e636f6d2f793461677170392e706e67"
 }
 ]

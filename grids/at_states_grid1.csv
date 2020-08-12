@@ -1,10 +1,10 @@
-"code","name","row","col"
-"4","Upper Austria",1,3
-"3","Lower Austria",1,4
-"9","Vienna",1,5
-"8","Vorarlberg",2,1
-"7","Tyrol",2,2
-"5","Salzburg",2,3
-"6","Styria",2,4
-"1","Burgenland",2,5
-"2","Carinthia",3,4
+row,col,code,name,name_de
+1,3,4,Upper Austria,Oberösterreich
+1,4,3,Lower Austria,Niederösterreich
+1,5,9,Vienna,Wien
+2,1,8,Vorarlberg,Vorarlberg
+2,2,7,Tyrol,Tirol
+2,3,5,Salzburg,Salzburg
+2,4,6,Styria,Steiermark
+2,5,1,Burgenland,Burgenland
+3,4,2,Carinthia,Kärnten

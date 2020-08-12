@@ -920,8 +920,14 @@
 },
 {
   "name": "us_state_without_DC_canada_prov_grid1",
-  "desc": " US States without DC with 10 Canadian Provinces",
+  "desc": "US States without DC with 10 Canadian Provinces",
   "contrib": "https://github.com/opus1993",
   "ref_img": "https://camo.githubusercontent.com/4f22d68c8a9401de652188a50c80f9850da1511f/68747470733a2f2f692e696d6775722e636f6d2f793461677170392e706e67"
+},
+{
+  "name": "ir_provinces_grid1",
+  "desc": "Provinces of Iran",
+  "contrib": "https://github.com/mcnakhaee",
+  "ref_img": "https://camo.githubusercontent.com/1ad9a8fee35be4b02ff2987d7c25940de1377ed9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64332f4d61705f6f665f4972616e5f776974685f70726f76696e63655f6e616d65735f616e645f6e65696768626f72696e675f6c616e642e7376672f36303070782d4d61705f6f665f4972616e5f776974685f70726f76696e63655f6e616d65735f616e645f6e65696768626f72696e675f6c616e642e7376672e706e67"
 }
 ]

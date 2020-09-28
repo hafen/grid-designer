@@ -959,5 +959,11 @@
   "desc": "Grid of 27 districts of Malawi (all districts other than Likoma, which is an island)",
   "contrib": "https://github.com/taylorokonek",
   "ref_img": "https://camo.githubusercontent.com/b7b9267130118c944dc7bc0adaa744a0d5d856a2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61662f4d572d4469737472696374732e7376672f32363070782d4d572d4469737472696374732e7376672e706e67"
+},
+{
+  "name": "dk_cph_grid1",
+  "desc": "Grid of the 10 districts of Copenhagen, Denmark",
+  "contrib": "https://github.com/Straubinger",
+  "ref_img": "https://camo.githubusercontent.com/944b8e1eb01ad8757051b205ac543cf46ef26fef/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36322f4469737472696374735f6f665f436f70656e686167656e5f757262616e5f617265612e706e67"
 }
 ]

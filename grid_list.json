@@ -983,5 +983,11 @@
   "desc": "Grid of Departamental Political Division of Bolivia",
   "contrib": "https://github.com/tartagalensis",
   "ref_img": "https://user-images.githubusercontent.com/46819023/96675402-318c1c80-1341-11eb-9ab7-29ab0f6139a8.png"
+},
+{
+  "name": "ie_counties_grid3.csv",
+  "desc": "Grid of 32 Counties of Ireland with Tipperary as one county",
+  "contrib": "https://github.com/superboreen",
+  "ref_img": "https://camo.githubusercontent.com/c0b3ed34cab8492965a9cf3493af7ef253ed0d7e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f70686f746f732e67656e692e636f6d2f7031332f64662f63392f30642f34642f353334343438336265623633333562642f6b6971373877756a5f6f726967696e616c2e6a7067"
 }
 ]

@@ -977,5 +977,11 @@
   "desc": "Counties of Ireland",
   "contrib": "https://github.com/cbhurley",
   "ref_img": "https://camo.githubusercontent.com/33b7553d410b17f6b3ebf2de8b9e248aa2c374a5/687474703a2f2f6f6e746865776f726c646d61702e636f6d2f6972656c616e642f636f756e746965732d6d61702d6f662d6972656c616e642d6d61782e6a7067"
+},
+{
+  "name": "bo_departments_grid1",
+  "desc": "Grid of Departamental Political Division of Bolivia",
+  "contrib": "https://github.com/tartagalensis",
+  "ref_img": "https://user-images.githubusercontent.com/46819023/96675402-318c1c80-1341-11eb-9ab7-29ab0f6139a8.png"
 }
 ]

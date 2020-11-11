@@ -1007,5 +1007,11 @@
   "desc": "Geofacet grid for the cartographic boundary map of the four official US regions, according to the US Census Bureau",
   "contrib": "https://github.com/AnneIoannides",
   "ref_img": "https://camo.githubusercontent.com/0aebfbcac7c60accda75caaa13cbf1f5c7e41c22c603732dde69cadc54e16db3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f352f35392f55535f345f726567696f6e732e737667"
+},
+{
+  "name": "ar_buenosaires_conurbano_grid1",
+  "desc": "Grids representing the greater Buenos Aires area which includes the autonomous city of Buenos Aires and some department/partidos of the Buenos Aires Province",
+  "contrib": "https://github.com/SantiagoEsteban",
+  "ref_img": "https://camo.githubusercontent.com/1d81233e74876b04419f86ca6286bf9bb88e59f63f68c2465efce87b5a19d41e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30622f47726561745f6275656e6f735f61697265732e706e67"
 }
 ]

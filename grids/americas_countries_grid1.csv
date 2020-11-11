@@ -1,0 +1,49 @@
+code,name,row,col
+24,Greenland,2,5
+12,Canada,2,3
+44,United States,3,3
+8,Bermuda,4,8
+18,Cayman Islands,4,7
+41,Turks & Caicos Islands,4,6
+16,Cuba,4,5
+32,Mexico,4,3
+2,Anguilla,5,8
+47,British Virgin Islands,5,7
+28,Haiti,5,6
+29,Jamaica,5,5
+40,Sint Maarten,6,8
+36,Puerto Rico,6,7
+20,Dominican Republic,6,6
+4,Antigua & Barbuda,7,8
+25,Guatemala,6,2
+38,El Salvador,6,3
+48,U.S. Virgin Islands,7,7
+17,Curaçao,7,6
+19,Dominica,8,8
+27,Honduras,7,2
+6,Bahamas,7,1
+34,Panama,7,4
+7,Belize,7,3
+30,St. Kitts & Nevis,8,7
+11,Barbados,9,8
+33,Nicaragua,8,1
+15,Costa Rica,8,2
+26,Guyana,8,4
+1,Aruba,8,3
+39,Suriname,8,5
+23,Grenada,9,7
+45,St. Vincent & Grenadines,10,8
+21,Ecuador,9,1
+46,Venezuela,9,4
+35,Peru,9,2
+5,Caribbean Netherlands,9,9
+14,Colombia,9,3
+10,Brazil,9,5
+31,St. Lucia,10,7
+42,Trinidad & Tobago,11,8
+37,Paraguay,10,4
+9,Bolivia,10,3
+43,Uruguay,10,5
+13,Chile,11,4
+3,Argentina,11,5
+22,Falkland Islands,13,7

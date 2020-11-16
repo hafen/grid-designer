@@ -1019,5 +1019,11 @@
   "desc": "Counties of the State of Maryland, United States",
   "contrib": "https://github.com/tecason",
   "ref_img": "https://camo.githubusercontent.com/b57db8af1c17fd30191dd8dd2a70c734fb7c72c62e0d9e20425751d604096360/68747470733a2f2f7777772e6d6170736f66776f726c642e636f6d2f7573612f7374617465732f6d6172796c616e642f6d6170732f6d6172796c616e642d636f756e74792d6d61702e6a7067"
+},
+{
+  "name": "us_ia_counties_grid2",
+  "desc": "Counties of the State of Iowa, United States",
+  "contrib": "https://github.com/tecason",
+  "ref_img": "https://camo.githubusercontent.com/80b07e2486e134cb72c04a3a0b0c7409dd82b600173936d8ccc8dc7c105b5225/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39352f496f77615f636f756e746965735f776974685f6e756d626572732e6a7067"
 }
 ]

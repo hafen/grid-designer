@@ -259,7 +259,7 @@
   "ref_img": "https://user-images.githubusercontent.com/1275592/82837533-32964c00-9e7e-11ea-841f-8ab3a202b888.png"
 },
 {
-  "name": "spain_ccaa_grid1",
+  "name": "es_autonomous_communities_grid1",
   "desc": "Grid layout for Spanish 'Comunidades Autónomas'.",
   "contrib": "https://github.com/JoseAntonioOrtega",
   "ref_img": "https://user-images.githubusercontent.com/1275592/54301007-558b5780-457b-11e9-8796-9f7a3859820d.jpg"
@@ -1043,5 +1043,11 @@
   "desc": "Counties (Judete) of Romania",
   "contrib": "https://github.com/vparvu",
   "ref_img": "https://camo.githubusercontent.com/d68b57b39e7a78d21ce36e70d46eabde54525cebb4ca7adcb9c07f0f1b2c16a0/687474703a2f2f74726176656c7366696e646572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30352f726f6d616e69612d6d61702d776974682d636f756e746965732d5f312e676966"
+},
+{
+  "name": "es_autonomous_communities_grid2",
+  "desc": "Autonomous Communities of Spain",
+  "contrib": "https://github.com/dieghernan",
+  "ref_img": "https://camo.githubusercontent.com/1d3b2f8c3ced1d9eb844bdd54f9a19935f06a1df303c6651e9108985cf1e398c/68747470733a2f2f61626f75742d737061696e2e6e65742f6d6170732f726567696f6e732d737061696e2d322e6a7067"
 }
 ]

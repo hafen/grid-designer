@@ -1049,5 +1049,11 @@
   "desc": "Autonomous Communities of Spain",
   "contrib": "https://github.com/dieghernan",
   "ref_img": "https://camo.githubusercontent.com/1d3b2f8c3ced1d9eb844bdd54f9a19935f06a1df303c6651e9108985cf1e398c/68747470733a2f2f61626f75742d737061696e2e6e65742f6d6170732f726567696f6e732d737061696e2d322e6a7067"
+},
+{
+  "name": "qa_municipalities_grid1",
+  "desc": "Municipalities of Qatar",
+  "contrib": "https://github.com/stedy",
+  "ref_img": "https://camo.githubusercontent.com/d3db1f3ab43ac6f58eca54b513da15743d63a36f4c2f7a7b1ade397c4e80cb72/68747470733a2f2f7777772e6e65746d6170732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031352f30342f71617461722d706f6c69746963616c2d6d61702e6a7067"
 }
 ]

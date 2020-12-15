@@ -1067,5 +1067,11 @@
   "desc": "Countries of the Middle East with ISO codes",
   "contrib": "https://github.com/anamartincalde",
   "ref_img": "https://camo.githubusercontent.com/abc894a025e0bfb1cdd5576ef4ec9344f3fcc423a304c23662b32de551a8b6d1/68747470733a2f2f7777772e776f726c6461746c61732e636f6d2f722f773936302d7138302f75706c6f61642f30322f37302f32662f7368757474657273746f636b2d313136383639343033382e6a7067"
+},
+{
+  "name": "cz_prague_districts_grid1",
+  "desc": "Grid of the 57 city districts of the city of Prague, Czech Republic using RUIAN IDs",
+  "contrib": "https://github.com/petrbouchal",
+  "ref_img": "https://user-images.githubusercontent.com/1666657/101965315-87c85e00-3c14-11eb-91bb-800e68e3dc15.png"
 }
 ]

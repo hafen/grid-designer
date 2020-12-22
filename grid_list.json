@@ -1073,5 +1073,11 @@
   "desc": "Grid of the 57 city districts of the city of Prague, Czech Republic using RUIAN IDs",
   "contrib": "https://github.com/petrbouchal",
   "ref_img": "https://user-images.githubusercontent.com/1666657/101965315-87c85e00-3c14-11eb-91bb-800e68e3dc15.png"
+},
+{
+  "name": "es_catalonia_comarques_grid1",
+  "desc": "Grid of Comarques of Catalonia, Soain",
+  "contrib": "https://github.com/Storydata",
+  "ref_img": "https://camo.githubusercontent.com/8551c606a89b2a26af6bbe8636c8928559ab053bcc2bae73a85892e6e4e82055/68747470733a2f2f6470732e67656e6361742e6361742f6a6f765f6e6f7469735f7765622f696d616765732f656e7469746174734c6c657572652f6d6170612e676966"
 }
 ]

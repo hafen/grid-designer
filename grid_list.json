@@ -1079,5 +1079,11 @@
   "desc": "Grid of Comarques of Catalonia, Soain",
   "contrib": "https://github.com/Storydata",
   "ref_img": "https://camo.githubusercontent.com/8551c606a89b2a26af6bbe8636c8928559ab053bcc2bae73a85892e6e4e82055/68747470733a2f2f6470732e67656e6361742e6361742f6a6f765f6e6f7469735f7765622f696d616765732f656e7469746174734c6c657572652f6d6170612e676966"
+},
+{
+  "name": "no_counties_grid2",
+  "desc": "Counties of Norway in 2020",
+  "contrib": "https://github.com/LIVF",
+  "ref_img": "https://camo.githubusercontent.com/8d2a007db3857588d2a378e0f225ad257b2762b33e3b816daaffbde863dc2595/68747470733a2f2f7777772e6c696665696e6e6f727761792e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30312f6e6f727761792d636f756e74792d6d61702d323032302e6a7067"
 }
 ]

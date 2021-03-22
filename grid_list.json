@@ -1091,5 +1091,11 @@
   "desc": "Neighborhoods of Helsinki, Finland",
   "contrib": "https://github.com/msutela",
   "ref_img": "https://camo.githubusercontent.com/012b83d922848fccf3cbafaf91cf9afc02e561b498a8844991ac2c5d42c9283a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37372f48656c73696e6b695f6e65696768626f72686f6f64732d66692e7376672f3130323470782d48656c73696e6b695f6e65696768626f72686f6f64732d66692e7376672e706e67"
+},
+{
+  "name": "us_state_without_DC_AK_HI_grid1",
+  "desc": "Updated US state Without DC, AK and HI"
+  "contrib": "https://github.com/KWB4484",
+  "ref_img": "https://camo.githubusercontent.com/d4fe7b96c874336c47c3b8037e1ac57bbc1119448c62618d818c34e6cf09ac8a/687474703a2f2f6269742e6c792f75732d67726964"
 }
 ]

@@ -1097,5 +1097,11 @@
   "desc": "Updated US state Without DC, AK and HI"
   "contrib": "https://github.com/KWB4484",
   "ref_img": "https://camo.githubusercontent.com/d4fe7b96c874336c47c3b8037e1ac57bbc1119448c62618d818c34e6cf09ac8a/687474703a2f2f6269742e6c792f75732d67726964"
+},
+{
+  "name": "ru_federal_subjects_grid2",
+  "desc": "Federal Subjects of Russia",
+  "contrib": "https://github.com/katerinaalex",
+  "ref_img": "https://camo.githubusercontent.com/b2d23d5e6e913f84331cdbeb11e84045ea4dc6eb4f1d0c8176d25f9644db5379/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36382f52657075626c6963735f6f665f527573736961312e706e67"
 }
 ]

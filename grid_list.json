@@ -1103,5 +1103,11 @@
   "desc": "Federal Subjects of Russia",
   "contrib": "https://github.com/katerinaalex",
   "ref_img": "https://camo.githubusercontent.com/b2d23d5e6e913f84331cdbeb11e84045ea4dc6eb4f1d0c8176d25f9644db5379/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36382f52657075626c6963735f6f665f527573736961312e706e67"
+},
+{
+  "name": "us_ut_counties_grid1",
+  "desc": "Grid of Counties of Utah, United States"
+  "contrib": "https://github.com/raogeorge",
+  "ref_img": "https://camo.githubusercontent.com/a427fe0a52fc5eb6119dc40ab46d0adc09ddca708df3bb222b03af2c78aa7373/68747470733a2f2f7777772e776174657270726f6f6670617065722e636f6d2f7072696e7461626c652d6d6170732f636f756e74792d6d61702f7072696e7461626c652d757461682d636f756e74792d6d61702e676966"
 }
 ]

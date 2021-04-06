@@ -1094,7 +1094,7 @@
 },
 {
   "name": "us_state_without_DC_AK_HI_grid1",
-  "desc": "Updated US state Without DC, AK and HI"
+  "desc": "Updated US state Without DC, AK and HI",
   "contrib": "https://github.com/KWB4484",
   "ref_img": "https://camo.githubusercontent.com/d4fe7b96c874336c47c3b8037e1ac57bbc1119448c62618d818c34e6cf09ac8a/687474703a2f2f6269742e6c792f75732d67726964"
 },
@@ -1106,8 +1106,14 @@
 },
 {
   "name": "us_ut_counties_grid1",
-  "desc": "Grid of Counties of Utah, United States"
+  "desc": "Grid of Counties of Utah, United States",
   "contrib": "https://github.com/raogeorge",
   "ref_img": "https://camo.githubusercontent.com/a427fe0a52fc5eb6119dc40ab46d0adc09ddca708df3bb222b03af2c78aa7373/68747470733a2f2f7777772e776174657270726f6f6670617065722e636f6d2f7072696e7461626c652d6d6170732f636f756e74792d6d61702f7072696e7461626c652d757461682d636f756e74792d6d61702e676966"
+},
+{
+  "name": "in_state_ut_grid4",
+  "desc": "India states and union territories facet grid. Changes compared to previous grid: now the following union territories are included as well: Chandigarh, Delhi, Lakshadweep, Andaman and Nicobar Islands, Ladakh.",
+  "contrib": "https://github.com/rishabhshah-92",
+  "ref_img": "https://camo.githubusercontent.com/d57e0a13670197a6543782b4af69b3f13e1c5e577f3a95f084bfa90070735a8d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36392f496e6469615f7374617465735f616e645f756e696f6e5f7465727269746f726965735f6d61702e7376672f39303670782d496e6469615f7374617465735f616e645f756e696f6e5f7465727269746f726965735f6d61702e7376672e706e67"
 }
 ]

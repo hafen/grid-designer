@@ -1133,5 +1133,11 @@
   "desc": "Grid of Countries of North and South America",
   "contrib": "https://github.com/MathildeMousset",
   "ref_img": "https://camo.githubusercontent.com/923841a99aae6422918ccc3fdb9b472c521c6ba2a626f633464a6eec120bc248/68747470733a2f2f7777772e776f726c646f666d6170732e6e65742f7479706f3374656d702f696d616765732f6b617274652d6e6f72642d756e642d73756564616d6572696b612e6a7067"
+},
+{
+  "name": "us_nm_counties_grid1",
+  "desc": "Grid of Counties of New Mexico, United States",
+  "contrib": "https://github.com/ty-sanders",
+  "ref_img": "https://camo.githubusercontent.com/c534b8bfbdc08e7f7014d10a29f356e5a1361c63cd42acdbe267b4d8f6bf1658/68747470733a2f2f7777772e6e6d636f756e746965732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30322f636f756e74792d6d61702e706e67"
 }
 ]

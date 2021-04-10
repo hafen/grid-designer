@@ -1139,5 +1139,11 @@
   "desc": "Grid of Counties of New Mexico, United States",
   "contrib": "https://github.com/ty-sanders",
   "ref_img": "https://camo.githubusercontent.com/c534b8bfbdc08e7f7014d10a29f356e5a1361c63cd42acdbe267b4d8f6bf1658/68747470733a2f2f7777772e6e6d636f756e746965732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30322f636f756e74792d6d61702e706e67"
+},
+{
+  "name": "us_me_counties_grid1",
+  "desc": "Grid of Counties of Maine, United States",
+  "contrib": "https://github.com/dikbrown",
+  "ref_img": "https://camo.githubusercontent.com/709c3068befe3370eecfffae32e9126ca342bda17db6c8dd46d0f5ae653be84d/68747470733a2f2f7777772e6d61696e652e676f762f736f732f6b6964732f7468656d65732f6b6964732f696d616765732f636f6c6f72636f756e746965732e706e67"
 }
 ]

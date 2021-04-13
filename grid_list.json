@@ -1145,5 +1145,11 @@
   "desc": "Grid of Counties of Maine, United States",
   "contrib": "https://github.com/dikbrown",
   "ref_img": "https://camo.githubusercontent.com/709c3068befe3370eecfffae32e9126ca342bda17db6c8dd46d0f5ae653be84d/68747470733a2f2f7777772e6d61696e652e676f762f736f732f6b6964732f7468656d65732f6b6964732f696d616765732f636f6c6f72636f756e746965732e706e67"
+},
+{
+  "name": "cu_prov_grid1",
+  "desc": "Grid of Provinces of Cuba and Isla de la Juventud",
+  "contrib": "https://github.com/accostales",
+  "ref_img": "https://camo.githubusercontent.com/fd0de15fe071abf90a937e09475b1c875c6a683cbc86137fa7ac02d624f8081b/68747470733a2f2f7777772e66656c6c6f77736869702e636f6d2f6a617661782e66616365732e7265736f757263652f696d616765732f637562612f78637562612d6d61702d6f662d70726f76696e6365732e6a70672e7061676573706565642e69632e50756f794d465f4e74592e6a7067"
 }
 ]

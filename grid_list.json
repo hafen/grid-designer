@@ -1157,5 +1157,11 @@
   "desc": "Grid of Regions of Georgia",
   "contrib": "https://github.com/nasrashvilin",
   "ref_img": "https://camo.githubusercontent.com/cf5c346d7e88a2213a781692d25425c4bff37d16b47998912a3f069b30a17510/68747470733a2f2f676c6f62616c2d676f6f73652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f67656f726769612d6d61702e6a7067"
+},
+{
+  "name": "co_departments_grid3",
+  "desc": "Grid of Departments of Colombia",
+  "contrib": "https://github.com/JOTOR",
+  "ref_img": "https://camo.githubusercontent.com/33540f1a3278977c5612d6d0644edb5ea498498388426e974cc2a56a3a2321e7/68747470733a2f2f692e70696e696d672e636f6d2f343734782f64642f61382f35652f64646138356539323534373063623762346630626231366336303534653566392e6a7067"
 }
 ]

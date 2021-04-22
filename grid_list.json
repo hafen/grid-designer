@@ -1163,5 +1163,11 @@
   "desc": "Grid of Departments of Colombia",
   "contrib": "https://github.com/JOTOR",
   "ref_img": "https://camo.githubusercontent.com/33540f1a3278977c5612d6d0644edb5ea498498388426e974cc2a56a3a2321e7/68747470733a2f2f692e70696e696d672e636f6d2f343734782f64642f61382f35652f64646138356539323534373063623762346630626231366336303534653566392e6a7067"
+},
+{
+  "name": "gb_london_boroughs_grid2",
+  "desc": "Boroughs of London with name wrapped to fit grid",
+  "contrib": "https://github.com/ICAITC",
+  "ref_img": "https://camo.githubusercontent.com/3579533b4e7c63d10ec3d1fe484124e6ee5b013153ae098ef797c6b9ce64ae81/687474703a2f2f6f6e746865776f726c646d61702e636f6d2f756b2f636974792f6c6f6e646f6e2f6c6f6e646f6e2d626f726f756768732d6d61702e6a7067"
 }
 ]

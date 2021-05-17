@@ -1169,5 +1169,11 @@
   "desc": "Boroughs of London with name wrapped to fit grid",
   "contrib": "https://github.com/ICAITC",
   "ref_img": "https://camo.githubusercontent.com/3579533b4e7c63d10ec3d1fe484124e6ee5b013153ae098ef797c6b9ce64ae81/687474703a2f2f6f6e746865776f726c646d61702e636f6d2f756b2f636974792f6c6f6e646f6e2f6c6f6e646f6e2d626f726f756768732d6d61702e6a7067"
+},
+{
+  "name": "gb_sct_aberdeenshire_IZ_grid1",
+  "desc": "Grid of Scottish intermediate zones for Aberdeenshire",
+  "contrib": "https://github.com/waynegault",
+  "ref_img": "https://camo.githubusercontent.com/91047ae0eaf947a69ed38a6f9c49f08797515dd2c8b1d8540515c7ff301d59c2/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f5262353834336238323265303562653932336264373130376636303034616536653f72696b3d6568543737547439383455687767267069643d496d67526177"
 }
 ]

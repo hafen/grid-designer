@@ -1,0 +1,35 @@
+code,row,col,name
+JK,1,3,Jammu and Kashmir
+LA,1,4,Ladakh
+HP,2,4,Himachal Pradesh
+CH,2,3,Chandigarh
+PB,3,2,Punjab
+UK,3,4,Uttarakhand
+AR,3,8,Arunachal Pradesh
+HR,3,3,Haryana
+RJ,4,2,Rajasthan
+UP,4,4,Uttar Pradesh
+BR,4,5,Bihar
+SK,4,6,Sikkim
+AS,4,7,Assam
+NL,4,8,Nagaland
+DL,4,3,Delhi
+GJ,5,1,Gujarat
+MP,5,2,Madhya Pradesh
+JH,5,3,Jharkhand
+WB,5,5,West Bengal
+CG,5,4,Chhattisgarh
+ML,5,7,Meghalaya
+MN,5,8,Manipur
+MH,6,2,Maharashtra
+OD,6,4,Odisha
+TS,6,3,Telangana
+TR,6,7,Tripura
+MZ,6,8,Mizoram
+GA,7,2,Goa
+KA,7,3,Karnataka
+AP,7,4,Andhra Pradesh
+KL,8,3,Kerala
+TN,8,4,Tamil Nadu
+AN,8,6,Andaman and Nicobar Islands
+LD,8,1,Lakshadweep

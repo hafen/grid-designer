@@ -1,0 +1,61 @@
+row,col,code,name
+1,12,NL,Newfoundland and Labrador
+1,11,NS,Nova Scotia
+1,10,PE,Prince Edward Island
+1,9,NB,New Brunswick
+1,1,AK,Alaska
+2,12,ME,Maine
+2,11,NH,New Hampshire
+2,10,VT,Vermont
+2,8,QC,Quebec
+2,1,BC,British Columbia
+2,2,AB,Alberta
+2,3,SK,Saskatchewan
+2,5,MB,Manitoba
+2,7,ON,Ontario
+3,10,CT,Connecticut
+3,11,MA,Massachusetts
+3,9,NY,New York
+4,7,MI,Michigan
+4,5,MN,Minnesota
+4,2,MT,Montana
+4,10,NJ,New Jersey
+4,3,ND,North Dakota
+4,9,PA,Pennsylvania
+4,11,RI,Rhode Island
+4,4,SD,South Dakota
+4,1,WA,Washington
+4,6,WI,Wisconsin
+5,11,DE,Delaware
+5,2,ID,Idaho
+5,6,IL,Illinois
+5,7,IN,Indiana
+5,5,IA,Iowa
+5,4,NE,Nebraska
+5,8,OH,Ohio
+5,1,OR,Oregon
+5,9,VA,Virginia
+5,3,WY,Wyoming
+6,3,CO,Colorado
+6,4,KS,Kansas
+6,7,KY,Kentucky
+6,10,MD,Maryland
+6,5,MO,Missouri
+6,1,NV,Nevada
+6,9,NC,North Carolina
+6,6,TN,Tennessee
+6,2,UT,Utah
+6,8,WV,West Virginia
+7,7,AL,Alabama
+7,2,AZ,Arizona
+7,5,AR,Arkansas
+7,1,CA,California
+7,8,GA,Georgia
+7,6,MS,Mississippi
+7,3,NM,New Mexico
+7,4,OK,Oklahoma
+7,9,SC,South Carolina
+8,9,FL,Florida
+8,5,LA,Louisiana
+8,4,TX,Texas
+8,1,HI,Hawaii

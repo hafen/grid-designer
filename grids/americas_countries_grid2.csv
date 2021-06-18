@@ -1,0 +1,31 @@
+name,code,row,col
+Canada,CA,1,1
+Bahamas,BS,2,6
+Puerto Rico,PR,2,7
+United States,US,2,1
+Dominican Republic,DO,3,7
+Haiti,HT,3,6
+Cuba,CU,3,5
+Mexico,MX,3,1
+Jamaica,JM,4,5
+Belize,BZ,4,3
+Guatemala,GT,4,1
+Honduras,HN,4,2
+El Salvador,SV,5,1
+Nicaragua,NI,5,2
+Costa Rica,CR,6,2
+Panama,PA,6,3
+Trinidad & Tobago,TT,6,6
+Venezuela,VE,7,5
+Colombia,CO,7,4
+Guyana,GY,7,6
+Suriname,SR,7,7
+Ecuador,EC,8,4
+Brazil,BR,8,7
+Peru,PE,9,4
+Bolivia,BO,9,5
+Paraguay,PY,9,6
+Chile,CL,10,4
+Uruguay,UY,10,6
+Argentina,AR,10,5
+Falkland Islands,FK,11,5

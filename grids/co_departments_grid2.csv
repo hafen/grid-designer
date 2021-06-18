@@ -1,0 +1,34 @@
+row,col,name,code DANE
+1,11,Antioquia,5001
+1,10,Santander,68176
+1,9,Sucre,70670
+1,8,Casanare,85225
+2,9,Norte de Santander,54518
+2,8,Cundinamarca,25019
+2,7,Vaupes,97889
+2,6,Cordoba,23466
+3,6,Putumayo,86568
+3,5,Nariño,52110
+3,4,Atlantico,8001
+3,3,Bolivar,13268
+4,5,Valle del Cauca,76834
+4,4,Tolima,73152
+4,3,Caqueta,18460
+4,2,Amazonas,91460
+5,5,Boyaca,15806
+5,4,Cauca,19517
+5,3,Choco,27150
+5,2,Caldas,17001
+6,9,Magdalena,47720
+6,8,Cesar,20001
+6,7,Quindio,63130
+6,6,Meta,50150
+7,7,Huila,41001
+7,6,La Guajira,44001
+7,5,Risaralda,66001
+7,4,Arauca,81065
+8,8,Guainio,94001
+8,7,Vichada,99001
+8,6,Guaviare,95015
+8,5,"Archipielago de San Andres, Providencia y Santa Catalina",88564
+8,4,Bogota D.C.,11001

@@ -1205,5 +1205,11 @@
   "desc": "Districts for Canton of Vaud, Switzerland",
   "contrib": "https://github.com/vdes2020",
   "ref_img": "https://camo.githubusercontent.com/16199cbf5d9cb8a1df7b1b93c770c84c090512393d67cb3bc8a421888f3b6fa6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36342f4b617274655f4b616e746f6e5f57616164745f42657a69726b655f323030382e706e67"
+},
+{
+  "name": "us_ca_counties_FIPS_grid1",
+  "desc": "Grid of Counties of California, United States with FIPS codes",
+  "contrib": "https://github.com/ahcyip",
+  "ref_img": "https://camo.githubusercontent.com/00d6f0dbad1f2229b6f5a38bf0e61330e4f06220ea3e814868ba86c35687c263/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63372f43616c69666f726e69615f636f756e74795f6d61705f6c6567656e642e737667"
 }
 ]

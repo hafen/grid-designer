@@ -1235,5 +1235,11 @@
   "desc": "Grid of Departamentos of Bolivia",
   "contrib": "https://github.com/ccsuehara",
   "ref_img": "https://user-images.githubusercontent.com/12155945/128909328-951c92d2-b544-4ed8-a26b-64c14f267346.png"
+},
+{
+  "name": "us_il_counties_grid1",
+  "desc": "Grid of Counties of Illinois, United States",
+  "contrib": "https://github.com/amsutton",
+  "ref_img": "https://user-images.githubusercontent.com/71943602/131408950-e4a16ee9-9e23-4e83-8429-d58f1265d7db.png"
 }
 ]

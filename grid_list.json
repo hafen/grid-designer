@@ -1237,6 +1237,12 @@
   "ref_img": "https://user-images.githubusercontent.com/12155945/128909328-951c92d2-b544-4ed8-a26b-64c14f267346.png"
 },
 {
+  "name": "ca_us_prov_state_grid2",
+  "desc": "Grid of Provinces of Canada and States of United States",
+  "contrib": "https://github.com/semerson77",
+  "ref_img": "https://camo.githubusercontent.com/0b21a5323328a7168167b08a119ac1a1cf7695a803f95e00c591c1cf9c80116c/68747470733a2f2f6f6e746865776f726c646d61702e636f6d2f7573612f7573612d616e642d63616e6164612d6d61702e6a7067"
+},
+{
   "name": "us_il_counties_grid1",
   "desc": "Grid of Counties of Illinois, United States",
   "contrib": "https://github.com/amsutton",

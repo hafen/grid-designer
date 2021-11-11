@@ -1247,5 +1247,11 @@
   "desc": "Grid of Counties of Illinois, United States",
   "contrib": "https://github.com/amsutton",
   "ref_img": "https://user-images.githubusercontent.com/71943602/131408950-e4a16ee9-9e23-4e83-8429-d58f1265d7db.png"
+},
+{
+  "name": "tn_governorates_grid1",
+  "desc": "Grid of Governorates of Tunisia",
+  "contrib": "https://github.com/AminGhrabi",
+  "ref_img": "https://camo.githubusercontent.com/a9faef3983efdf07727d933cf58ba3bfc70879000c90285335196df485f1e00d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f417269616e615f696e5f54756e697369612e7376672f33323070782d417269616e615f696e5f54756e697369612e7376672e706e67"
 }
 ]

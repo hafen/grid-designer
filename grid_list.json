@@ -1253,5 +1253,11 @@
   "desc": "Grid of Governorates of Tunisia",
   "contrib": "https://github.com/AminGhrabi",
   "ref_img": "https://camo.githubusercontent.com/a9faef3983efdf07727d933cf58ba3bfc70879000c90285335196df485f1e00d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f417269616e615f696e5f54756e697369612e7376672f33323070782d417269616e615f696e5f54756e697369612e7376672e706e67"
+},
+{
+  "name": "gb_sct_glasgow_wards_grid1",
+  "desc": "Electoral Wards of Glasgow, Scotland",
+  "contrib": "https://github.com/nrennie",
+  "ref_img": "https://user-images.githubusercontent.com/42338476/141370162-f8387e9e-acda-4513-a492-fd821c5d11a7.jpeg"
 }
 ]

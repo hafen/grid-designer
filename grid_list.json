@@ -1259,5 +1259,11 @@
   "desc": "Electoral Wards of Glasgow, Scotland",
   "contrib": "https://github.com/nrennie",
   "ref_img": "https://user-images.githubusercontent.com/42338476/141370162-f8387e9e-acda-4513-a492-fd821c5d11a7.jpeg"
+},
+{
+  "name": "kr_provinces_grid1",
+  "desc": "Provinces of Republic of Korea",
+  "contrib": "https://github.com/statkclee",
+  "ref_img": "https://raw.githubusercontent.com/statkclee/spatial/gh-pages/data/geofacet/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD_%EC%A7%80%EB%8F%84.png"
 }
 ]

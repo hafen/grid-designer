@@ -1265,5 +1265,11 @@
   "desc": "Provinces of Republic of Korea",
   "contrib": "https://github.com/statkclee",
   "ref_img": "https://raw.githubusercontent.com/statkclee/spatial/gh-pages/data/geofacet/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD_%EC%A7%80%EB%8F%84.png"
+},
+{
+  "name": "kr_counties_districts_cities_grid1.csv",
+  "desc": "South Korean metropolitan cities' districts (gu), municipal cities (si), and counties (gun)",
+  "contrib": "https://github.com/chichead",
+  "ref_img": "https://user-images.githubusercontent.com/24468395/150449861-994c4fb9-4154-4427-83e7-07262205d533.png"
 }
 ]

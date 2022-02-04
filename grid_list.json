@@ -1267,9 +1267,15 @@
   "ref_img": "https://raw.githubusercontent.com/statkclee/spatial/gh-pages/data/geofacet/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD_%EC%A7%80%EB%8F%84.png"
 },
 {
-  "name": "kr_counties_districts_cities_grid1.csv",
+  "name": "kr_counties_districts_cities_grid1",
   "desc": "South Korean metropolitan cities' districts (gu), municipal cities (si), and counties (gun)",
   "contrib": "https://github.com/chichead",
   "ref_img": "https://user-images.githubusercontent.com/24468395/150449861-994c4fb9-4154-4427-83e7-07262205d533.png"
+},
+{
+  "name": "us_ok_counties_grid1",
+  "desc": "Grid of Counties of Oklahoma, United States",
+  "contrib": "https://github.com/andrewvanleuven",
+  "ref_img": "https://camo.githubusercontent.com/6c6972b82e897003ef730232a5cae5942c05db51116cc43ab4c8bbbba4869114/68747470733a2f2f67697367656f6772617068792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f4f6b6c61686f6d612d436f756e74792d4d61702e706e67"
 }
 ]

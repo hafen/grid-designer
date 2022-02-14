@@ -1277,5 +1277,11 @@
   "desc": "Grid of Counties of Oklahoma, United States",
   "contrib": "https://github.com/andrewvanleuven",
   "ref_img": "https://camo.githubusercontent.com/6c6972b82e897003ef730232a5cae5942c05db51116cc43ab4c8bbbba4869114/68747470733a2f2f67697367656f6772617068792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30322f4f6b6c61686f6d612d436f756e74792d4d61702e706e67"
+},
+{
+  "name": "us_dc_neighborhoods_grid1",
+  "desc": "Grid of Neighborhoods of District of Columbia, United States",
+  "contrib": "https://github.com/rexarski",
+  "ref_img": "https://camo.githubusercontent.com/5295984a23f8bfe10c8386754ed70e9bc42375c2d838cb266d8cf6a5fc7a6380/68747470733a2f2f706c616e6e696e672e64632e676f762f73697465732f64656661756c742f66696c65732f64632f73697465732f6f702f57617264735f7261737465722e706e67"
 }
 ]

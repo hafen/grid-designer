@@ -1,0 +1,25 @@
+row,col,code,name
+1,3,TN-17,Bizerte
+2,2,TN-21,Beja
+2,4,TN-12,Ariana
+2,3,TN-14,Mannouba
+2,6,TN-15,Nabeul
+3,1,TN-22,Jendouba
+3,4,TN-11,Tunis
+3,2,TN-24,Siliana
+3,5,TN-13,Ben Arous
+4,3,TN-41,Kairouan
+3,3,TN-16,Zaghouan
+4,4,TN-31,Sousse
+5,2,TN-23,Le Kef
+5,4,TN-33,Mahdia
+5,5,TN-32,Monastir
+6,3,TN-43,Sidi Bouzid
+6,2,TN-42,Kasserine
+6,4,TN-34,Sfax
+7,5,TN-51,Gabes
+7,1,TN-62,Tozeur
+8,3,TN-63,Kebili
+8,6,TN-52,Medenine
+8,2,TN-61,Gafsa
+9,4,TN-53,Tataouine

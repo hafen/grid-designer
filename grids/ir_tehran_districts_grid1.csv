@@ -1,0 +1,23 @@
+row,col,code,name,name_farsi
+1,4,1,District 1,منطقه 1
+2,1,22,District 22,منطقه 22
+2,2,5,District 5,منطقه 5
+2,3,2,District 2,منطقه 2
+2,4,3,District 3,منطقه 3
+2,6,4,District 4,منطقه 4
+2,5,8,District 8,منطقه 8
+3,4,7,District 7,منطقه 7
+3,1,21,District 21,منطقه 21
+3,3,6,District 6,منطقه 6
+3,5,13,District 13,منطقه 13
+4,2,9,District 9,منطقه 9
+4,3,10,District 10,منطقه 10
+4,4,11,District 11,منطقه 11
+4,5,12,District 12,منطقه 12
+4,6,14,District 14,منطقه 14
+5,5,16,District 16,منطقه 16
+5,3,17,District 17,منطقه 17
+5,2,18,District 18,منطقه 18
+5,4,19,District 19,منطقه 19
+5,6,15,District 15,منطقه 15
+6,5,20,District 20,منطقه 20

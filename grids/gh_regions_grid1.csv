@@ -1,0 +1,17 @@
+row,col,code,name
+1,1,GH-UW,Upper West
+1,2,GH-UE,Upper East
+2,2,GH-NE,North East
+2,1,GH-SV,Savannah
+2,3,GH-NP,Northern
+3,1,GH-BO,Bono
+3,2,GH-EP,Bono East
+3,3,GH-OT,Oti
+4,1,GH-AF,Ahafo
+4,2,GH-AH,Ashanti
+4,3,GH-EP,Eastern
+4,4,GH-TV,Volta
+5,1,GH-WN,Western North
+6,1,GH-WP,Western
+6,2,GH-CP,Central
+6,3,GH-AA,Greater Accra

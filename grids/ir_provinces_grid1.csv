@@ -1,0 +1,32 @@
+row,col,code,name,name_farsi
+1,4,AR,Ardabil,اردبیل
+1,3,EA,Eest Azerbijan,آذربایجان شرقی
+1,2,WA,West Azerbijan,آذربایجان غربی
+2,7,KS,North Khorasan,خراسان شمالی
+2,6,GO,Golestan,گلستان
+2,4,GI,Gilan,گیلان
+2,5,MN,Mazandaran,مازندران
+2,3,ZA,Zanjan,زنجان
+2,2,KD,Kurdistan,کردستان
+3,7,KV,Razavi Khorasan,خراسان رضوی
+3,4,AL,Alborz,البرز
+3,5,TE,Tehran,تهران
+3,6,SM,Semnan,سمنان
+3,2,BK,Kermanshah,کرمانشاه
+3,3,QZ,Qazvin,قزوین
+4,7,KJ,South Khorasan,خراسان جنوبی
+4,5,MK,Markazi,مرکزی
+4,6,QM,Qom,قم
+4,4,HD,Hamedan,همدان
+4,2,IL,Ilam,ایلام
+4,3,LO,Lorestan,لرستان
+5,5,ES,Esfahan,اصفهان
+5,6,YA,Yazd,یزد
+5,3,KZ,Khuzesan,خوزستان
+5,4,CM,Chaharmahal and Bakhtiari,چهارمحال و بختیاری
+6,4,KB,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد
+6,5,FA,Fars,فارس
+6,6,KE,Kerman,کرمان
+6,7,SB,Sistan and Baluchestan,سیستان و بلوچستان
+7,4,BS,Bushehr,بوشهر
+7,5,HG,Hormozgan,هرمزگان

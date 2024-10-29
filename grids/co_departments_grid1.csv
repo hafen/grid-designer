@@ -1,0 +1,33 @@
+row,col,name,code_GID_1,code_HASC_1
+1,3,Atlántico,COL.4_1,CO.AT
+2,2,Sucre,COL.28_1,CO.SU
+2,3,Magdalena,COL.19_1,CO.MA
+3,1,San Andrés y Providencia,COL.26_1,CO.SA
+3,2,Córdoba,COL.13_1,CO.CO
+3,3,Bolívar,COL.5_1,CO.BL
+4,1,Chocó,COL.12_1,CO.CH
+4,2,Antioquia,COL.2_1,CO.AN
+4,3,Santander,COL.27_1,CO.ST
+4,4,Norte de Santander,COL.22_1,CO.NS
+4,5,Arauca,COL.3_1,CO.AR
+4,6,La Guajira,COL.18_1,CO.LG
+5,1,Risaralda,COL.25_1,CO.RI
+5,2,Quindío,COL.24_1,CO.QD
+5,3,Cundinamarca,COL.14_1,CO.CU
+5,4,Boyacá,COL.6_1,CO.BY
+5,5,Cesar,COL.11_1,CO.CE
+5,6,Vichada,COL.32_1,CO.VD
+6,1,Cauca,COL.10_1,CO.CA
+6,2,Huila,COL.17_1,CO.HU
+6,3,Caldas,COL.7_1,CO.CL
+6,4,Meta,COL.20_1,CO.ME
+6,5,Casanare,COL.9_1,CO.CS
+6,6,Guainía,COL.15_1,CO.GN
+7,1,Nariño,COL.21_1,CO.NA
+7,2,Valle del Cauca,COL.30_1,CO.VC
+7,3,Caquetá,COL.8_1,CO.CQ
+7,4,Guaviare,COL.16_1,CO.GV
+7,5,Vaupés,COL.31_1,CO.VP
+8,3,Putumayo,COL.23_1,CO.PU
+8,4,Tolima,COL.29_1,CO.TO
+8,5,Amazonas,COL.1_1,CO.AM

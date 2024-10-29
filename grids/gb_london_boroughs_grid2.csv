@@ -1,0 +1,34 @@
+row,col,code,name,name_wrap
+1,5,E09000010,Enfield,Enfield
+2,4,E09000003,Barnet,Barnet
+2,5,E09000014,Haringey,Haringey
+2,3,E09000015,Harrow,Harrow
+2,6,E09000031,Waltham Forest,Waltham\nForest
+3,3,E09000005,Brent,Brent
+3,4,E09000007,Camden,Camden
+3,2,E09000009,Ealing,Ealing
+3,6,E09000012,Hackney,Hackney
+3,8,E09000016,Havering,Havering
+3,1,E09000017,Hillingdon,Hillingdon
+3,5,E09000019,Islington,Islington
+3,7,E09000026,Redbridge,Redbridge
+4,5,E09000001,City of London,City of\nLondon
+4,8,E09000002,Barking and Dagenham,Barking\nand\nDagenham
+4,2,E09000013,Hammersmith and Fulham,Hammersmith\nand Fulham
+4,1,E09000018,Hounslow,Hounslow
+4,3,E09000020,Kensington and Chelsea,Kensington\nand\nChelsea
+4,7,E09000025,Newham,Newham
+4,6,E09000030,Tower Hamlets,Tower\nHamlets
+4,4,E09000033,Westminster,Westminster
+5,8,E09000004,Bexley,Bexley
+5,7,E09000011,Greenwich,Greenwich
+5,4,E09000022,Lambeth,Lambeth
+5,6,E09000023,Lewisham,Lewisham
+5,2,E09000027,Richmond upon Thames,Richmond\nupon\nThames
+5,5,E09000028,Southwark,Southwark
+5,3,E09000032,Wandsworth,Wandsworth
+6,6,E09000006,Bromley,Bromley
+6,5,E09000008,Croydon,Croydon
+6,3,E09000021,Kingston upon Thames,Kingston\nupon\nThames
+6,4,E09000024,Merton,Merton
+7,4,E09000029,Sutton,Sutton

@@ -1,0 +1,17 @@
+row,col,code,name
+1,3,ARO,Aroostook
+3,4,PEN,Penobscot
+3,3,PIS,Piscataquis
+3,2,SOM,Somerset
+4,1,FRA,Franklin
+4,4,HAN,Hancock
+4,2,KEN,Kennebec
+4,3,WAL,Waldo
+4,5,WAS,Washington
+5,2,AND,Androscoggin
+5,3,KNO,Knox
+5,1,OXF,Oxford
+6,1,CUM,Cumberland
+6,3,LIN,Lincoln
+6,2,SAG,Sagadahoc
+7,1,YOR,York

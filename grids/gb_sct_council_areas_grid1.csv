@@ -1,0 +1,33 @@
+name,row,col,code
+Shetland Islands,1,5,GB-ZET
+Orkney Islands,2,4,GB-ORK
+Na h-Eileanan an Iar,3,1,GB-ELS
+Highland,3,3,GB-HLD
+Moray,3,4,GB-MRY
+Aberdeenshire,3,5,GB-ABE
+Aberdeen,3,6,BG-ABD
+Argyll & Bute,4,3,GB-AGB
+Angus,4,7,GB-ANS
+Perth & Kinross,4,5,GB-PKN
+Stirling,4,4,GB-STG
+Dundee,4,6,GB-DND
+West Dunbartonshire,5,3,GB-WDU
+East Dunbartonshire,5,4,GB-EDU
+Falkirk,5,5,GB-FAL
+Clackmannanshire,5,6,GB-CLK
+Fife,5,7,GB-FIF
+Renfrewshire,6,3,GB-RFW
+North Lanarkshire,6,6,GB-NLK
+Inverclyde,6,2,GB-IVC
+East Renfrewshire,6,4,GB-ERW
+Glasgow,6,5,GB-GLG
+West Lothian,6,7,GB-WLN
+Edinburgh,6,8,GB-EDH
+Midlothian,7,6,GB-MLN
+East Ayrshire,7,4,GB-EAY
+East Lothian,7,7,GB-ELN
+North Ayrshire,7,3,GB-NAY
+South Lanarkshire,7,5,GB-SLK
+Dumfries & Galloway,8,4,GB-DGY
+South Ayrshire,8,3,GB-SAY
+Scottish Borders,8,5,GB-SCB

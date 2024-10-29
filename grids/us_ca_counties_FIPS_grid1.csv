@@ -1,0 +1,59 @@
+name,code,row,col
+Siskiyou,6093,1,2
+Del Norte,6015,1,1
+Modoc,6049,1,4
+Humboldt,6023,2,1
+Trinity,6105,2,2
+Lassen,6035,2,5
+Shasta,6089,2,3
+Plumas,6063,2,4
+Tehama,6103,3,2
+Butte,6007,3,4
+Glenn,6021,3,3
+Sierra,6091,3,5
+Mendocino,6045,4,1
+Colusa,6011,4,3
+Nevada,6057,4,5
+Sutter,6101,4,4
+Yuba,6115,4,2
+Alpine,6003,5,7
+El Dorado,6017,5,6
+Lake,6033,5,3
+Placer,6061,5,5
+Yolo,6113,5,4
+Sonoma,6097,5,2
+Amador,6005,6,6
+Calaveras,6009,6,7
+Napa,6055,6,3
+Sacramento,6067,6,5
+Solano,6095,6,4
+Marin,6041,6,2
+Contra Costa,6013,7,4
+San Francisco,6075,7,2
+San Joaquin,6077,7,5
+Stanislaus,6099,7,6
+Tuolumne,6109,7,7
+Mono,6051,8,8
+Alameda,6001,8,4
+Mariposa,6043,8,7
+Merced,6047,8,6
+San Mateo,6081,8,2
+Santa Clara,6085,8,5
+Fresno,6019,9,8
+Madera,6039,9,7
+Monterey,6053,9,5
+San Benito,6069,9,6
+Santa Cruz,6087,9,3
+Kings,6031,10,7
+Tulare,6107,10,8
+San Luis Obispo,6079,10,6
+Inyo,6027,11,9
+Santa Barbara,6083,11,6
+Kern,6029,11,7
+San Bernardino,6071,11,8
+Los Angeles,6037,12,6
+Riverside,6065,12,8
+Ventura,6111,12,7
+Imperial,6025,12,9
+Orange,6059,13,7
+San Diego,6073,13,8

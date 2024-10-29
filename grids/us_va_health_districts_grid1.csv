@@ -1,0 +1,36 @@
+code,name,row,col
+3,Arlington,1,6
+1,Loudoun,1,4
+2,Fairfax,1,5
+4,Alexandria,2,6
+5,Lord Fairfax,2,3
+6,Prince William,2,5
+7,Rappahannock Rapidan,2,4
+8,Chickahominy,3,6
+9,Rappahannock,3,5
+11,Thomas Jefferson,3,4
+12,Central Shenandoah,3,3
+10,Three Rivers,3,7
+15,Central Virginia,4,3
+16,Chesterfield,4,4
+18,Henrico,4,6
+19,Peninsula,4,7
+20,Eastern Shore,4,8
+13,Alleghany,4,1
+17,Richmond,4,5
+14,Roanoke,4,2
+21,Norfolk,5,7
+22,Portsmouth,5,6
+23,Hampton,5,5
+27,Piedmont,5,4
+24,New River,5,2
+25,Cumberland Plateau,5,1
+26,West Piedmont,5,3
+30,Southside,6,4
+35,Crater,6,5
+33,Western Tidewater,6,6
+32,Chesapeake,6,7
+31,Virginia Beach,6,8
+34,Pittsylvania-Danville,6,3
+29,Mount Rogers,6,2
+28,Lenowisco,6,1

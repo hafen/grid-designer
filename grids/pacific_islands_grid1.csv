@@ -1,0 +1,23 @@
+name,code,row,col
+Northern Mariana Islands,MP,1,2
+Guam,GU,2,2
+Marshall Islands,MH,2,3
+Palau,PW,3,1
+Federated States of Micronesia,FM,3,2
+Nauru,NR,3,3
+Kiribati,KI,3,4
+Papua New Guinea,PG,4,2
+Solomon Islands,SB,4,3
+Tuvalu,TV,4,4
+Tokelau,TK,4,5
+Vanuatu,VU,5,3
+Wallis and Futuna,WF,5,4
+Samoa,WS,5,5
+American Samoa,AS,5,6
+New Caledonia,NC,6,3
+Fiji,FJ,6,4
+Tonga,TO,6,5
+Niue,NU,6,6
+Cook Islands,CK,6,7
+French Polynesia,PF,6,8
+Pitcairn Islands,PN,7,9

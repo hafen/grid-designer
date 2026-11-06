@@ -1,0 +1,25 @@
+name,name_en,code,code_iso,code_2,code_cne,row,col
+Nueva Esparta,Nueva Esparta,NES,VE-O,NE,"15",1,8
+Falcón,Falcon,FAL,VE-I,FA,"9",2,2
+La Guaira,La Guaira,LAG,VE-X,LG,"24",2,6
+Zulia,Zulia,ZUL,VE-V,ZU,"21",3,1
+Lara,Lara,LAR,VE-K,LA,"11",3,2
+Yaracuy,Yaracuy,YAR,VE-U,YA,"20",3,3
+Carabobo,Carabobo,CAR,VE-G,CA,"7",3,4
+Aragua,Aragua,ARA,VE-D,AR,"4",3,5
+Distrito Capital,Capital District,DCA,VE-A,DC,"1",3,6
+Anzoátegui,Anzoategui,ANZ,VE-B,AN,"2",3,7
+Sucre,Sucre,SUC,VE-R,SU,"17",3,8
+Trujillo,Trujillo,TRU,VE-T,TR,"19",4,2
+Portuguesa,Portuguesa,POR,VE-P,PO,"16",4,3
+Cojedes,Cojedes,COJ,VE-H,CO,"8",4,4
+Guárico,Guarico,GUA,VE-J,GU,"10",4,5
+Miranda,Miranda,MIR,VE-M,MI,"13",4,6
+Monagas,Monagas,MON,VE-N,MO,"14",4,7
+Delta Amacuro,Delta Amacuro,DAM,VE-Y,DA,"23",4,8
+Táchira,Tachira,TAC,VE-S,TA,"18",5,2
+Mérida,Merida,MER,VE-L,ME,"12",5,3
+Barinas,Barinas,BAR,VE-E,BA,"5",5,4
+Apure,Apure,APU,VE-C,AP,"3",5,5
+Bolívar,Bolivar,BOL,VE-F,BO,"6",5,6
+Amazonas,Amazonas,AMA,VE-Z,AM,"22",6,5

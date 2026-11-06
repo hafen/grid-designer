@@ -1,0 +1,17 @@
+name,code,code_iso,row,col
+Arica y Parinacota,"15",CL-AP,1,1
+Tarapacá,"01",CL-TA,2,1
+Antofagasta,"02",CL-AN,2,2
+Atacama,"03",CL-AT,3,1
+Coquimbo,"04",CL-CO,4,1
+Valparaíso,"05",CL-VS,5,1
+Metropolitana de Santiago,"13",CL-RM,5,2
+O'Higgins,"06",CL-LI,6,1
+Maule,"07",CL-ML,6,2
+Ñuble,"16",CL-NB,7,1
+Biobío,"08",CL-BI,7,2
+Araucanía,"09",CL-AR,8,1
+Los Ríos,"14",CL-LR,8,2
+Los Lagos,"10",CL-LL,9,1
+Aysén,"11",CL-AI,10,1
+Magallanes,"12",CL-MA,11,1

@@ -1,0 +1,35 @@
+name,code,row,col
+Heilongjiang,HLJ,1,8
+Inner Mongolia,NM,2,4
+Liaoning,LN,2,7
+Jilin,JL,2,8
+Xinjiang,XJ,3,1
+Ningxia,NX,3,3
+Shanxi,SX,3,4
+Hebei,HB,3,5
+Beijing,BJ,3,6
+Tianjin,TJ,3,7
+Qinghai,QH,4,2
+Gansu,GS,4,3
+Shaanxi,SX,4,4
+Henan,HN,4,5
+Shandong,SD,4,6
+Tibet,XZ,5,1
+Sichuan,SC,5,3
+Chongqing,CQ,5,4
+Hubei,HB,5,5
+Anhui,AH,5,6
+Jiangsu,JS,5,7
+Yunnan,YN,6,3
+Guizhou,GZ,6,4
+Hunan,HN,6,5
+Jiangxi,JX,6,6
+Zhejiang,ZJ,6,7
+Shanghai,SH,6,8
+Guangxi,GX,7,4
+Guangdong,GD,7,5
+Fujian,FJ,7,6
+Macau,MC,8,5
+Hong Kong,HK,8,6
+Taiwan,TW,8,8
+Hainan,HN,9,4

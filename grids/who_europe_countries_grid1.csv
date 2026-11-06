@@ -1,0 +1,54 @@
+name,code,row,col
+Iceland,IS,1,1
+Norway,NO,1,5
+Sweden,SE,1,6
+Finland,FI,1,7
+Estonia,EE,2,8
+Ireland,IE,3,1
+United Kingdom,GB,3,2
+Netherlands,NL,3,4
+Denmark,DK,3,5
+Latvia,LV,3,8
+Belgium,BE,4,4
+Germany,DE,4,5
+Czechia,CZ,4,6
+Poland,PL,4,7
+Lithuania,LT,4,8
+Belarus,BY,4,9
+Russian Federation,RU,4,10
+France,FR,5,3
+Luxembourg,LU,5,4
+Austria,AT,5,5
+Slovakia,SK,5,6
+Serbia,RS,5,7
+Romania,RO,5,8
+Ukraine,UA,5,9
+Kazakhstan,KAZ,5,11
+Portugal,PT,6,1
+Spain,ES,6,2
+Andorra,AD,6,3
+Switzerland,CH,6,4
+Slovenia,SVN,6,5
+Hungary,HU,6,6
+Bosnia and Herzegovina,BA,6,7
+Bulgaria,BG,6,8
+Moldova,MD,6,9
+Georgia,GEO,6,10
+Kyrgyz Republic,KGZ,6,11
+Tajikistan,TJK,6,12
+Monaco,MCO,7,3
+San Marino,SMR,7,4
+Croatia,HR,7,6
+Montenegro,ME,7,7
+North Macedonia,MKD,7,8
+Turkey,TR,7,9
+Armenia,AR,7,10
+Azerbaijan,AZ,7,11
+Turkmenistan,TKM,7,12
+Malta,MT,8,3
+Italy,IT,8,4
+Albania,AL,8,7
+Greece,GR,8,8
+Cyprus,CY,8,10
+Uzbekistan,UZB,8,12
+Israel,ISR,9,11

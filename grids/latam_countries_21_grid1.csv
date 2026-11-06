@@ -1,0 +1,22 @@
+name,code,row,col
+Mexico,MEX,1,1
+Cuba,CUB,1,4
+Guatemala,GTM,2,2
+Haiti,HTI,2,5
+Dominican Republic,DOM,2,6
+Honduras,HND,3,3
+El Salvador,SLV,4,2
+Nicaragua,NIC,4,3
+Costa Rica,CRI,5,3
+Panama,PAN,6,4
+Venezuela,VEN,6,6
+Colombia,COL,7,5
+Guyana,GUY,7,7
+Ecuador,ECU,8,4
+Peru,PER,10,4
+Brazil,BRA,10,7
+Bolivia,BOL,11,5
+Chile,CHL,12,4
+Paraguay,PRY,12,6
+Uruguay,URY,13,6
+Argentina,ARG,14,5

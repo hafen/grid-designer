@@ -1337,5 +1337,346 @@
   "desc": "Grid of the districts of the state of Haryana, India",
   "contrib": "https://github.com/Aditya-Dahiya",
   "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/in_haryana_districts_grid1.png"
+},
+{
+  "name": "np_districts_grid1",
+  "desc": "Grid of the 75 districts of Nepal, as defined before 2017",
+  "contrib": "https://github.com/aledemogr",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Provinces_of_Nepal_2015.png"
+},
+{
+  "name": "id_provinces_grid1",
+  "desc": "Grid of the 34 provinces of Indonesia, as defined before 2022",
+  "contrib": "https://github.com/dioariadi",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/id_provinces_grid1.png"
+},
+{
+  "name": "mr_regions_grid1",
+  "desc": "Grid of the regions of Mauritania, with Nouakchott split into three",
+  "contrib": "https://github.com/lvcooper",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/mr_regions_grid1.png"
+},
+{
+  "name": "ru_krasnoyarsk_districts_grid1",
+  "desc": "Grid of the districts of Krasnoyarsk Krai, Russia, with names in Russian",
+  "contrib": "https://github.com/materov",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Map_Krasnoyarsk_Krai.png"
+},
+{
+  "name": "us_pa_philadelphia_zips_grid1",
+  "desc": "Grid of the zip codes of Philadelphia, Pennsylvania",
+  "contrib": "https://github.com/armchairepi",
+  "ref_img": ""
+},
+{
+  "name": "world_fao_regions_grid1",
+  "desc": "Grid of the world regions used by the FAO",
+  "contrib": "https://github.com/Aditya-Dahiya",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/world_fao_regions_grid1.png"
+},
+{
+  "name": "cd_provinces_grid1",
+  "desc": "Grid of the 26 provinces of the Democratic Republic of the Congo",
+  "contrib": "https://github.com/sinayokoa",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/cd_provinces_grid1.png"
+},
+{
+  "name": "cd_provinces_grid2",
+  "desc": "Alternative grid of the 26 provinces of the Democratic Republic of the Congo",
+  "contrib": "https://github.com/Rene-Jubile",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/cd_provinces_grid1.png"
+},
+{
+  "name": "cd_provinces_grid3",
+  "desc": "Alternative grid of the 26 provinces of the Democratic Republic of the Congo",
+  "contrib": "https://github.com/hannahslater",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/cd_provinces_grid1.png"
+},
+{
+  "name": "latam_countries_18_grid1",
+  "desc": "Grid of the 18 presidential republics of Latin America commonly used in political science",
+  "contrib": "https://github.com/pablohernandezb",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/latam_countries_18_grid1.png"
+},
+{
+  "name": "latam_countries_20_grid1",
+  "desc": "Grid of 20 Latin American countries, adding Cuba and Haiti to the 18 presidential republics",
+  "contrib": "https://github.com/pablohernandezb",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/latam_countries_20_grid1.png"
+},
+{
+  "name": "latam_countries_21_grid1",
+  "desc": "Grid of 21 Latin American countries",
+  "contrib": "https://github.com/asaha2211",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/latam_countries_21_grid1.png"
+},
+{
+  "name": "us_principal_aquifers_grid1",
+  "desc": "Grid of the principal aquifers of the United States, as defined by the USGS",
+  "contrib": "https://github.com/rebeccasomerville",
+  "ref_img": ""
+},
+{
+  "name": "us_co_counties_grid1",
+  "desc": "Grid of the counties of Colorado",
+  "contrib": "https://github.com/uriellomeli",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_co_counties_grid1.png"
+},
+{
+  "name": "no_counties_grid3",
+  "desc": "Alternative grid of the 11 counties of Norway in use from 2020 to 2023",
+  "contrib": "https://github.com/javiereliomedina",
+  "ref_img": ""
+},
+{
+  "name": "gr_nuts2_grid1",
+  "desc": "Grid of the NUTS 2 regions of Greece, with names in English and Greek",
+  "contrib": "https://github.com/Stavrakoudis",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/gr_nuts2_grid1.png"
+},
+{
+  "name": "ua_region_grid2",
+  "desc": "Grid of the regions of Ukraine without the cities of Kyiv and Sevastopol",
+  "contrib": "https://github.com/AliceUborevich",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/ua_region_grid2.png"
+},
+{
+  "name": "it_lombardia_provinces_grid1",
+  "desc": "Grid of the provinces of Lombardy, Italy",
+  "contrib": "https://github.com/PackedC",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/it_lombardia_provinces_grid1.png"
+},
+{
+  "name": "de_hydrogeological_regions_grid1",
+  "desc": "Grid of the major hydrogeological regions (hydrogeologische Großräume) of Germany",
+  "contrib": "https://github.com/MxNl",
+  "ref_img": ""
+},
+{
+  "name": "uk_itl2_regions_grid1",
+  "desc": "Grid of the 41 International Territorial Level 2 regions of the UK",
+  "contrib": "https://github.com/TheGalgut",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/uk_itl2_regions_grid1.png"
+},
+{
+  "name": "us_wildfire_crisis_landscapes_grid1",
+  "desc": "Grid of the USDA Forest Service Wildfire Crisis Strategy priority landscapes",
+  "contrib": "https://github.com/codyevers",
+  "ref_img": ""
+},
+{
+  "name": "us_ny_nyc_boroughs_grid1",
+  "desc": "Grid of the five boroughs of New York City",
+  "contrib": "https://github.com/thisislangdong",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_ny_nyc_boroughs_grid1.png"
+},
+{
+  "name": "us_ny_nyc_boroughs_grid2",
+  "desc": "Alternative grid of the five boroughs of New York City",
+  "contrib": "https://github.com/kamari321",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_ny_nyc_boroughs_grid2.png"
+},
+{
+  "name": "us_il_counties_grid2",
+  "desc": "Alternative grid of the counties of Illinois",
+  "contrib": "https://github.com/XinyuW-hub",
+  "ref_img": "https://user-images.githubusercontent.com/71943602/131408950-e4a16ee9-9e23-4e83-8429-d58f1265d7db.png"
+},
+{
+  "name": "aus_gccsa_grid1",
+  "desc": "Grid of the Australian Bureau of Statistics Greater Capital City and Rest of State areas",
+  "ref_img": ""
+},
+{
+  "name": "ru_federal_subjects_grid3",
+  "desc": "Grid of the federal subjects claimed by Russia in 2022, including Crimea and Sevastopol, with English names and ISO 3166-2 codes",
+  "contrib": "https://github.com/abessudnov",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Republics_of_Russia1.png"
+},
+{
+  "name": "us_pa_counties_grid2",
+  "desc": "Alternative grid of the counties of Pennsylvania",
+  "contrib": "https://github.com/lyriodendron",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pennsylvania_counties_map.png"
+},
+{
+  "name": "br_mg_microregions_grid1",
+  "desc": "Grid of the microregions of Minas Gerais, Brazil",
+  "contrib": "https://github.com/joao-med",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/br_mg_microregions_grid1.png"
+},
+{
+  "name": "us_ca_sf_zips_grid1",
+  "desc": "Grid of the main zip codes of San Francisco, California",
+  "contrib": "https://github.com/jonspring",
+  "ref_img": ""
+},
+{
+  "name": "us_nca4_regions_grid1",
+  "desc": "Grid of the regions in the Fourth US National Climate Assessment",
+  "contrib": "https://github.com/vargovargo",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_nca4_regions_grid1.png"
+},
+{
+  "name": "us_mn_counties_grid2",
+  "desc": "Alternative grid of the counties of Minnesota",
+  "contrib": "https://github.com/chadrent",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_mn_counties_grid2.png"
+},
+{
+  "name": "kr_seoul_district_grid3",
+  "desc": "Alternative grid of the districts of Seoul, with names in Korean",
+  "contrib": "https://github.com/2stndard",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Map_Seoul_districts_de.png"
+},
+{
+  "name": "kr_seoul_district_grid4",
+  "desc": "Alternative grid of the districts of Seoul, with names in English and Korean",
+  "contrib": "https://github.com/sigmafelix",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Map_Seoul_districts_de.png"
+},
+{
+  "name": "who_europe_countries_grid1",
+  "desc": "Grid of the 53 countries in the WHO European Region",
+  "contrib": "https://github.com/hshwong",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/who_europe_countries_grid1.png"
+},
+{
+  "name": "br_states_grid4",
+  "desc": "Alternative grid of the states of Brazil",
+  "contrib": "https://github.com/gmendesb",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/br_states_grid4.png"
+},
+{
+  "name": "ru_spb_districts_grid1",
+  "desc": "Grid of the districts of Saint Petersburg, Russia, with names in Russian",
+  "contrib": "https://github.com/neuhart-da",
+  "ref_img": ""
+},
+{
+  "name": "us_new_england_counties_grid1",
+  "desc": "Grid of the counties of the New England states",
+  "contrib": "https://github.com/ahcyip",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_new_england_counties_grid1.gif"
+},
+{
+  "name": "bird_conservation_regions_grid1",
+  "desc": "Grid of the Bird Conservation Regions of the US and Canada",
+  "contrib": "https://github.com/BrandonEdwards",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/bird_conservation_regions_grid1.png"
+},
+{
+  "name": "medieval_islamic_provinces_grid1",
+  "desc": "Grid of the major provinces of the medieval Islamic world in the 10th and 11th centuries",
+  "contrib": "https://github.com/maximromanov",
+  "ref_img": ""
+},
+{
+  "name": "br_am_health_regions_grid1",
+  "desc": "Grid of the health regions of the state of Amazonas, Brazil",
+  "contrib": "https://github.com/danielbarrosbio",
+  "ref_img": ""
+},
+{
+  "name": "ar_buenosaires_conurbano_grid2",
+  "desc": "Grid of the Buenos Aires metropolitan area, using a 25-unit definition of the conurbano",
+  "contrib": "https://github.com/SantiagoEsteban",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Great_buenos_aires.png"
+},
+{
+  "name": "africa_countries_grid2",
+  "desc": "Alternative grid of the countries of Africa, with island nations placed closer to their locations",
+  "contrib": "https://github.com/cdtrich",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/africa_countries_grid2.png"
+},
+{
+  "name": "eeg_biosemi_64_channels_grid1",
+  "desc": "Grid of the electrode positions on a 64-channel BioSemi EEG cap",
+  "contrib": "https://github.com/jaromilfrossard",
+  "ref_img": ""
+},
+{
+  "name": "sg_towns_grid1",
+  "desc": "Grid of the towns of Singapore",
+  "contrib": "https://github.com/jwteng",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/sg_towns_grid1.png"
+},
+{
+  "name": "us_de_counties_grid1",
+  "desc": "Grid of the counties of Delaware",
+  "contrib": "https://github.com/stedy",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_de_counties_grid1.png"
+},
+{
+  "name": "south_america_countries_grid1",
+  "desc": "Grid of the 13 countries and territories of South America",
+  "contrib": "https://github.com/jmcastagnetto",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/south_america_countries_grid1.png"
+},
+{
+  "name": "co_departments_grid4",
+  "desc": "Alternative grid of the departments of Colombia",
+  "contrib": "https://github.com/danipmf22",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/co_departments_grid4.png"
+},
+{
+  "name": "co_departments_grid5",
+  "desc": "Alternative grid of the departments of Colombia and Bogotá, with ISO 3166-2 and DANE codes",
+  "contrib": "https://github.com/jsbarriosmunal",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/co_departments_grid5.png"
+},
+{
+  "name": "china_prov_grid3",
+  "desc": "Alternative grid of the provinces of China",
+  "contrib": "https://github.com/xingqi0116",
+  "ref_img": "https://user-images.githubusercontent.com/36669758/37746305-f5c138f4-2d4f-11e8-8a48-2a21513ea828.png"
+},
+{
+  "name": "china_prov_grid4",
+  "desc": "Grid of 31 provinces of mainland China, with names in English and Chinese, used by the GCAM model",
+  "contrib": "https://github.com/fightingGCAM",
+  "ref_img": "https://user-images.githubusercontent.com/36669758/37746305-f5c138f4-2d4f-11e8-8a48-2a21513ea828.png"
+},
+{
+  "name": "mx_state_grid4",
+  "desc": "Alternative grid of the states of Mexico, using the layout proposed by Victor M. Garcia-Guerrero",
+  "contrib": "https://github.com/vicmgg",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/mx_state_grid4.png"
+},
+{
+  "name": "in_state_ut_grid5",
+  "desc": "Alternative grid of the states and major union territories of India, including Ladakh",
+  "contrib": "https://github.com/JediPro",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54297966-1f4ad980-4575-11e9-8e8c-5006c91fccd1.png"
+},
+{
+  "name": "india_grid3",
+  "desc": "Alternative grid of the states of India",
+  "contrib": "https://github.com/JediPro",
+  "ref_img": "https://cloud.githubusercontent.com/assets/11698124/26569168/dd2ca86c-44bd-11e7-9d74-af919522f7b1.jpg"
+},
+{
+  "name": "in_state_ut_grid6",
+  "desc": "Alternative grid of all states and union territories of India",
+  "contrib": "https://github.com/Gulshan630",
+  "ref_img": "https://user-images.githubusercontent.com/1275592/54297966-1f4ad980-4575-11e9-8e8c-5006c91fccd1.png"
+},
+{
+  "name": "us_state_contiguous_grid2",
+  "desc": "Alternative grid of the contiguous US states and the District of Columbia",
+  "contrib": "https://github.com/YasharMakhtoumi",
+  "ref_img": "https://images7.alphacoders.com/687/687665.jpg"
+},
+{
+  "name": "us_states_territories_grid3",
+  "desc": "Alternative grid of the US states, the District of Columbia and the territories",
+  "contrib": "https://github.com/rogin123",
+  "ref_img": ""
+},
+{
+  "name": "us_ga_counties_grid2",
+  "desc": "Alternative, more compact grid of the counties of Georgia",
+  "contrib": "https://github.com/pjm407",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_ga_counties_grid2.png"
 }
 ]

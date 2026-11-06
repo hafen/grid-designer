@@ -1,0 +1,35 @@
+name,name_indo,code,row,col
+Aceh,Aceh,AC,1,1
+North Sumatra,Sumatera Utara,SU,2,2
+West Sumatra,Sumatera Barat,SB,3,2
+Riau,Riau,RI,3,3
+Riau Islands,Kepulauan Riau,KR,3,5
+North Kalimantan,Kalimantan Utara,KU,3,9
+Gorontalo,Gorontalo,GO,3,13
+North Sulawesi,Sulawesi Utara,SA,3,14
+North Maluku,Maluku Utara,MU,3,16
+Jambi,Jambi,JA,4,3
+West Kalimantan,Kalimantan Barat,KB,4,8
+East Kalimantan,Kalimantan Timur,KI,4,9
+Central Sulawesi,Sulawesi Tengah,ST,4,13
+Bengkulu,Bengkulu,BE,5,3
+South Sumatra,Sumatera Selatan,SS,5,4
+Bangka Belitung,Bangka Belitung,BB,5,6
+Central Kalimantan,Kalimantan Tengah,KT,5,8
+South Kalimantan,Kalimantan Selatan,KS,5,9
+West Sulawesi,Sulawesi Barat,SR,5,12
+South Sulawesi,Sulawesi Selatan,SN,5,13
+Southeast Sulawesi,Sulawesi Tenggara,SG,5,14
+Maluku,Maluku,MA,5,17
+West Papua,Papua Barat,PB,5,19
+Lampung,Lampung,LA,6,4
+Papua,Papua,PA,6,20
+Jakarta,DKI Jakarta,JK,7,6
+Banten,Banten,BT,8,5
+West Java,Jawa Barat,JB,8,6
+Central Java,Jawa Tengah,JT,8,7
+East Java,Jawa Timur,JI,8,8
+Bali,Bali,BA,8,10
+West Nusa Tenggara,Nusa Tenggara Barat,NB,8,12
+East Nusa Tenggara,Nusa Tenggara Timur,NT,8,14
+Yogyakarta,DI Yogyakarta,YO,9,7

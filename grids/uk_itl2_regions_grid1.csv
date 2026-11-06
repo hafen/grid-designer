@@ -1,0 +1,42 @@
+name,code,row,col
+Highlands and Islands,TLM6,3,4
+North Eastern Scotland,TLM5,3,5
+West Central Scotland,TLM8,4,4
+Eastern Scotland,TLM7,4,5
+Southern Scotland,TLM9,5,4
+Northern Ireland,TLN0,6,2
+Northumberland,TLC2,6,5
+Cumbria,TLD1,7,4
+Tees Valley and Durham,TLC1,7,5
+Lancashire,TLD4,8,4
+West Yorkshire,TLE4,8,5
+North Yorkshire,TLE2,8,6
+Merseyside,TLD7,9,3
+Greater Manchester,TLD3,9,4
+South Yorkshire,TLE3,9,5
+East Yorkshire and Northern Lincolnshire,TLE1,9,6
+Cheshire,TLD6,10,4
+Derbyshire and Nottinghamshire,TLF1,10,5
+Lincolnshire,TLF3,10,6
+Shropshire and Staffordshire,TLG2,11,4
+Leicestershire Rutland and Northamptonshire,TLF2,11,5
+West Wales and The Valleys,TLL1,12,2
+East Wales,TLL2,12,3
+West Midlands,TLG3,12,4
+Bedfordshire and Hertfordshire,TLH2,12,5
+East Anglia,TLH1,12,6
+Herefordshire Worcestershire and Warwickshire,TLG1,13,4
+Outer London - West and North West,TLI7,13,5
+Outer London - East and North East,TLI5,13,6
+Essex,TLH3,13,7
+Gloucestershire Wiltshire and Bath/Bristol area,TLK1,14,3
+Berkshire Buckinghamshire and Oxfordshire,TLJ1,14,4
+Inner London - West,TLI3,14,5
+Inner London - East,TLI4,14,6
+Devon,TLK4,15,2
+Dorset and Somerset,TLK2,15,3
+Hampshire and Isle of Wight,TLJ3,15,4
+Surrey East and West Sussex,TLJ2,15,5
+Outer London - South,TLI6,15,6
+Kent,TLJ4,15,7
+Cornwall and Isles of Scilly,TLK3,16,1

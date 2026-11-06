@@ -1,0 +1,27 @@
+name,code_objectid,code,row,col
+Sud Ubangi,8008,RDC SUB,1,4
+Nord Ubangi,8004,RDC NUB,1,5
+Bas Uele,7986,RDC BUE,1,6
+Haut Uele,8005,RDC HUE,1,7
+Equateur,7987,RDC EQT,2,3
+Mongala,8002,RDC MON,2,4
+Tshopo,8010,RDC TSH,2,5
+Nord Kivu,8003,RDC NKV,2,6
+Ituri,7990,RDC ITU,2,7
+Maindombe,8000,RDC MAI,3,3
+Tshuapa,8011,RDC TPA,3,4
+Sankuru,8006,RDC SAN,3,5
+Maniema,8001,RDC MAN,3,6
+Kongo Central,7995,RDC KCT,4,1
+Kinshasa,7994,RDC KIN,4,2
+Kwilu,7997,RDC KWI,4,3
+Kasai,7991,RDC KAS,4,4
+Kasai Oriental,7993,RDC KOR,4,5
+Sud Kivu,8007,RDC SKV,4,6
+Kwango,7996,RDC KWA,5,3
+Kasai Central,7992,RDC KCE,5,5
+Lomami,7998,RDC LOM,5,6
+Tanganyika,8009,RDC TAN,5,7
+Lualaba,7999,RDC LUA,6,5
+Haut Lomami,7989,RDC HLO,6,6
+Haut Katanga,7988,RDC HKA,7,7

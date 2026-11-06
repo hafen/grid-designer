@@ -1,0 +1,25 @@
+name,code,row,col
+Columbia Plateau basin-fill,8,1,1
+Columbia Plateau basaltic-rock,7,1,2
+Glacial,24,1,4
+Glacial and New England Crystalline Rock,23,1,8
+Pacific Northwest basaltic-rock,14,2,1
+Pacific Northwest basin-fill,15,2,2
+Mississippian,12,2,6
+Valley and Ridge carbonate-rock,21,2,7
+Central Valley,5,3,1
+Basin and Range carbonate-rock,2,3,2
+High Plains,10,3,4
+Alluvial,22,3,6
+Piedmont and Blue Ridge carbonate-rock,16,3,7
+California Coastal Basin,4,4,1
+Basin and Range basin-fill,1,4,2
+Rio Grande,17,4,3
+Edwards-Trinity,9,4,4
+Mississippi Embayment,11,4,5
+Northern Atlantic Coastal Plain,13,4,7
+Texas Coastal Uplands,20,5,4
+Southeastern Coastal Plain,18,5,6
+Surficial,19,5,7
+Coastal Lowlands,6,6,4
+Biscayne,3,6,7

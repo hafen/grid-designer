@@ -1,0 +1,65 @@
+name,code,row,col
+Moffat,"081",1,1
+Routt,107,1,2
+Jackson,"057",1,3
+Larimer,"069",1,4
+Weld,123,1,5
+Logan,"075",1,6
+Sedgwick,115,1,7
+Phillips,"095",1,8
+Rio Blanco,103,2,1
+Eagle,"037",2,2
+Summit,117,2,3
+Grand,"049",2,4
+Boulder,"013",2,5
+Broomfield,"014",2,6
+Adams,"001",2,7
+Morgan,"087",2,8
+Garfield,"045",3,1
+Pitkin,"097",3,2
+Gilpin,"047",3,3
+Jefferson,"059",3,4
+Denver,"031",3,5
+Arapahoe,"005",3,6
+Washington,121,3,7
+Yuma,125,3,8
+Mesa,"077",4,1
+Gunnison,"051",4,2
+Lake,"065",4,3
+Clear Creek,"019",4,4
+Douglas,"035",4,5
+Elbert,"039",4,6
+Lincoln,"073",4,7
+Kit Carson,"063",4,8
+Montrose,"085",5,1
+Delta,"029",5,2
+Chaffee,"015",5,3
+Park,"093",5,4
+Teller,119,5,5
+El Paso,"041",5,6
+Crowley,"025",5,7
+Cheyenne,"017",5,8
+San Miguel,113,6,1
+Ouray,"091",6,2
+Hinsdale,"053",6,3
+Saguache,109,6,4
+Fremont,"043",6,5
+Huerfano,"055",6,6
+Otero,"089",6,7
+Kiowa,"061",6,8
+Dolores,"033",7,1
+San Juan,111,7,2
+Mineral,"079",7,3
+Rio Grande,105,7,4
+Custer,"027",7,5
+Pueblo,101,7,6
+Bent,"011",7,7
+Prowers,"099",7,8
+Montezuma,"083",8,1
+La Plata,"067",8,2
+Archuleta,"007",8,3
+Conejos,"021",8,4
+Alamosa,"003",8,5
+Costilla,"023",8,6
+Las Animas,"071",8,7
+Baca,"009",8,8

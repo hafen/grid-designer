@@ -1,0 +1,33 @@
+name,code_gid_1,code_hasc_1,row,col
+San Andrés y Providencia,COL.26_1,CO.SA,1,2
+La Guajira,COL.18_1,CO.LG,1,5
+Atlántico,COL.4_1,CO.AT,2,3
+Magdalena,COL.19_1,CO.MA,2,4
+Cesar,COL.11_1,CO.CE,2,5
+Córdoba,COL.13_1,CO.CO,3,2
+Sucre,COL.28_1,CO.SU,3,3
+Bolívar,COL.5_1,CO.BL,3,4
+Norte de Santander,COL.22_1,CO.NS,3,5
+Chocó,COL.12_1,CO.CH,4,2
+Antioquia,COL.2_1,CO.AN,4,3
+Santander,COL.27_1,CO.ST,4,4
+Arauca,COL.3_1,CO.AR,4,5
+Quindío,COL.24_1,CO.QD,5,1
+Risaralda,COL.25_1,CO.RI,5,2
+Caldas,COL.7_1,CO.CL,5,3
+Boyacá,COL.6_1,CO.BY,5,4
+Casanare,COL.9_1,CO.CS,5,5
+Vichada,COL.32_1,CO.VD,5,6
+Valle del Cauca,COL.30_1,CO.VC,6,1
+Tolima,COL.29_1,CO.TO,6,2
+Cundinamarca,COL.14_1,CO.CU,6,3
+Meta,COL.20_1,CO.ME,6,4
+Guainía,COL.15_1,CO.GN,6,5
+Cauca,COL.10_1,CO.CA,7,1
+Huila,COL.17_1,CO.HU,7,2
+Caquetá,COL.8_1,CO.CQ,7,3
+Guaviare,COL.16_1,CO.GV,7,4
+Vaupés,COL.31_1,CO.VP,7,5
+Nariño,COL.21_1,CO.NA,8,2
+Putumayo,COL.23_1,CO.PU,8,3
+Amazonas,COL.1_1,CO.AM,8,4

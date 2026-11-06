@@ -1,0 +1,33 @@
+name,name_official,code,code_abbr,code_iso,code_abbr_official,row,col
+Baja California,Baja California,2,BC,BCN,BC,1,1
+Sonora,Sonora,26,SON,SON,Son.,1,2
+Chihuahua,Chihuahua,8,CHIH,CHH,Chih.,1,3
+Coahuila,Coahuila de Zaragoza,5,COAH,COA,Coah.,1,4
+Nuevo León,Nuevo León,19,NL,NLE,NL,1,5
+Tamaulipas,Tamaulipas,28,TAM,TAM,Tamps.,1,6
+Baja California Sur,Baja California Sur,3,BCS,BCS,BCS,2,1
+Sinaloa,Sinaloa,25,SIN,SIN,Sin.,2,3
+Durango,Durango,10,DGO,DUR,Dgo.,2,4
+Zacatecas,Zacatecas,32,ZAC,ZAC,Zac.,2,5
+San Luis Potosí,San Luis Potosí,24,SLP,SLP,SLP,2,6
+Nayarit,Nayarit,18,NAY,NAY,Nay.,3,3
+Aguascalientes,Aguascalientes,1,AGS,AGU,Ags.,3,4
+Guanajuato,Guanajuato,11,GTO,GUA,Gto.,3,5
+Hidalgo,Hidalgo,13,HGO,HID,Hgo.,3,6
+Colima,Colima,6,COL,COL,Col.,4,3
+Jalisco,Jalisco,14,JAL,JAL,Jal.,4,4
+Querétaro,Querétaro,22,QRO,QUE,Qro.,4,5
+México,México,15,MEX,MEX,Mex.,4,6
+Tlaxcala,Tlaxcala,29,TLAX,TLA,Tlax.,4,7
+Yucatán,Yucatán,31,YUC,YUC,Yuc.,4,10
+Quintana Roo,Quintana Roo,23,QROO,ROO,Q. Roo,4,11
+Michoacán,Michoacán de Ocampo,16,MICH,MIC,Mich.,5,4
+Morelos,Morelos,17,MOR,MOR,Mor.,5,5
+Ciudad de México,Ciudad de México,9,CDMX,CMX,CDMX,5,6
+Puebla,Puebla,21,PUE,PUE,Pue.,5,7
+Veracruz,Veracruz de Ignacio de la Llave,30,VER,VER,Ver.,5,8
+Tabasco,Tabasco,27,TAB,TAB,Tab.,5,9
+Campeche,Campeche,4,CAMP,CAM,Camp.,5,10
+Guerrero,Guerrero,12,GRO,GRO,Gro.,6,6
+Oaxaca,Oaxaca,20,OAX,OAX,Oax.,6,7
+Chiapas,Chiapas,7,CHPS,CHP,Chis.,6,8

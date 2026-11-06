@@ -1,0 +1,26 @@
+name_en,name,code_hasc,code_iso,code_fips,row,col
+Chernihiv,Чернігівська,CH,74,UP02,1,5
+Sumy,Сумська,SM,59,UP21,1,6
+Volyn,Волинська,VO,"07",UP24,2,2
+Rivne,Рівненська,RV,56,UP19,2,3
+Zhytomyr,Житомирська,ZT,18,UP27,2,4
+Kiev,Київська,KV,32,UP13,2,5
+Poltava,Полтавська,PL,53,UP18,2,6
+Kharkiv,Харківська,KK,63,UP07,2,7
+Lviv,Львівська,LV,46,UP15,3,1
+Ternopil,Тернопільська,TP,61,UP22,3,2
+Khmelnitsky,Хмельницька,KM,68,UP09,3,3
+Cherkasy,Черкаська,CK,71,UP01,3,4
+Kirovohrad,Кіровоградська,KH,35,UP10,3,5
+Dnipropetrovsk,Дніпропетровська,DP,12,UP04,3,6
+Donetsk,Донецька,DT,14,UP05,3,7
+Luhansk,Луганська,LH,"09",UP14,3,8
+Zakarpattia,Закарпатська,ZK,21,UP25,4,1
+Ivano-Frankivsk,Івано-Франківська,IF,26,UP06,4,2
+Chernivtsi,Чернівецька,CV,77,UP03,4,3
+Vinnytsia,Вінницька,VI,"05",UP23,4,4
+Mykolaiv,Миколаївська,MY,48,UP16,4,5
+Kherson,Херсонська,KS,65,UP08,4,6
+Zaporizhia,Запорізька,ZP,23,UP26,4,7
+Odessa,Одеська,OD,51,UP17,5,4
+Crimea AR,АР Крим,KR,43,UP11,5,6

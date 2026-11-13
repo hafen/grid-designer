@@ -1678,5 +1678,35 @@
   "desc": "Alternative, more compact grid of the counties of Georgia",
   "contrib": "https://github.com/pjm407",
   "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/us_ga_counties_grid2.png"
+},
+{
+  "name": "ch_cantons_grid3",
+  "desc": "Alternative grid of the cantons of Switzerland, with names in the local language, German, French, Italian and English",
+  "contrib": "https://github.com/AlexanderAriu",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/ch_cantons_grid3.png"
+},
+{
+  "name": "us_state_without_DC_grid4",
+  "desc": "Grid of the 50 US states without DC, with Alaska and Hawaii in the bottom row",
+  "contrib": "https://github.com/nosheal",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Map_of_USA_with_state_names.svg"
+},
+{
+  "name": "ie_counties_grid4",
+  "desc": "Alternative grid of the counties of Ireland, with Tipperary split into North and South. Codes are the car number plate abbreviations",
+  "contrib": "https://github.com/Connoll",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ireland_trad_counties_named.svg"
+},
+{
+  "name": "ro_counties_grid4",
+  "desc": "Alternative grid of the counties (județe) of Romania, including Bucharest",
+  "contrib": "https://github.com/bogdanantonescu",
+  "ref_img": "https://raw.githubusercontent.com/hafen/grid-designer/master/img/ro_counties_grid4.png"
+},
+{
+  "name": "us_state_without_DC_AK_HI_grid2",
+  "desc": "Grid of the 48 contiguous US states without DC",
+  "contrib": "https://github.com/artercalvin",
+  "ref_img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Map_of_USA_with_state_names.svg"
 }
 ]

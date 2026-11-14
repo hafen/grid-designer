@@ -1,0 +1,27 @@
+name,code,row,col
+Sembawang,SEMBAWANG,1,3
+Woodlands,WOODLANDS,2,2
+Yishun,YISHUN,2,4
+Punggol,PUNGGOL,2,5
+Choa Chu Kang,CHOA CHU KANG,3,1
+Bukit Panjang,BUKIT PANJANG,3,2
+Sengkang,SENGKANG,3,5
+Hougang,HOUGANG,3,6
+Pasir Ris,PASIR RIS,3,7
+Bukit Batok,BUKIT BATOK,4,2
+Bishan,BISHAN,4,4
+Ang Mo Kio,ANG MO KIO,4,5
+Serangoon,SERANGOON,4,6
+Tampines,TAMPINES,4,7
+Jurong West,JURONG WEST,5,1
+Toa Payoh,TOA PAYOH,5,5
+Geylang,GEYLANG,5,6
+Jurong East,JURONG EAST,6,2
+Bukit Timah,BUKIT TIMAH,6,3
+Kallang/Whampoa,KALLANG/WHAMPOA,6,5
+Bedok,BEDOK,6,7
+Clementi,CLEMENTI,7,2
+Central Area,CENTRAL AREA,7,4
+Marine Parade,MARINE PARADE,7,6
+Queenstown,QUEENSTOWN,8,3
+Bukit Merah,BUKIT MERAH,8,4

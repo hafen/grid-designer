@@ -1,0 +1,88 @@
+name,code,row,col
+Kittson County,Kittson County,1,1
+Roseau County,Roseau County,1,2
+Lake of the Woods County,Lake of the Woods County,1,4
+Koochiching County,Koochiching County,1,5
+Saint Louis County,Saint Louis County,1,8
+Lake County,Lake County,1,10
+Cook County,Cook County,1,11
+Marshall County,Marshall County,2,1
+Polk County,Polk County,3,1
+Pennington County,Pennington County,3,3
+Carlton County,Carlton County,3,7
+Red Lake County,Red Lake County,4,3
+Itasca County,Itasca County,4,6
+Norman County,Norman County,5,1
+Mahnomen County,Mahnomen County,5,2
+Clearwater County,Clearwater County,5,3
+Beltrami County,Beltrami County,5,4
+Clay County,Clay County,6,1
+Becker County,Becker County,6,2
+Hubbard County,Hubbard County,6,4
+Cass County,Cass County,6,5
+Aitkin County,Aitkin County,6,6
+Wilkin County,Wilkin County,7,1
+Otter Tail County,Otter Tail County,7,2
+Wadena County,Wadena County,7,4
+Crow Wing County,Crow Wing County,7,5
+Mille Lacs County,Mille Lacs County,7,6
+Kanabec County,Kanabec County,7,7
+Pine County,Pine County,7,8
+Traverse County,Traverse County,8,1
+Grant County,Grant County,8,2
+Douglas County,Douglas County,8,3
+Todd County,Todd County,8,4
+Morrison County,Morrison County,8,5
+Isanti County,Isanti County,8,7
+Chisago County,Chisago County,8,8
+Stevens County,Stevens County,9,2
+Pope County,Pope County,9,3
+Stearns County,Stearns County,9,4
+Benton County,Benton County,9,5
+Anoka County,Anoka County,9,7
+Washington County,Washington County,9,8
+Big Stone County,Big Stone County,10,1
+Swift County,Swift County,10,2
+Sherburne County,Sherburne County,10,5
+Wright County,Wright County,10,6
+Ramsey County,Ramsey County,10,7
+Lac qui Parle County,Lac qui Parle County,11,1
+Chippewa County,Chippewa County,11,2
+Kandiyohi County,Kandiyohi County,11,3
+Meeker County,Meeker County,11,4
+McLeod County,McLeod County,11,5
+Carver County,Carver County,11,6
+Hennepin County,Hennepin County,11,7
+Yellow Medicine County,Yellow Medicine County,12,1
+Renville County,Renville County,12,3
+Sibley County,Sibley County,12,5
+Scott County,Scott County,12,6
+Dakota County,Dakota County,12,8
+Lincoln County,Lincoln County,13,1
+Lyon County,Lyon County,13,2
+Redwood County,Redwood County,13,3
+Brown County,Brown County,13,4
+Nicollet County,Nicollet County,13,5
+Le Sueur County,Le Sueur County,13,6
+Rice County,Rice County,13,7
+Goodhue County,Goodhue County,13,8
+Wabasha County,Wabasha County,13,9
+Pipestone County,Pipestone County,14,1
+Murray County,Murray County,14,2
+Cottonwood County,Cottonwood County,14,3
+Watonwan County,Watonwan County,14,4
+Blue Earth County,Blue Earth County,14,5
+Waseca County,Waseca County,14,6
+Steele County,Steele County,14,7
+Dodge County,Dodge County,14,8
+Olmsted County,Olmsted County,14,9
+Winona County,Winona County,14,10
+Rock County,Rock County,15,1
+Nobles County,Nobles County,15,2
+Jackson County,Jackson County,15,3
+Martin County,Martin County,15,4
+Faribault County,Faribault County,15,5
+Freeborn County,Freeborn County,15,6
+Mower County,Mower County,15,7
+Fillmore County,Fillmore County,15,8
+Houston County,Houston County,15,9

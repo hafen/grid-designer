@@ -1,0 +1,23 @@
+name,code,row,col
+Northern Europe,NE,1,3
+Northern America,NA,2,1
+Western Europe,WE,2,2
+Eastern Europe,EE,2,3
+Southern Europe,SE,2,4
+Eastern Asia,EA,2,6
+Caribbean,CB,3,1
+Western Africa,WAF,3,2
+Northern Africa,NAF,3,3
+Western Asia,WA,3,4
+Central Asia,CA,3,5
+Central America,CM,4,1
+Middle Africa,MAF,4,2
+Eastern Africa,EAF,4,3
+Southern Asia,SIA,4,5
+South-eastern Asia,SA,4,6
+South America,SMA,5,1
+Southern Africa,SAF,5,3
+Melanesia,MEL,5,5
+Micronesia,MIC,5,6
+Australia and New Zealand,ANZ,6,5
+Polynesia,POL,6,6

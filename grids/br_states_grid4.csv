@@ -1,0 +1,28 @@
+name,code,row,col
+Roraima,RR,1,2
+Amapá,AP,1,3
+Maranhão,MA,1,4
+Piauí,PI,1,5
+Acre,AC,2,1
+Amazonas,AM,2,2
+Pará,PA,2,3
+Tocantins,TO,2,4
+Bahia,BA,2,5
+Ceará,CE,2,6
+Rio Grande do Norte,RN,2,7
+Rondônia,RO,3,2
+Mato Grosso,MT,3,3
+Distrito Federal,DF,3,4
+Minas Gerais,MG,3,5
+Alagoas,AL,3,6
+Paraíba,PB,3,7
+Mato Grosso do Sul,MS,4,3
+Goiás,GO,4,4
+Espírito Santo,ES,4,5
+Sergipe,SE,4,6
+Pernambuco,PE,4,7
+Paraná,PR,5,3
+São Paulo,SP,5,4
+Rio de Janeiro,RJ,5,5
+Santa Catarina,SC,6,4
+Rio Grande do Sul,RS,7,4

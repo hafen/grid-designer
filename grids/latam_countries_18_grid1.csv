@@ -1,0 +1,19 @@
+name,name_es,name_pt,code,code_iso3,row,col
+Mexico,México,México,MX,MEX,1,1
+Guatemala,Guatemala,Guatemala,GT,GTM,2,2
+El Salvador,El Salvador,El Salvador,SV,SLV,3,2
+Honduras,Honduras,Honduras,HN,HND,3,3
+Dominican Republic,República Dominicana,República Dominicana,DO,DOM,3,7
+Nicaragua,Nicaragua,Nicarágua,NI,NIC,4,3
+Costa Rica,Costa Rica,Costa Rica,CR,CRI,5,4
+Panama,Panamá,Panamá,PA,PAN,5,5
+Colombia,Colombia,Colômbia,CO,COL,6,6
+Venezuela,Venezuela,Venezuela,VE,VEN,6,7
+Ecuador,Ecuador,Equador,EC,ECU,7,6
+Bolivia,Bolivia,Bolívia,BO,BOL,7,7
+Brazil,Brasil,Brasil,BR,BRA,7,8
+Peru,Perú,Peru,PE,PER,8,6
+Paraguay,Paraguay,Paraguai,PY,PRY,8,7
+Chile,Chile,Chile,CL,CHL,9,6
+Uruguay,Uruguay,Uruguai,UY,URY,9,7
+Argentina,Argentina,Argentina,AR,ARG,10,7
